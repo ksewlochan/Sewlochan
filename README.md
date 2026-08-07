@@ -1,2 +1,2 @@
 # Sewlochan
-The Sewlochan home page
+The Sewlochan home page (README.md)
