@@ -1,1 +1,8 @@
 remote_theme: just-the-docs/just-the-docs
+
+# External navigation links in the left sidebar
+nav_external_links:
+  - title: Test
+    url: https://ksewlochan.github.io/Test/
+    opens_in_new_tab: true
+    hide_icon: false
