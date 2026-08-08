@@ -8,14 +8,17 @@ nav_external_links:
     url: https://www.sewlochan.com
     opens_in_new_tab: true
     hide_icon: false
+    
   - title: Bolynn (old)
     url: https://www.bolynn.com
     opens_in_new_tab: true
     hide_icon: false
+    
   - title: Sylakin (dead)
     url: https://www.sylakin.com
     opens_in_new_tab: true
     hide_icon: false
+    
   - title: Test
     url: https://ksewlochan.github.io/Test/
     opens_in_new_tab: true
