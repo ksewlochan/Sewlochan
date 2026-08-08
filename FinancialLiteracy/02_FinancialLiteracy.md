@@ -4,7 +4,7 @@ title: Financial Literacy
 nav_order: 2
 ---
 
-# Your Financial Journey
+# Your Financial Journey {: .no_toc }
 
 Some ideas to guide, navigate and support your financial journey.
 
