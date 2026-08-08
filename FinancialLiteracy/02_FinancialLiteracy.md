@@ -38,54 +38,6 @@ Note that the pursuit of money is the root of all evil.
 
 ## Levels of Financial Independence
 
-#### 00 Financial Dependency
-- Debt and living expenses greater than your income
-
-#### 01 Financial Solvency
-- Current on debt payments
-- Meet financial commitments without outside help
-
-#### 02 Financial Stability
-- Built three-to-six-month emergency fund
-
-#### 03 Debt Freedom
-- Could be no debt or just no mortgage or no credit card
-
-#### 04 Coasting Financial Independence
-- Also known as
-	- Freedom from Employer
-	- Barista Financial Independence
-	- Agency
-- Could step down from a higher paying job to a lower paying job that you enjoy more
-- Have enough invested that will grow to a level that is good enough for retirement at a pre-determined age, even if no more is added to the investment
-- So can coast through to retirement
-
-#### 05 Financial Security
-- Cash flow from investments can provide your basic survival expenses
-- Food, water, shelter, clothing, insurance
-- Just survival
-
-#### 06 Financial Flexibility
-- Live off current cash flow assuming that you have a flexible spending plan to account for market fluctuations
-- Roughly half of full financial independence
-
-#### 07 Financial Independence
-- 4% rule - https://en.wikipedia.org/wiki/Trinity_study 
-- You have saved 25x your annual expenses
-- 100,000 \* 25 = 2,500,000 
-- 2,500,000 \* 4% = 100,000
-
-#### 08 Financial Freedom
-- Can add in more life goals than previous level
-- Add in some dreams
-
-#### 09 Financial Abundance
-- Cash flow from investment is more than you will even need
-- 3x financial freedom number
-
-Reference: https://www.youtube.com/watch?v=kDSHHiFMJ_I 
-
-
 | Number | Name                                | Description                                                                                                                                                                                                                                                                                                                                                                      |
 | :----: | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   00   | **Financial Dependency**            | Debt and living expenses greater than your income                                                                                                                                                                                                                                                                                                                                |
@@ -99,7 +51,7 @@ Reference: https://www.youtube.com/watch?v=kDSHHiFMJ_I
 |   08   | **Financial Freedom**               | Can add in more life goals than previous level<br>Add in some dreams                                                                                                                                                                                                                                                                                                             |
 |   09   | **Financial Abundance**             | Cash flow from investment is more than you will even need<br>3x financial freedom number                                                                                                                                                                                                                                                                                         |
 
-
+Reference: [https://www.youtube.com/watch?v=kDSHHiFMJ_I ](https://www.youtube.com/watch?v=kDSHHiFMJ_I )
 
 
 ## Executive Summary
@@ -136,7 +88,28 @@ https://www.rbcgam.com/en/ca/learn-plan/retirement-resources/the-importance-of-s
 |     **Your Contribution:** | $12,000                                              | $36,000                                                 | $48,000               |
 | **Total Interest Earned:** | $128,481                                             | $85,997                                                 | $214,481              |
 |        **Overall Growth:** | 1,171%                                               | 339%                                                    | 547%                  |
-https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/ 
+
+
+
+New table
+
+|                        | Scenario A                                         | Scenario B                                            | Scenario C           |
+| ---------------------- | -------------------------------------------------- | ----------------------------------------------------- | -------------------- |
+| Description            | Invest for 10 years.<br>Then nothing for 30 years. | Do nothing for 10 years.<br>Then invest for 30 years. | Invest for 40 years. |
+| Monthly Amount         | $100                                               | $100                                                  | $100                 |
+| Annual Interest Rate   | 7%                                                 | 7%                                                    | 7%                   |
+| Interest Compounded    | Monthly                                            | Monthly                                               | Monthly              |
+| At The End of 40 Years | $140,480                                           | $121,997                                              | $262,481             |
+| Your Contributions     | $12,000                                            | $36,000                                               | $48,000              |
+| Total Interest Earned  | $128,481                                           | $85,997                                               | $214,481             |
+| Overall Growth         | 1,171%                                             | 339%                                                  | 547%                 |
+
+
+
+
+
+
+[https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/ ](https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/ )
 
 Key Take Away
 - Investing for 10 years and then doing nothing is better than doing nothing for 10 years and then investing for 30 years
