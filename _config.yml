@@ -1,6 +1,26 @@
 remote_theme: just-the-docs/just-the-docs
 
+#
 # External navigation links in the left sidebar
+#
+nav_external_links:
+  - title: Sewlochan (old)
+    url: https://www.sewlochan.com
+    opens_in_new_tab: true
+    hide_icon: false
+
+nav_external_links:
+  - title: Bolynn (old)
+    url: https://www.bolynn.com
+    opens_in_new_tab: true
+    hide_icon: false
+
+nav_external_links:
+  - title: Sylakin (dead)
+    url: https://www.sylakin.com
+    opens_in_new_tab: true
+    hide_icon: false
+
 nav_external_links:
   - title: Test
     url: https://ksewlochan.github.io/Test/
