@@ -4,7 +4,7 @@ title: Financial Literacy
 nav_order: 2
 ---
 
-# Your Financial Journey {: .no_toc }
+# Your Financial Journey
 
 Some ideas to guide, navigate and support your financial journey.
 
@@ -151,6 +151,115 @@ The concept is to create five bank accounts to help you automatically manage you
 | 04  | **Short Term Savings** | Takes less than 12 months to reach<br>Upgrades - cell phones, purse, etc.<br>Special Occasions - Xmas, Birthdays,Anniversaries<br>Small Travel or Events<br>Annual Expenses |
 | 05  | **Long Term Savings**  | Takes more than 12 months to reach<br>Down payments<br>Cars<br>Homes<br>etc.<br>Big Travel<br>Wedding<br>Baby                                                               |
 
+## Plan
 
+- Create your initial plan
+- Does not have to be complex
+- You will edit and update it many times over your lifetime
+- Start with the basics
+- When do you want to retire
+- How much will your annual expenses be when you retire - take a guess
+- How much money do you have to save each year to get to this retirement goal
+
+## Budget
+
+- Create a list of your monthly expenses
+- This will tell you how much money you need in your Monthly Expenses Bank Account at the start of the month to pay all your bills for the month
+- You do not need to budget every small item – make sure that the big items are covered
+- Ensure that your own savings is the most important, and first, item you budget for
+- Each year end download your bank account and credit card statement to CSV and do a spreadsheet analysis to see where you spent your money
+- This will let you know if you need to adjust and will give you your annual expense needs.
+- 25x your annual expenses is your retirement number
+
+## Paycheque
+
+- Let’s assume you get paid twice a month
+- Directly off your paycheuque take advantage of your employer’s benefits as much as you can and/or makes sense - don't leave money on the table
+- Automatically deposit your net pay into your Chequing Bank Account
+- Set up your money transfers to be automatic – the less that you have to worry about it, the better
+- Put half your monthly expenses into your Monthly Expenses Bank Account – so that when you get to the start of the next month you have cash in this account to pay all bills
+- Transfer money to your various savings goals
+- Once all your planned transfers are made, the money left in your Chequing Bank Account, is your free money – enjoy life
+
+## Savings Goals
+
+Payoff Debt
+- Pay off any debt that you may have
+
+Emergency Fund
+- Build your emergency fund until you have a few months of emergency cash.
+- If you have TFSA room, use your TFSA to hold your emergency fund to avoid taxes.
+
+TFSA
+- If you are making less than $50K per year, maximize your TFSA first
+
+RRSP
+- Maximize your RRSP next
+
+Extra Savings
+- Save for any other things that you may want – vacations, cars, etc.
+
+## Emergency Fund
+
+- Life is unpredictable
+- Job loss or other significant factors could impact your financials
+- Having an emergency fund to protect yourself is essential
+- Determine your one-month expenses
+- Save money to cover one months of expenses
+	- Then three months
+	- Then six months
+- This money should be cash, not an investment
+- Saved in a high interest savings account
+- Or in a TFSA – as cash – to avoid paying taxes, if you have the room
+
+## Investing Definitions
+
+| Term                       | Definition                                                                              |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| Stock                      | A part ownership in a company.                                                          |
+| Fund                       | A collection of stocks.                                                                 |
+| Index                      | A collection of stocks that represent a market segment.                                 |
+| Index Fund                 | A fund that mimics an index.                                                            |
+| ETF (Exchange Traded Fund) | A fund (or an index fund) that is traded on the stock market.                           |
+| DRIP                       | Dividend Re-Investment Plan – automatically re-invest dividends to purchase more units. |
+| SIP                        | Systematic Investment Plan – regular (weekly, biweekly, monthly, etc.) purchases.       |
+| Rebalance                  | Adjust your mix of investments to achieve your target allocation.                       |
+
+## Mutual Funds vs Index Funds vs ETFs
+
+|                                | Mutual Funds                                       | Index Mutual Funds                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | ETFs (Exchange Traded Fund)                                                                                                                                                                                                                                                                                      |
+| ------------------------------ | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Big Achievement                | Groups of stocks                                   | Group of stocks that just mimics an index and bought on the stock exchange at the end of the day.<br>No need for fancy strategies.                                                                                                                                                                                                                                                                                                                                                                                                                                               | Group of stocks that are traded on the stock exchange through out the day.                                                                                                                                                                                                                                       |
+| Tracks                         | Varies                                             | An index                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Varies but often an index                                                                                                                                                                                                                                                                                        |
+| Managed                        | Actively                                           | Passively                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Depends whether it is based on a mutual fund or an index fund                                                                                                                                                                                                                                                    |
+| Trades                         | End of day                                         | End of day                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | During the day                                                                                                                                                                                                                                                                                                   |
+| Management Expense Ratio (MER) | High – ~1% to ~2%                                  | Low – ~0.36% to ~0.41%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Lower yet - ~0.12% to ~0.25%                                                                                                                                                                                                                                                                                     |
+| Transaction Fees               | Depends on online brokerage - usually nothing      | Depends on online brokerage - usually nothing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Zero to $9.99 per trade, depending on the online brokerage                                                                                                                                                                                                                                                       |
+| Ease of Trading                | Orders can be placed in dollar amounts at any time | Orders can be placed in dollar amounts at any time                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Often have to buy whole shares unless the brokerage offers fractional shares.                                                                                                                                                                                                                                    |
+| Automatic Monthly Investments  | Yes                                                | Yes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Typically no, but depends on the online brokerage                                                                                                                                                                                                                                                                |
+| Rebalancing                    | Depends on the fund                                | Depends on the fund                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Depends on the fund                                                                                                                                                                                                                                                                                              |
+| Examples                       |                                                    | [TDB900](https://www.td.com/ca/en/asset-management/funds/solutions/mutual-funds/fundcard?fundId=3261&fundname=TD-Canadian-Index-Fund---e), [TDB902](https://www.td.com/ca/en/asset-management/funds/solutions/mutual-funds/fundcard?fundId=3270&fundname=TD-U.S.-Index-Fund---e), [TDB909](https://www.td.com/ca/en/asset-management/funds/solutions/mutual-funds/fundcard?fundId=4817&fundname=TD-Canadian-Bond-Index-Fund---e), [TDB911](https://www.td.com/ca/en/asset-management/funds/solutions/mutual-funds/fundcard?fundId=4877&fundname=TD-International-Index-Fund---e) | [VEQT](https://www.vanguard.ca/en/product/etf/asset-allocation/9692/vanguard-all-equity-etf-portfolio), [VGRO](https://www.vanguard.ca/en/product/etf/asset-allocation/9579/vanguard-growth-etf-portfolio), [VBAL](https://www.vanguard.ca/en/product/etf/asset-allocation/9578/vanguard-balanced-etf-portfolio) |
+[https://www.youtube.com/watch?v=vGcOGYkttI4 ](https://www.youtube.com/watch?v=vGcOGYkttI4 )
+
+[https://canadiancouchpotato.com/getting-started ](https://canadiancouchpotato.com/getting-started )
+
+
+## Growth
+
+Your investments generally have one of three ways to grow.
+### Interest
+- Guaranteed return from loaning someone your money
+- Fully taxed
+
+### Dividends
+- A company sharing some of their profits with you (an owner of the company)
+- Preferentially taxed; and in the case of eligible Canadian dividends may not be taxed at all until after ~$50k
+- [https://www.taxtips.ca/taxrates/canada.htm](https://www.taxtips.ca/taxrates/canada.htm)
+
+### Capital Gains
+- The value of the company getting higher and thus the stock price getting higher
+- 50% is not taxed
+- [https://www.wealthsimple.com/en-ca/learn/capital-gains-tax-canada#what_is_a_capital_gain_or_capital_loss](https://www.wealthsimple.com/en-ca/learn/capital-gains-tax-canada#what_is_a_capital_gain_or_capital_loss)
+- [https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037/capital-gains.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037/capital-gains.html)
 
 
