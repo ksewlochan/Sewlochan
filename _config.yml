@@ -23,3 +23,9 @@ nav_external_links:
     url: https://ksewlochan.github.io/Test/
     opens_in_new_tab: true
     hide_icon: false
+
+#
+# Add README.md to the exclusion list
+#
+exclude:
+  - README.md
