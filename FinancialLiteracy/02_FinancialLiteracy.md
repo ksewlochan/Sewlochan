@@ -8,6 +8,9 @@ nav_order: 2
 
 Some ideas to guide, navigate and support your financial journey.
 
+- Table of Contents
+{:toc}
+
 # Motivation
 
 The goal of this book is to get you to financial independence.
@@ -75,39 +78,18 @@ We Will End Up With
 - Start late and you lose out to the advantages.
 - Compunding can allow your money to earn more than your annual salary for you.
 
-https://www.rbcgam.com/en/ca/learn-plan/retirement-resources/the-importance-of-starting-early/detail
+[https://www.rbcgam.com/en/ca/learn-plan/retirement-resources/the-importance-of-starting-early/detail](https://www.rbcgam.com/en/ca/learn-plan/retirement-resources/the-importance-of-starting-early/detail)
 
-
-|                            | Scenario A                                           | Scenario B                                              | Scenario C            |
-| -------------------------: | ---------------------------------------------------- | ------------------------------------------------------- | --------------------- |
-|           **Description:** | - Invest for 10 Years<br>- Then Nothing for 30 Years | - Do Nothing for 10 Years<br>- Then Invest for 30 Years | - Invest for 40 Years |
-|        **Monthly Amount:** | $100                                                 | $100                                                    | $100                  |
-|  **Annual Interest Rate:** | 7%                                                   | 7%                                                      | 7%                    |
-|   **Interest Compounded:** | Monthly                                              | Monthly                                                 | Monthly               |
-|    **At End of 40 Years:** | $140,480                                             | $121,997                                                | $262,481              |
-|     **Your Contribution:** | $12,000                                              | $36,000                                                 | $48,000               |
-| **Total Interest Earned:** | $128,481                                             | $85,997                                                 | $214,481              |
-|        **Overall Growth:** | 1,171%                                               | 339%                                                    | 547%                  |
-
-
-
-New table
-
-|                        | Scenario A                                         | Scenario B                                            | Scenario C           |
-| ---------------------- | -------------------------------------------------- | ----------------------------------------------------- | -------------------- |
-| Description            | Invest for 10 years.<br>Then nothing for 30 years. | Do nothing for 10 years.<br>Then invest for 30 years. | Invest for 40 years. |
-| Monthly Amount         | $100                                               | $100                                                  | $100                 |
-| Annual Interest Rate   | 7%                                                 | 7%                                                    | 7%                   |
-| Interest Compounded    | Monthly                                            | Monthly                                               | Monthly              |
-| At The End of 40 Years | $140,480                                           | $121,997                                              | $262,481             |
-| Your Contributions     | $12,000                                            | $36,000                                               | $48,000              |
-| Total Interest Earned  | $128,481                                           | $85,997                                               | $214,481             |
-| Overall Growth         | 1,171%                                             | 339%                                                  | 547%                 |
-
-
-
-
-
+|                            | Scenario A                                         | Scenario B                                            | Scenario C           |
+| -------------------------- | -------------------------------------------------- | ----------------------------------------------------- | -------------------- |
+| **Description**            | Invest for 10 years.<br>Then nothing for 30 years. | Do nothing for 10 years.<br>Then invest for 30 years. | Invest for 40 years. |
+| **Monthly Amount**         | $100                                               | $100                                                  | $100                 |
+| **Annual Interest Rate**   | 7%                                                 | 7%                                                    | 7%                   |
+| **Interest Compounded**    | Monthly                                            | Monthly                                               | Monthly              |
+| **At The End of 40 Years** | $140,480                                           | $121,997                                              | $262,481             |
+| **Your Contributions**     | $12,000                                            | $36,000                                               | $48,000              |
+| **Total Interest Earned**  | $128,481                                           | $85,997                                               | $214,481             |
+| **Overall Growth**         | 1,171%                                             | 339%                                                  | 547%                 |
 
 [https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/ ](https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/ )
 
@@ -161,13 +143,13 @@ This is already captured in the above flowchart but thought that I would call it
 
 The concept is to create five bank accounts to help you automatically manage your budget.  For those accounts that pay bills you save in one month for the bills in the next month, so that at the start of any given month you already have the money to pay all upcoming bills for the month.
 
-| Type                    | Purpose                                                                                                                                                                     |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Bills:**              | Top priority<br>Housing<br>Debt<br>Utilities                                                                                                                                |
-| **Lifestyle:**          | You can lower these expenses to save money<br>Personal Care<br>Hair cuts<br>Gym<br>Entertainment<br>Eating out<br>Clothes<br>etc.                                           |
-| **Emergency Fund:**     | Hospitalization<br>Job Loss<br>Home Repairs<br>Car Issues                                                                                                                   |
-| **Short Term Savings:** | Takes less than 12 months to reach<br>Upgrades - cell phones, purse, etc.<br>Special Occasions - Xmas, Birthdays,Anniversaries<br>Small Travel or Events<br>Annual Expenses |
-| **Long Term Savings:**  | Takes more than 12 months to reach<br>Down payments<br>Cars<br>Homes<br>etc.<br>Big Travel<br>Wedding<br>Baby                                                               |
+|     | Type                   | Purpose                                                                                                                                                                     |
+| :-: | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | **Bills**              | Top priority<br>Housing<br>Debt<br>Utilities                                                                                                                                |
+| 02  | **Lifestyle**          | You can lower these expenses to save money<br>Personal Care<br>Hair cuts<br>Gym<br>Entertainment<br>Eating out<br>Clothes<br>etc.                                           |
+| 03  | **Emergency Fund**     | Hospitalization<br>Job Loss<br>Home Repairs<br>Car Issues                                                                                                                   |
+| 04  | **Short Term Savings** | Takes less than 12 months to reach<br>Upgrades - cell phones, purse, etc.<br>Special Occasions - Xmas, Birthdays,Anniversaries<br>Small Travel or Events<br>Annual Expenses |
+| 05  | **Long Term Savings**  | Takes more than 12 months to reach<br>Down payments<br>Cars<br>Homes<br>etc.<br>Big Travel<br>Wedding<br>Baby                                                               |
 
 
 

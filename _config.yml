@@ -25,6 +25,13 @@ nav_external_links:
     hide_icon: false
 
 #
+# Allow Kramdown to successfully evaluate tags embedded inside HTML/Markdown blocks to create a Table of Contents
+#
+kramdown:
+  parse_block_html: true
+  auto_ids: true
+
+#
 # Add README.md to the exclusion list
 #
 exclude:
