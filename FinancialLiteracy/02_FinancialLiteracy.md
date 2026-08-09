@@ -44,15 +44,15 @@ Note that the pursuit of money is the root of all evil.
 |                  Number                   | Name                                | Description                                                                                                                                                                                                                                                                                                                                                                      |
 | :---------------------------------------: | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <span style="font-size: 1.5em;">00</span> | **Financial Dependency**            | Debt and living expenses greater than your income                                                                                                                                                                                                                                                                                                                                |
-|                    <span style="font-size: 1.5em;">01</span>                     | **Financial Solvency**              | Current on debt payments<br>Meet financial commitments without outside help                                                                                                                                                                                                                                                                                                      |
-|                    <span style="font-size: 1.5em;">02</span>                     | **Financial Stability**             | Built three-to-six-month emergency fund                                                                                                                                                                                                                                                                                                                                          |
-|                    <span style="font-size: 1.5em;">03</span>                     | **Debt Freedom**                    | Could be no debt or just no mortgage or no credit card                                                                                                                                                                                                                                                                                                                           |
-|                    <span style="font-size: 1.5em;">04</span>                     | **Coasting Financial Independence** | Also known as<br>	- Freedom from Employer<br>	- Barista Financial Independence<br>	- Agency<br>Could step down from a higher paying job to a lower paying job that you enjoy more<br>Have enough invested that will grow to a level that is good enough for retirement at a pre-determined age, even if no more is added to the investment<br>So can coast through to retirement |
-|                    <span style="font-size: 1.5em;">05</span>                     | **Financial Security**              | Cash flow from investments can provide your basic survival expenses<br>Food, water, shelter, clothing, insurance<br>Just survival                                                                                                                                                                                                                                                |
-|                    <span style="font-size: 1.5em;">06</span>                     | **Financial Flexibility**           | Live off current cash flow assuming that you have a flexible spending plan to account for market fluctuations<br>Roughly half of full financial independence                                                                                                                                                                                                                     |
-|                    <span style="font-size: 1.5em;">07</span>                     | **Financial Independence**          | 4% rule - [https://en.wikipedia.org/wiki/Trinity_study ](https://en.wikipedia.org/wiki/Trinity_study )<br>You have saved 25x your annual expenses<br>100,000 \* 25 = 2,500,000 <br>2,500,000 \* 4% = 100,000                                                                                                                                                                     |
-|                    <span style="font-size: 1.5em;">08</span>                     | **Financial Freedom**               | Can add in more life goals than previous level<br>Add in some dreams                                                                                                                                                                                                                                                                                                             |
-|                    <span style="font-size: 1.5em;">09</span>                     | **Financial Abundance**             | Cash flow from investment is more than you will even need<br>3x financial freedom number                                                                                                                                                                                                                                                                                         |
+| <span style="font-size: 1.5em;">01</span> | **Financial Solvency**              | Current on debt payments<br>Meet financial commitments without outside help                                                                                                                                                                                                                                                                                                      |
+| <span style="font-size: 1.5em;">02</span> | **Financial Stability**             | Built three-to-six-month emergency fund                                                                                                                                                                                                                                                                                                                                          |
+| <span style="font-size: 1.5em;">03</span> | **Debt Freedom**                    | Could be no debt or just no mortgage or no credit card                                                                                                                                                                                                                                                                                                                           |
+| <span style="font-size: 1.5em;">04</span> | **Coasting Financial Independence** | Also known as<br>	- Freedom from Employer<br>	- Barista Financial Independence<br>	- Agency<br>Could step down from a higher paying job to a lower paying job that you enjoy more<br>Have enough invested that will grow to a level that is good enough for retirement at a pre-determined age, even if no more is added to the investment<br>So can coast through to retirement |
+| <span style="font-size: 1.5em;">05</span> | **Financial Security**              | Cash flow from investments can provide your basic survival expenses<br>Food, water, shelter, clothing, insurance<br>Just survival                                                                                                                                                                                                                                                |
+| <span style="font-size: 1.5em;">06</span> | **Financial Flexibility**           | Live off current cash flow assuming that you have a flexible spending plan to account for market fluctuations<br>Roughly half of full financial independence                                                                                                                                                                                                                     |
+| <span style="font-size: 1.5em;">07</span> | **Financial Independence**          | 4% rule - [https://en.wikipedia.org/wiki/Trinity_study ](https://en.wikipedia.org/wiki/Trinity_study )<br>You have saved 25x your annual expenses<br>100,000 \* 25 = 2,500,000 <br>2,500,000 \* 4% = 100,000                                                                                                                                                                     |
+| <span style="font-size: 1.5em;">08</span> | **Financial Freedom**               | Can add in more life goals than previous level<br>Add in some dreams                                                                                                                                                                                                                                                                                                             |
+| <span style="font-size: 1.5em;">09</span> | **Financial Abundance**             | Cash flow from investment is more than you will even need<br>3x financial freedom number                                                                                                                                                                                                                                                                                         |
 
 Reference: [https://www.youtube.com/watch?v=kDSHHiFMJ_I ](https://www.youtube.com/watch?v=kDSHHiFMJ_I )
 
@@ -143,13 +143,13 @@ This is already captured in the above flowchart but thought that I would call it
 
 The concept is to create five bank accounts to help you automatically manage your budget.  For those accounts that pay bills you save in one month for the bills in the next month, so that at the start of any given month you already have the money to pay all upcoming bills for the month.
 
-|     | Type                   | Purpose                                                                                                                                                                     |
-| :-: | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01  | **Bills**              | Top priority<br>Housing<br>Debt<br>Utilities                                                                                                                                |
-| 02  | **Lifestyle**          | You can lower these expenses to save money<br>Personal Care<br>Hair cuts<br>Gym<br>Entertainment<br>Eating out<br>Clothes<br>etc.                                           |
-| 03  | **Emergency Fund**     | Hospitalization<br>Job Loss<br>Home Repairs<br>Car Issues                                                                                                                   |
-| 04  | **Short Term Savings** | Takes less than 12 months to reach<br>Upgrades - cell phones, purse, etc.<br>Special Occasions - Xmas, Birthdays,Anniversaries<br>Small Travel or Events<br>Annual Expenses |
-| 05  | **Long Term Savings**  | Takes more than 12 months to reach<br>Down payments<br>Cars<br>Homes<br>etc.<br>Big Travel<br>Wedding<br>Baby                                                               |
+|                                           | Type                   | Purpose                                                                                                                                                                     |
+| :---------------------------------------: | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <span style="font-size: 1.5em;">01</span> | **Bills**              | Top priority<br>Housing<br>Debt<br>Utilities                                                                                                                                |
+| <span style="font-size: 1.5em;">02</span> | **Lifestyle**          | You can lower these expenses to save money<br>Personal Care<br>Hair cuts<br>Gym<br>Entertainment<br>Eating out<br>Clothes<br>etc.                                           |
+| <span style="font-size: 1.5em;">03</span> | **Emergency Fund**     | Hospitalization<br>Job Loss<br>Home Repairs<br>Car Issues                                                                                                                   |
+| <span style="font-size: 1.5em;">04</span> | **Short Term Savings** | Takes less than 12 months to reach<br>Upgrades - cell phones, purse, etc.<br>Special Occasions - Xmas, Birthdays,Anniversaries<br>Small Travel or Events<br>Annual Expenses |
+| <span style="font-size: 1.5em;">05</span> | **Long Term Savings**  | Takes more than 12 months to reach<br>Down payments<br>Cars<br>Homes<br>etc.<br>Big Travel<br>Wedding<br>Baby                                                               |
 
 ## Plan
 
@@ -183,21 +183,15 @@ The concept is to create five bank accounts to help you automatically manage you
 
 ## Savings Goals
 
-Payoff Debt
-- Pay off any debt that you may have
+| Goal               | Description                                                                                                                                                  |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Payoff Debt**    | Pay off any debt that you may have                                                                                                                           |
+| **Emergency Fund** | Build your emergency fund until you have a few months of emergency cash.<br>If you have TFSA room, use your TFSA to hold your emergency fund to avoid taxes. |
+| **TFSA**           | If you are making less than $50K per year, maximize your TFSA first                                                                                          |
+| **RRSP**           | Maximize your RRSP next                                                                                                                                      |
+| **Extra Savings**  | Save for any other things that you may want – vacations, cars, etc.                                                                                          |
 
-Emergency Fund
-- Build your emergency fund until you have a few months of emergency cash.
-- If you have TFSA room, use your TFSA to hold your emergency fund to avoid taxes.
-
-TFSA
-- If you are making less than $50K per year, maximize your TFSA first
-
-RRSP
-- Maximize your RRSP next
-
-Extra Savings
-- Save for any other things that you may want – vacations, cars, etc.
+TODO: Add in FHSA and saving in your TFSA during the year and transfer to other by year end.
 
 ## Emergency Fund
 
@@ -214,16 +208,16 @@ Extra Savings
 
 ## Investing Definitions
 
-| Term                       | Definition                                                                              |
-| -------------------------- | --------------------------------------------------------------------------------------- |
-| Stock                      | A part ownership in a company.                                                          |
-| Fund                       | A collection of stocks.                                                                 |
-| Index                      | A collection of stocks that represent a market segment.                                 |
-| Index Fund                 | A fund that mimics an index.                                                            |
-| ETF (Exchange Traded Fund) | A fund (or an index fund) that is traded on the stock market.                           |
-| DRIP                       | Dividend Re-Investment Plan – automatically re-invest dividends to purchase more units. |
-| SIP                        | Systematic Investment Plan – regular (weekly, biweekly, monthly, etc.) purchases.       |
-| Rebalance                  | Adjust your mix of investments to achieve your target allocation.                       |
+| Term                           | Definition                                                                              |
+| ------------------------------ | --------------------------------------------------------------------------------------- |
+| **Stock**                      | A part ownership in a company.                                                          |
+| **Fund**                       | A collection of stocks.                                                                 |
+| **Index**                      | A collection of stocks that represent a market segment.                                 |
+| **Index Fund**                 | A fund that mimics an index.                                                            |
+| **ETF (Exchange Traded Fund)** | A fund (or an index fund) that is traded on the stock market.                           |
+| **DRIP**                       | Dividend Re-Investment Plan – automatically re-invest dividends to purchase more units. |
+| **SIP**                        | Systematic Investment Plan – regular (weekly, biweekly, monthly, etc.) purchases.       |
+| **Rebalance**                  | Adjust your mix of investments to achieve your target allocation.                       |
 
 ## Mutual Funds vs Index Funds vs ETFs
 
@@ -239,6 +233,7 @@ Extra Savings
 | Automatic Monthly Investments  | Yes                                                | Yes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Typically no, but depends on the online brokerage                                                                                                                                                                                                                                                                |
 | Rebalancing                    | Depends on the fund                                | Depends on the fund                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Depends on the fund                                                                                                                                                                                                                                                                                              |
 | Examples                       | n/a                                                | [TDB900](https://www.td.com/ca/en/asset-management/funds/solutions/mutual-funds/fundcard?fundId=3261&fundname=TD-Canadian-Index-Fund---e), [TDB902](https://www.td.com/ca/en/asset-management/funds/solutions/mutual-funds/fundcard?fundId=3270&fundname=TD-U.S.-Index-Fund---e), [TDB909](https://www.td.com/ca/en/asset-management/funds/solutions/mutual-funds/fundcard?fundId=4817&fundname=TD-Canadian-Bond-Index-Fund---e), [TDB911](https://www.td.com/ca/en/asset-management/funds/solutions/mutual-funds/fundcard?fundId=4877&fundname=TD-International-Index-Fund---e) | [VEQT](https://www.vanguard.ca/en/product/etf/asset-allocation/9692/vanguard-all-equity-etf-portfolio), [VGRO](https://www.vanguard.ca/en/product/etf/asset-allocation/9579/vanguard-growth-etf-portfolio), [VBAL](https://www.vanguard.ca/en/product/etf/asset-allocation/9578/vanguard-balanced-etf-portfolio) |
+
 [https://www.youtube.com/watch?v=vGcOGYkttI4 ](https://www.youtube.com/watch?v=vGcOGYkttI4 )
 
 [https://canadiancouchpotato.com/getting-started ](https://canadiancouchpotato.com/getting-started )
