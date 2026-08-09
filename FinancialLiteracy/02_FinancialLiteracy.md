@@ -2,6 +2,7 @@
 layout: default
 title: Financial Literacy
 nav_order: 2
+last_updated_at: Sun 9-Aug-2026 noon
 ---
 
 # Your Financial Journey
@@ -10,6 +11,8 @@ Some ideas to guide, navigate and support your financial journey.
 
 - Table of Contents
 {:toc}
+
+Last updated: {{ page.last_updated_at }}
 
 # Motivation
 
