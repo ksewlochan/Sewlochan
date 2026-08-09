@@ -286,6 +286,7 @@ If you have a portfolio of a certain size (see below) and a MER of a certain siz
 | **1.0%**   | $1,000 | $5,000  | $10,000 |
 | **2.0%**   | $2,000 | $10,000 | $20,000 |
 | **3.0%**   | $3000  | $15,000 | $30,000 |
+
 Notes
 - Keep your MER low.
 - As your portfolio rises in value a higher MER can cost you a significant amount of money.
