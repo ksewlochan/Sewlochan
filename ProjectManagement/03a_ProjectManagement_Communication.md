@@ -2,7 +2,7 @@
 layout: default
 title: Communication
 parent: Project Management
-nav_order: 3
+nav_order: 1
 has_children: false
 last_updated_at: Mon 10-Aug-2026 noon
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: The Power of Lists
 parent: Project Management
-nav_order: 1
+nav_order: 2
 has_children: false
 last_updated_at: Mon 10-Aug-2026 noon
 ---
