@@ -133,3 +133,10 @@ The Philosophy Matters
 ## Old Version
 
 [go here](https://sites.google.com/sewlochan.com/sewlochan-com/project-management)
+
+## Version History
+
+|                                           | Date            | Notes                 |
+| :---------------------------------------: | --------------- | --------------------- |
+| <span style="font-size: 1.5em;">01</span> | Sun 10-Jan-2021 | Initial version       |
+| <span style="font-size: 1.5em;">02</span> | Mon 10-Aug-2026 | Converted to markdown |
