@@ -185,6 +185,8 @@ Each week you fill in the cells and see what the total is and add this to your b
 - You can see of you are ahead, on-track or behind schedule just by looking at the two curves in the Burn Up chart.
 - You can then create a [status reports](./03c_ProjectManagement_StatusReports.md) to report on the status of your project.
 
+Here is a [sample Burn Up](../assets/images/03d_ProjectManagement_TableComplete_BurnUp.jpg) chart (TBD: Update the chart to more closely reflect the example above).
+
 
 # Key Takeaways
 
