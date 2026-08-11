@@ -104,12 +104,12 @@ This may be all that you need if it is appropriate to the plan that you need to 
 
 ## Table Complete
 
-See XXX for details on this
+See [Table Complete](./03d_ProjectManagement_TableComplete.md) for details on this
 
 
 ## Earned Value
 
-See XXX for details on this
+See [Earned Value](./03e_ProjectManagement_EVA.md) for details on this
 
 
 # Appendix
