@@ -88,15 +88,16 @@ Construct the following table.  Likely in excel but any way that you want to man
 
 ## Step 01: The Heatmap
 
-|     |             |     | **Widget 01** | **Widget 02** | **Widget 03** | **Widget 04** | **Widget 05** |
-| :-: | :---------: | :-: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-|     |             |     |      20%      |      20%      |      20%      |      20%      |      20%      |
-| 01  | **Step 01** | 10% |               |               |               |               |               |
-| 02  | **Step 02** | 20% |               |               |               |               |               |
-| 03  | **Step 03** | 15% |               |               |               |               |               |
-| 04  | **Step 04** | 30% |               |               |               |               |               |
-| 05  | **Step 05** | 10% |               |               |               |               |               |
-| 06  | **Step 06** | 25% |               |               |               |               |               |
+|     |             |     | **Widget 01** | **Widget 02** | **Widget 03** | **Widget 04** | **Widget 05** | *Totals* |
+| :-: | :---------: | :-: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :------: |
+|     |             |     |      20%      |      20%      |      20%      |      20%      |      20%      |          |
+| 01  | **Step 01** | 10% |               |               |               |               |               |          |
+| 02  | **Step 02** | 20% |               |               |               |               |               |          |
+| 03  | **Step 03** | 15% |               |               |               |               |               |          |
+| 04  | **Step 04** | 30% |               |               |               |               |               |          |
+| 05  | **Step 05** | 10% |               |               |               |               |               |          |
+| 06  | **Step 06** | 25% |               |               |               |               |               |          |
+|     |  *Totals*   |     |               |               |               |               |               |          |
 
 So, let's look at the above table and appreciate what it shows us
 - A column for each widget that we have to build.
