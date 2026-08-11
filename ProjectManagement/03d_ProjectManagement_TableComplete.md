@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Earned Value Analysis
+title: Table Complete
 parent: Project Management
 nav_order: 5
 has_children: false
-last_updated_at: Mon 10-Aug-2026 noon
+last_updated_at: Mon 10-Aug-2026 evening
 ---
 
 # Table Complete
@@ -88,7 +88,6 @@ Construct the following table.  Likely in excel but any way that you want to man
 
 ## Step 01: The Heatmap
 
-
 |     |             |     | **Widget 01** | **Widget 02** | **Widget 03** | **Widget 04** | **Widget 05** |
 | :-: | :---------: | :-: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 |     |             |     |      20%      |      20%      |      20%      |      20%      |      20%      |
@@ -102,35 +101,116 @@ Construct the following table.  Likely in excel but any way that you want to man
 So, let's look at the above table and appreciate what it shows us
 - A column for each widget that we have to build.
 - A row for each step that we will have to take to build each widget.
-- We know that for four widgets they will not have one of the steps - so we can put in "n/a" into those cells.
+	- We know that for four widgets they will not have one of the steps - so we can put in "n/a" into those cells.
+- Each widget and each step has a percentage of the overall size associated with it.
 - We now have a plan.  See [Status Reports](./03c_ProjectManagement_StatusReports.md) for more details on plans and how to use them.
 
 We can then fill into each cell "DONE" when we have completed that step for that widget.
 
-
-xxxxxxxxxxxxxxxxxxxxxx
-
+And we now have the first level heatmap of your plan and status against the plan.
 
 
-Calculating the size of each item in a dimension.	
-	The start planning you need to know the percentage effort of each item in a dimension.
-	Assume that dimension one is items.
-	How much effort is for each item.
-	Option 01: You know, so use these numbers.
-	Option 02: You assign the first one 10 points; assign each subsequent a relative number; calculate the percentages.
-	Option 03: Just guess.
-	Option 04: Make them all the same.
-	
-Calculating the percentage done in each cell.	
-	For each cell at the intersection of dimension one and two you will need to calculate the percentage done of that cell.
-	Option 01: You know as there is an independent analysis that tells you the percentage done.
-	Option 02: You need to take a guess.
-	
-	
-	
-	
-	
-	
-BurnUp	
-	You can plan out the percentage done of your project across each time period of work (say, week).
-	Then use the Data sheet at the end of each period (e.g. week) to determine the actual percentage done.
+## Step 02: A Better Heatmap
+
+We can improve the heatmap a little by filling in the cells with something more than just DONE.
+
+Fill in the percentage done in each cell.
+
+If you cannot determine what the percentage done really is you can use the following:
+- 0%: Has not started
+- 10%: Started
+- 50% Half way done
+- 90%: Mostly done
+- 100%: Done
+
+Note that if you can have the actual percentage done this is better.  But if not, then the above rough percentages are good enough.
+
+If you are using Excel (or similar) you can then conditionally code the table cells based on the percentage done giving you a more visual heatmap.
+
+
+## Step 03: Column and Row Totals
+
+You can now add a row at the bottom and a column to the right side with the following.
+- I'd recommend doing this now in Excel (or equivalent) to follow along with the rest of this page.
+
+Bottom Row
+- Each cell in the bottom row should be the dot product (SUMPRODUCT in Excel) of the following columns
+	- The percentages column for each row (10%, 20%, 15%, 30%, 10%, 25% in the example above).
+	- The column in that cell - so Widget 01, Widget 02, etc.
+- This bottom row then has total percentage done for each column.
+	- So you now know the percentage done for each Widget.
+
+Right Column
+- Similar to above, each cell of the right column will contain the dot product (SUMPRODUCT in Excel) of the following rows
+	- The percentages row for each column (20%, 20%, 20%, 20%, 20%, 20% in the example above).
+	- The row in that cell - so Step 01, Step 02, etc.
+- This right column then has total percentage done for each row.
+	- So you now know the percentage done for each Step.
+
+So you can now answer the following questions
+- How much percentage done is each Widget?
+- How much percentage done is each Step?
+
+You can add two more dot products (SUMPRODUCT in Excel) that will calculate the same thing.
+- First Option
+	- The percentages column for each row (10%, 20%, 15%, 30%, 10%, 25% in the example above).
+	- The new right column.
+- Second Option
+	- The percentages row for each column (20%, 20%, 20%, 20%, 20%, 20% in the example above).
+	- The new bottom row.
+
+
+## Step 04: Burn Up
+
+So let's say that you have the table with the bottom row and right column but have not as yet started the work.
+
+The first question you should ask yourself is what is the plan to complete this work?
+- How many weeks (or the appropriate time frame) will it take to complete?
+- What percentage done will be accomplished each week?
+
+Let's assume that you decide:
+- 10 weeks
+- 10% each week
+
+This means that you can create a [plan](./03c_ProjectManagement_StatusReports.md) for the work to be done.
+- That plan is a simple burn up chart.
+- Week 00 - 0% done
+- Week 01 - 10% done
+- Week 02 - 20% done
+- etc.
+
+Each week you fill in the cells and see what the total is and add this to your burn up chart to show the actuals.
+- You now have a Burn Up chart with the plan and the actual.
+- You can see of you are ahead, on-track or behind schedule just by looking at the two curves in the Burn Up chart.
+- You can then create a [status reports](./03c_ProjectManagement_StatusReports.md) to report on the status of your project.
+
+
+# Key Takeaways
+
+The tracking is simple: For Widget XX, how much of Step YY is done.
+- A simple question.
+- Ease to assertain.
+- Easy to fill in.
+- Easy to track.
+
+The clarity to those working on the project is high.
+- It is very easy to see what work we are doing and tracking.
+
+Size growth is trackable.
+- If last week we thought that a cell was 90% done.
+- But this week we realize that it is only 40% done.
+- Just change the 90% to 40%.
+- All the other numbers will update.
+- You will get the new status.
+
+Progress against the plan is easy to see in the Burn Up chart.
+
+
+# Appendix
+
+## Version History
+
+|                                           | Date            | Notes                 |
+| :---------------------------------------: | --------------- | --------------------- |
+| <span style="font-size: 1.5em;">01</span> | Mon 10-Aug-2026 | Initial version       |
+
