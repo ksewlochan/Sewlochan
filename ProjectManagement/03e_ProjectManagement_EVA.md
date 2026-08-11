@@ -2,7 +2,7 @@
 layout: default
 title: Earned Value Analysis
 parent: Project Management
-nav_order: 6
+nav_order: 5
 has_children: false
 ---
 
