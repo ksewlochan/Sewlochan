@@ -10,7 +10,7 @@ last_updated_at: Wed 12-Aug-2026 afternoon
 
 # Podcasts
 
-A good methodology to think about how to structure your bank accounts.
+Some good podcasts to help you on your financial journey.
 
 - Table of Contents
 {:toc}

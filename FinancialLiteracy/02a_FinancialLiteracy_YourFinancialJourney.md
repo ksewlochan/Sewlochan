@@ -197,15 +197,15 @@ The High Five Banking Method
 
 - Let’s assume you get paid twice a month
 - Directly off your paycheuque take advantage of your employer’s benefits as much as you can and/or makes sense - don't leave money on the table
-- Automatically deposit your net pay into your Chequing Bank Account
+- Automatically deposit your net pay into your [Bank Account](./02b_FinancialLiteracy_HighFiveBanking.md)
 - Set up your money transfers to be automatic – the less that you have to worry about it, the better
-- Put half your monthly expenses into your Monthly Expenses Bank Account – so that when you get to the start of the next month you have cash in this account to pay all bills
+- Put half your monthly expenses into your [Chequing 01: Bills and Chequing 02: Lifestyle](./02b_FinancialLiteracy_HighFiveBanking.md) bank accounts – so that when you get to the start of the next month you have cash in this account to pay all bills
 - Transfer money to your various savings goals
-- Once all your planned transfers are made, the money left in your Chequing Bank Account, is your free money – enjoy life
+- Once all your planned transfers are made, the money left over, is your free money – enjoy life
 
 ## Savings Goals
 
-|               Goal | Description                                                                                                                                                  |
+|                    | Description                                                                                                                                                  |
 | -----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |    **Payoff Debt** | Pay off any debt that you may have                                                                                                                           |
 | **Emergency Fund** | Build your emergency fund until you have a few months of emergency cash.<br>If you have TFSA room, use your TFSA to hold your emergency fund to avoid taxes. |

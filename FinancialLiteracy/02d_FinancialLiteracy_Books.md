@@ -10,7 +10,7 @@ last_updated_at: Wed 12-Aug-2026 afternoon
 
 # Books
 
-A good methodology to think about how to structure your bank accounts.
+Some good books to help you on your financial journey.
 
 - Table of Contents
 {:toc}
