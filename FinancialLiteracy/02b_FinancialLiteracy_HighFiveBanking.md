@@ -74,6 +74,10 @@ For example, your **Long Term Savings** could/should be
 - An RRSP for your retirement savings
 - etc.
 
+On the oppositive side, depending on your individual circumstances, you may not need all of these accounts at a given point in time.
+
+But you should think about these types of accounts and decide how they best fit into your financial journey.
+
 # Where to Bank
 
 There are many choices as to where to bank - big 5 as well as smaller providers.
