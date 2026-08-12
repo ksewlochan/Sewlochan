@@ -138,6 +138,20 @@ Key Take Away
 
 [Flow chart](../assets/images/02a_FinancialLiteracy_YourFinancialJourney_Flowchart.jpg)
 
+``` mermaid
+	flowchart LR
+		PayCheque["Paycheque"] --> CompanyRRSP["Company Matching RRSP"]
+		PayCheque --> CompanyStock["Company Stock Purchase Plan"]
+		PayCheque --> BankAccount["Bank Account"]
+		BankAccount --> PayDebt["PayOff Debt"]
+		BankAccount --> EmergencyFund["Emergency Fund"]
+		BankAccount --> LifeStyle["Life Style"]
+		BankAccount --> TFSA["TFSA"]
+		BankAccount --> RRSP["RRSP"]
+		BankAccount --> Savings["Short and Long Term<br> Savings"]
+```
+
+
 ### Some other flow charts to review:
 
 Reddit Personal Finance Canada
@@ -148,21 +162,8 @@ Another flowchart
 - [https://i.imgur.com/H2F3f78.png ](https://i.imgur.com/H2F3f78.png )
 
 The High Five Banking Method
-- [https://thepoisedlifestyle.com/the-high-5-banking-method ](https://thepoisedlifestyle.com/the-high-5-banking-method )
+- See [here](./02b_FinancialLiteracy_HighFiveBanking.md) for more details on how to structure your bank accounts.
 
-## The High Five Banking Method
-
-This is already captured in the above flowchart but thought that I would call it out explicitly as it may make you think about your bank accounts in a specific way.
-
-The concept is to create five bank accounts to help you automatically manage your budget.  For those accounts that pay bills you save in one month for the bills in the next month, so that at the start of any given month you already have the money to pay all upcoming bills for the month.
-
-|                                           | Type                   | Purpose                                                                                                                                                                     |
-| :---------------------------------------: | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <span style="font-size: 1.5em;">01</span> | **Bills**              | Top priority<br>Housing<br>Debt<br>Utilities                                                                                                                                |
-| <span style="font-size: 1.5em;">02</span> | **Lifestyle**          | You can lower these expenses to save money<br>Personal Care<br>Hair cuts<br>Gym<br>Entertainment<br>Eating out<br>Clothes<br>etc.                                           |
-| <span style="font-size: 1.5em;">03</span> | **Emergency Fund**     | Hospitalization<br>Job Loss<br>Home Repairs<br>Car Issues                                                                                                                   |
-| <span style="font-size: 1.5em;">04</span> | **Short Term Savings** | Takes less than 12 months to reach<br>Upgrades - cell phones, purse, etc.<br>Special Occasions - Xmas, Birthdays,Anniversaries<br>Small Travel or Events<br>Annual Expenses |
-| <span style="font-size: 1.5em;">05</span> | **Long Term Savings**  | Takes more than 12 months to reach<br>Down payments<br>Cars<br>Homes<br>etc.<br>Big Travel<br>Wedding<br>Baby                                                               |
 
 ## Plan
 
