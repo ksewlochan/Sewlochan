@@ -217,16 +217,27 @@ TODO: Add in FHSA and saving in your TFSA during the year and transfer to other 
 
 ## Emergency Fund
 
+### Why?
 - Life is unpredictable
 - Job loss or other significant factors could impact your financials
 - Having an emergency fund to protect yourself is essential
+
+### How?
 - Determine your one-month expenses
 - Save money to cover one months of expenses
 	- Then three months
 	- Then six months
+
+### Where?
 - This money should be cash, not an investment
 - Saved in a high interest savings account
-- Or in a TFSA – as cash – to avoid paying taxes, if you have the room
+- Or in a TFSA (as cash) to avoid paying taxes, if you have the room
+
+### More Information
+- [Canada.ca: Setting up an emergency fund](https://www.canada.ca/en/financial-consumer-agency/services/savings-investments/setting-up-emergency-funds.html)
+- [MoneySense.ca: What is an emergency fund and how to build one](https://www.moneysense.ca/save/budgeting/what-is-an-emergency-fund-and-how-to-build-one/)
+- [Ratehub.ca: What is an emergency fund and why it's important](https://www.ratehub.ca/blog/what-is-an-emergency-fund/)
+
 
 ## Investing Definitions
 
