@@ -32,6 +32,18 @@ Last updated: {{ page.last_updated_at }}
 		IncomeSource --> SavingsEmergencyFund["Savings 01: Emergency Fund"]
 		IncomeSource --> SavingsShortTerm["Savings 02: Short Term Goals"]
 		IncomeSource --> SavingsLongTerm["Savings 03: Long Term Goals"]
+		
+		ChequingBills --> BankAccountA["Bank Accounts"]
+		ChequingLifestyle --> BankAccountB["Bank Accounts"]
+		SavingsEmergencyFund --> BankAccountC["Bank Accounts"]
+		SavingsEmergencyFund --> TFSAa["TFSA<br>(as cash in room is available)"]
+		SavingsShortTerm --> BankAccountD["Bank Accounts"]
+		SavingsShortTerm --> TFSAb["TFSA<br>(as cash in room is available)"]
+		SavingsLongTerm --> TFSAc["TFSA<br>(as investments)"]
+		SavingsLongTerm --> RRSP["RRSP<br>(as investments)"]
+		SavingsLongTerm --> LIRA["LIRA<br>(as investments)"]
+		SavingsLongTerm --> RESP["RESP<br>(as cash / investments)"]
+		SavingsLongTerm --> etc["etc."]
 ```
 
 
