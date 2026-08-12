@@ -140,15 +140,17 @@ Key Take Away
 
 ``` mermaid
 	flowchart LR
-		PayCheque["Paycheque<br>Assume 2x a month"] --> CompanyRRSP["Company Matching RRSP<br>Often companies offer to match your RRSP contributions – take full advantage of this to the maximum what they will match, but no more"]
-		PayCheque --> CompanyStock["Company Stock Purchase Plan"]
-		PayCheque --> BankAccount["Bank Account"]
+		PayCheque["Paycheque<br>Assume 2x a month"] --> CompanyRRSP["Company Matching RRSP<br>(take full advantage of this to the maximum what they will match, but no more)"]
+		PayCheque --> CompanyStock["Company Stock Purchase Plan, etc.<br>(maximize the free money from your company)"]
+		PayCheque --> BankAccount["Bank Account<br>(drop your paycheque here and then automate it out)"]
 		BankAccount --> PayDebt["PayOff Debt"]
-		BankAccount --> EmergencyFund["Emergency Fund"]
+		BankAccount --> EmergencyFund["Emergency Fund<br>(build to 6 months of expenses here)"]
 		BankAccount --> LifeStyle["Life Style"]
 		BankAccount --> TFSA["TFSA"]
 		BankAccount --> RRSP["RRSP"]
 		BankAccount --> Savings["Short and Long Term<br> Savings"]
+		Plan["Plan<br>(create a plan for your savings and retirement goals)"]
+		Budget["Budget<br>(determine how much your monthly / annual expenses are)"]
 ```
 
 
