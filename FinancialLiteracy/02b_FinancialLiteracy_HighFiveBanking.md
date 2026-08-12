@@ -38,7 +38,7 @@ Last updated: {{ page.last_updated_at }}
 		SavingsEmergencyFund --> BankAccountC["Bank Accounts"]
 		SavingsEmergencyFund --> TFSAa["TFSA<br>(as cash if room is available)"]
 		SavingsShortTerm --> BankAccountD["Bank Accounts"]
-		SavingsShortTerm --> TFSAb["TFSA<br>(as cash in room is available)"]
+		SavingsShortTerm --> TFSAb["TFSA<br>(as cash if room is available)"]
 		SavingsLongTerm --> TFSAc["TFSA<br>(as investments)"]
 		SavingsLongTerm --> RRSP["RRSP<br>(as investments)"]
 		SavingsLongTerm --> LIRA["LIRA<br>(as investments)"]
