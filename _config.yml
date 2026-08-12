@@ -38,6 +38,7 @@ kramdown:
 #
 mermaid:
   version: "11.16.1"
+  theme: "forest"
 
 #
 # Add README.md to the exclusion list
