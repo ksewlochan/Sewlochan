@@ -36,7 +36,7 @@ Last updated: {{ page.last_updated_at }}
 		ChequingBills --> BankAccountA["Bank Accounts"]
 		ChequingLifestyle --> BankAccountB["Bank Accounts"]
 		SavingsEmergencyFund --> BankAccountC["Bank Accounts"]
-		SavingsEmergencyFund --> TFSAa["TFSA<br>(as cash in room is available)"]
+		SavingsEmergencyFund --> TFSAa["TFSA<br>(as cash if room is available)"]
 		SavingsShortTerm --> BankAccountD["Bank Accounts"]
 		SavingsShortTerm --> TFSAb["TFSA<br>(as cash in room is available)"]
 		SavingsLongTerm --> TFSAc["TFSA<br>(as investments)"]
