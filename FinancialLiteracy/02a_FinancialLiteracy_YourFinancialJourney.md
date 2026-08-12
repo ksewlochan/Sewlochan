@@ -136,7 +136,7 @@ Key Take Away
 
 ## Flowchart
 
-[Flow chart](../assets/images/02a_FinancialLiteracy_YourFinancialJourney_Flowchart.jpg) chart
+[Flow chart](../assets/images/02a_FinancialLiteracy_YourFinancialJourney_Flowchart.jpg)
 
 ### Some other flow charts to review:
 
