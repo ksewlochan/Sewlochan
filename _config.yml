@@ -32,6 +32,14 @@ kramdown:
   auto_ids: true
 
 #
+# Enable mermaid to draw diagrams
+# Choose an available version from jsDelivr (e.g., "9.4.3" or a stable v10+ version)
+# https://www.jsdelivr.com/package/npm/mermaid
+#
+mermaid:
+  version: "11.16.1"
+
+#
 # Add README.md to the exclusion list
 #
 exclude:
