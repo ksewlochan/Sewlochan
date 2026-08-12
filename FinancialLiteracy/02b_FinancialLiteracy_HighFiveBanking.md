@@ -56,7 +56,7 @@ For those accounts that pay bills
 # Types of Accounts
 
 Canadians have a large number of account types to choose from:
-- Banking
+- [Banking](https://www.moneysense.ca/save/banking/the-best-banks-in-canada/)
 	- Chequing
 	- Savings
 	- Hybris of Chequing and Savings
