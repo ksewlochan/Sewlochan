@@ -136,7 +136,7 @@ Key Take Away
 
 ## Flowchart
 
-PUT DIAGRAM HERE
+[Flow chart](../assets/images/02a_FinancialLiteracy_YourFinancialJourney_Flowchart.jpg) chart
 
 ### Some other flow charts to review:
 
@@ -166,13 +166,19 @@ The concept is to create five bank accounts to help you automatically manage you
 
 ## Plan
 
-- Create your initial plan
-- Does not have to be complex
-- You will edit and update it many times over your lifetime
-- Start with the basics
-- When do you want to retire
-- How much will your annual expenses be when you retire - take a guess
-- How much money do you have to save each year to get to this retirement goal
+- Create your initial plan.
+	- Does not have to be complex.
+	- You will edit and update it many times over your lifetime.
+	- Start with the basics.
+- Financial Independence (and/or Retirement).
+	- When?
+	-  How much will your annual expenses be when you retire - take a guess?
+- How much money do you have to save each year to get to this retirement goal?
+- Who are you planning for?
+	- You?
+	- Spouse?
+	- Kids?
+	- Other?
 
 ## Budget
 
