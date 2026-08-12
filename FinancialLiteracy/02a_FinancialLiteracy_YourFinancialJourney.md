@@ -140,7 +140,7 @@ Key Take Away
 
 ``` mermaid
 	flowchart LR
-		PayCheque["Paycheque"] --> CompanyRRSP["Company Matching RRSP"]
+		PayCheque["Paycheque<br>Assume 2x a month"] --> CompanyRRSP["Company Matching RRSP<br>Often companies offer to match your RRSP contributions – take full advantage of this to the maximum what they will match, but no more"]
 		PayCheque --> CompanyStock["Company Stock Purchase Plan"]
 		PayCheque --> BankAccount["Bank Account"]
 		BankAccount --> PayDebt["PayOff Debt"]
