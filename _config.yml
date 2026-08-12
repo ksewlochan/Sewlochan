@@ -35,10 +35,11 @@ kramdown:
 # Enable mermaid to draw diagrams
 # Choose an available version from jsDelivr (e.g., "9.4.3" or a stable v10+ version)
 # https://www.jsdelivr.com/package/npm/mermaid
+# Choice for theme: neutral, forest, base, dark
 #
 mermaid:
   version: "11.16.1"
-  theme: "neutral"
+  theme: "dark"
 
 #
 # Add README.md to the exclusion list
