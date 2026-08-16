@@ -159,14 +159,18 @@ If you are using Excel (or similar) you can then conditionally code the table ce
 |     |             |       |     *20%*     |     *20%*     |     *20%*     |     *20%*     |     *20%*     |          |
 | 01  | **Step 01** | *10%* |     100%      |     100%      |     100%      |     100%      |               | **80%**  |
 | 02  | **Step 02** | *20%* |      50%      |      10%      |     100%      |     100%      |               | **52%**  |
-| 03  | **Step 03** | *15%* |      n/a      |      n/a      |      n/a      |      n/a      |               |  **-**   |
+| 03  | **Step 03** | *15%* |    *100%*     |    *100%*     |    *100%*     |    *100%*     |               | **80%**  |
 | 04  | **Step 04** | *30%* |     100%      |               |     100%      |      90%      |               | **58%**  |
 | 05  | **Step 05** | *10%* |               |               |     100%      |      50%      |               | **30%**  |
 | 06  | **Step 06** | *25%* |               |               |      50%      |               |               | **10%**  |
-|     |  *Totals*   |       |    **50%**    |    **12%**    |    **83%**    |    **62%**    |     **-**     | **41%**  |
+|     |  *Totals*   |       |    **65%**    |    **27%**    |    **98%**    |    **77%**    |     **-**     | **53%**  |
 
 You can now add a row at the bottom and a column to the right side with the following.
 - I'd recommend doing this now in Excel (or equivalent) to follow along with the rest of this page.
+
+Note that in the table above we changed the "n/a" to "*100%*" done.
+- This is to allow Excel to properly calculate the percentage done in the below analysis.
+- You can colour code the former "n/a" cells in some manner to indicate that the *100%* does not mean work actually done but work not needed (if this is important to you).
 
 Bottom Row
 - Each cell in the bottom row should be the dot product (SUMPRODUCT in Excel) of the following columns
