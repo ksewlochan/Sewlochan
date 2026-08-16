@@ -4,7 +4,7 @@ title: Table Complete
 parent: Project Management
 nav_order: 4
 has_children: false
-last_updated_at: Mon 10-Aug-2026 evening
+last_updated_at: Sun 16-Aug-2026 morning
 ---
 
 # Table Complete
@@ -86,18 +86,17 @@ We can now construct the table (tables rule!!).
 
 Construct the following table.  Likely in excel but any way that you want to manage the table is fine.
 
-## Step 01: The Heatmap
+## Step 01: The Base Table
 
-|     |             |     | **Widget 01** | **Widget 02** | **Widget 03** | **Widget 04** | **Widget 05** | *Totals* |
-| :-: | :---------: | :-: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :------: |
-|     |             |     |      20%      |      20%      |      20%      |      20%      |      20%      |          |
-| 01  | **Step 01** | 10% |               |               |               |               |               |          |
-| 02  | **Step 02** | 20% |               |               |               |               |               |          |
-| 03  | **Step 03** | 15% |               |               |               |               |               |          |
-| 04  | **Step 04** | 30% |               |               |               |               |               |          |
-| 05  | **Step 05** | 10% |               |               |               |               |               |          |
-| 06  | **Step 06** | 25% |               |               |               |               |               |          |
-|     |  *Totals*   |     |               |               |               |               |               |          |
+|     |             |       | **Widget 01** | **Widget 02** | **Widget 03** | **Widget 04** | **Widget 05** |
+| :-: | :---------: | :---: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+|     |             |       |     *20%*     |     *20%*     |     *20%*     |     *20%*     |     *20%*     |
+| 01  | **Step 01** | *10%* |               |               |               |               |               |
+| 02  | **Step 02** | *20%* |               |               |               |               |               |
+| 03  | **Step 03** | *15%* |               |               |               |               |               |
+| 04  | **Step 04** | *30%* |               |               |               |               |               |
+| 05  | **Step 05** | *10%* |               |               |               |               |               |
+| 06  | **Step 06** | *25%* |               |               |               |               |               |
 
 So, let's look at the above table and appreciate what it shows us
 - A column for each widget that we have to build.
@@ -106,12 +105,36 @@ So, let's look at the above table and appreciate what it shows us
 - Each widget and each step has a percentage of the overall size associated with it.
 - We now have a plan.  See [Status Reports](./03c_ProjectManagement_StatusReports.md) for more details on plans and how to use them.
 
-We can then fill into each cell "DONE" when we have completed that step for that widget.
 
-And we now have the first level heatmap of your plan and status against the plan.
+## Step 02: The Heatmap
+
+|     |             |       | **Widget 01** | **Widget 02** | **Widget 03** | **Widget 04** | **Widget 05** |
+| :-: | :---------: | :---: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+|     |             |       |     *20%*     |     *20%*     |     *20%*     |     *20%*     |     *20%*     |
+| 01  | **Step 01** | *10%* |     DONE      |     DONE      |     DONE      |     DONE      |               |
+| 02  | **Step 02** | *20%* |               |               |     DONE      |     DONE      |               |
+| 03  | **Step 03** | *15%* |      n/a      |      n/a      |      n/a      |      n/a      |               |
+| 04  | **Step 04** | *30%* |     DONE      |               |     DONE      |               |               |
+| 05  | **Step 05** | *10%* |               |               |     DONE      |               |               |
+| 06  | **Step 06** | *25%* |               |               |               |               |               |
+
+So, let's look at the above table and appreciate what it shows us
+- We can then fill into each cell "DONE" when we have completed that step for that widget.
+- We may expect that the DONE's will be filled in from top down and for most cases they might be.  But they do not have to be.
+- And we now have the first level heatmap of your plan and status against the plan.
 
 
-## Step 02: A Better Heatmap
+## Step 03: A Better Heatmap
+
+|     |             |       | **Widget 01** | **Widget 02** | **Widget 03** | **Widget 04** | **Widget 05** |
+| :-: | :---------: | :---: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+|     |             |       |     *20%*     |     *20%*     |     *20%*     |     *20%*     |     *20%*     |
+| 01  | **Step 01** | *10%* |     100%      |     100%      |     100%      |     100%      |               |
+| 02  | **Step 02** | *20%* |      50%      |      10%      |     100%      |     100%      |               |
+| 03  | **Step 03** | *15%* |      n/a      |      n/a      |      n/a      |      n/a      |               |
+| 04  | **Step 04** | *30%* |     100%      |               |     100%      |      90%      |               |
+| 05  | **Step 05** | *10%* |               |               |     100%      |      50%      |               |
+| 06  | **Step 06** | *25%* |               |               |      50%      |               |               |
 
 We can improve the heatmap a little by filling in the cells with something more than just DONE.
 
@@ -129,7 +152,18 @@ Note that if you can have the actual percentage done this is better.  But if not
 If you are using Excel (or similar) you can then conditionally code the table cells based on the percentage done giving you a more visual heatmap.
 
 
-## Step 03: Column and Row Totals
+## Step 04: Column and Row Totals
+
+|     |             |       | **Widget 01** | **Widget 02** | **Widget 03** | **Widget 04** | **Widget 05** | *Totals* |
+| :-: | :---------: | :---: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :------: |
+|     |             |       |     *20%*     |     *20%*     |     *20%*     |     *20%*     |     *20%*     |          |
+| 01  | **Step 01** | *10%* |     100%      |     100%      |     100%      |     100%      |               | **80%**  |
+| 02  | **Step 02** | *20%* |      50%      |      10%      |     100%      |     100%      |               | **52%**  |
+| 03  | **Step 03** | *15%* |      n/a      |      n/a      |      n/a      |      n/a      |               |  **-**   |
+| 04  | **Step 04** | *30%* |     100%      |               |     100%      |      90%      |               | **58%**  |
+| 05  | **Step 05** | *10%* |               |               |     100%      |      50%      |               | **30%**  |
+| 06  | **Step 06** | *25%* |               |               |      50%      |               |               | **10%**  |
+|     |  *Totals*   |       |    **50%**    |    **12%**    |    **83%**    |    **62%**    |     **-**     | **41%**  |
 
 You can now add a row at the bottom and a column to the right side with the following.
 - I'd recommend doing this now in Excel (or equivalent) to follow along with the rest of this page.
@@ -160,8 +194,16 @@ You can add two more dot products (SUMPRODUCT in Excel) that will calculate the 
 	- The percentages row for each column (20%, 20%, 20%, 20%, 20%, 20% in the example above).
 	- The new bottom row.
 
+You now have a very crisp method of comunicating:
+- How done is each cell.
+- How done is each column (i.e. Widget).
+- How done is each row (i.e. Step).
 
-## Step 04: Burn Up
+See [Status Reports](./03c_ProjectManagement_StatusReports.md) for more details on plans and how to use them.
+- We can answer **Where Are We Today**.
+
+
+## Step 05: Burn Up
 
 So let's say that you have the table with the bottom row and right column but have not as yet started the work.
 
@@ -170,29 +212,29 @@ The first question you should ask yourself is what is the plan to complete this 
 - What percentage done will be accomplished each week?
 
 Let's assume that you decide:
-- 10 weeks
-- 10% each week
+- 20 weeks
+- 5% most weeks but some weeks more and some weeks less as there is reality into the plan based on holidays, vacations, or other impactful things.
 
 This means that you can create a [plan](./03c_ProjectManagement_StatusReports.md) for the work to be done.
 - That plan is a simple burn up chart.
 - Week 00 - 0% done
-- Week 01 - 10% done
-- Week 02 - 20% done
+- Week 01 - 5% done
+- Week 02 - 10% done
 - etc.
 
-Each week you fill in the cells and see what the total is and add this to your burn up chart to show the actuals.
+Each week you fill in the cells of the Table Complete plan and see what the total work completed is and add this to your burn up chart to show the actuals.
 - You now have a Burn Up chart with the plan and the actual.
 - You can see of you are ahead, on-track or behind schedule just by looking at the two curves in the Burn Up chart.
 - You can then create a [status reports](./03c_ProjectManagement_StatusReports.md) to report on the status of your project.
 
-Here is a [sample Burn Up](../assets/images/03d_ProjectManagement_TableComplete_BurnUp.jpg) chart (TBD: Update the chart to more closely reflect the example above).
+Here is a [sample Burn Up](../assets/images/03d_ProjectManagement_TableComplete_BurnUp.jpg) chart.
 
 
 # Key Takeaways
 
 The tracking is simple: For Widget XX, how much of Step YY is done.
 - A simple question.
-- Ease to assertain.
+- Ease to determine.
 - Easy to fill in.
 - Easy to track.
 
@@ -213,7 +255,8 @@ Progress against the plan is easy to see in the Burn Up chart.
 
 ## Version History
 
-|                                           | Date            | Notes                 |
-| :---------------------------------------: | --------------- | --------------------- |
-| <span style="font-size: 1.5em;">01</span> | Mon 10-Aug-2026 | Initial version       |
+|                                           | Date            | Notes                                        |
+| :---------------------------------------: | --------------- | -------------------------------------------- |
+| <span style="font-size: 1.5em;">01</span> | Mon 10-Aug-2026 | Initial version                              |
+| <span style="font-size: 1.5em;">02</span> | Sun 16-Aug-2026 | Added more tables to aid in the description. |
 
