@@ -223,7 +223,7 @@ This means that you can create a [plan](./03c_ProjectManagement_StatusReports.md
 - That plan is a simple burn up chart.
 
 | Week    | Plan | Actual |
-| ------- | ---: | -----: |
+| ------- | ---- | ------ |
 | Week 01 |   5% |     2% |
 | Week 02 |  10% |     8% |
 | Week 03 |  15% |    15% |
