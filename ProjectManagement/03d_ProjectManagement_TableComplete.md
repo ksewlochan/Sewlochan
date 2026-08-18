@@ -4,7 +4,7 @@ title: Table Complete
 parent: Project Management
 nav_order: 4
 has_children: false
-last_updated_at: Sun 16-Aug-2026 morning
+last_updated_at: Tue 18-Aug-2026 afternoon
 ---
 
 # Table Complete
@@ -216,23 +216,44 @@ The first question you should ask yourself is what is the plan to complete this 
 - What percentage done will be accomplished each week?
 
 Let's assume that you decide:
-- 20 weeks
-- 5% most weeks but some weeks more and some weeks less as there is reality into the plan based on holidays, vacations, or other impactful things.
+- 10 weeks
+- 10% most weeks but some weeks more and some weeks less as there is reality into the plan based on holidays, vacations, or other impactful things.
 
 This means that you can create a [plan](./03c_ProjectManagement_StatusReports.md) for the work to be done.
 - That plan is a simple burn up chart.
-- Week 00 - 0% done
-- Week 01 - 5% done
-- Week 02 - 10% done
-- etc.
+
+| Week    | Plan | Actual |
+| ------- | ---: | -----: |
+| Week 01 |   5% |     2% |
+| Week 02 |  10% |     8% |
+| Week 03 |  15% |    15% |
+| Week 04 |  30% |    32% |
+| Week 05 |  40% |    35% |
+| Week 06 |  50% |    55% |
+| Week 07 |  60% |    53% |
+| Week 08 |  80% |        |
+| Week 09 |  90% |        |
+| Week 10 | 100% |        |
 
 Each week you fill in the cells of the Table Complete plan and see what the total work completed is and add this to your burn up chart to show the actuals.
 - You now have a Burn Up chart with the plan and the actual.
 - You can see of you are ahead, on-track or behind schedule just by looking at the two curves in the Burn Up chart.
 - You can then create a [status reports](./03c_ProjectManagement_StatusReports.md) to report on the status of your project.
 
-Here is a [sample Burn Up](../assets/images/03d_ProjectManagement_TableComplete_BurnUp.jpg) chart.
+Here is a sample Burn Up chart.
 
+``` mermaid
+---
+config:
+  theme: dark
+---
+xychart-beta
+    title "Burn Up Chart"
+    x-axis [Week01, Week02, Week03, Week04, Week05, Week06, Week07, Week08, Week09, Week10]
+    y-axis "Percentage Done" 0 --> 100
+    line [5, 10, 15, 30, 40, 50, 60, 80, 90, 100]
+    line [2, 8, 15, 32, 35, 55, 53]
+```
 
 # Key Takeaways
 
@@ -263,4 +284,5 @@ Progress against the plan is easy to see in the Burn Up chart.
 | :---------------------------------------: | --------------- | -------------------------------------------- |
 | <span style="font-size: 1.5em;">01</span> | Mon 10-Aug-2026 | Initial version                              |
 | <span style="font-size: 1.5em;">02</span> | Sun 16-Aug-2026 | Added more tables to aid in the description. |
+| <span style="font-size: 1.5em;">03</span> | Tue 18-Aug-2026 | Added inline burn up chart.                  |
 
