@@ -222,17 +222,17 @@ Let's assume that you decide:
 This means that you can create a [plan](./03c_ProjectManagement_StatusReports.md) for the work to be done.
 - That plan is a simple burn up chart.
 
-| Week    | Plan | Actual |
-| ------- | ---- | ------ |
-| Week 01 |   5% |     2% |
-| Week 02 |  10% |     8% |
-| Week 03 |  15% |    15% |
-| Week 04 |  30% |    32% |
-| Week 05 |  40% |    35% |
-| Week 06 |  50% |    55% |
-| Week 07 |  60% |    53% |
-| Week 08 |  80% |        |
-| Week 09 |  90% |        |
+|  Week   | Plan | Actual |
+| :-----: | :--: | :----: |
+| Week 01 |  5%  |   2%   |
+| Week 02 | 10%  |   8%   |
+| Week 03 | 15%  |  15%   |
+| Week 04 | 30%  |  32%   |
+| Week 05 | 40%  |  35%   |
+| Week 06 | 50%  |  55%   |
+| Week 07 | 60%  |  53%   |
+| Week 08 | 80%  |        |
+| Week 09 | 90%  |        |
 | Week 10 | 100% |        |
 
 Each week you fill in the cells of the Table Complete plan and see what the total work completed is and add this to your burn up chart to show the actuals.
