@@ -12,7 +12,7 @@ last_updated_at: Tue 18-Aug-2026 afternoon
 
 # Staff
 
-==Bonnie Sewlochan is a respected and trusted partner for numerous clients and the founder and President of Bolynn Corp.==
+> Bonnie Sewlochan is a respected and trusted partner for numerous clients and the founder and President of Bolynn Corp.
 
 Bolynn Corp. was founded with the philosophy of the right person for the right job.
 

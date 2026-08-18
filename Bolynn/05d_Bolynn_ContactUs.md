@@ -10,7 +10,7 @@ last_updated_at: Tue 18-Aug-2026 afternoon
 
 # Bolynn Corp: Trusted Partner in Health Care
 
-==Bolynn Corp is currently inactive.==
+> Bolynn Corp is currently inactive.
 
 
 # Appendix
