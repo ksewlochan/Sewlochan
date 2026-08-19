@@ -9,7 +9,7 @@ last_updated_at: Wed 19-Aug-2026 afternoon
 
 # Burn Down Charts
 
-Building upon [Earned Value Analysis](03e_ProjectManagement_EVA), a Burn Down Chart captures an amazing amount of information as to the progress of your project.
+Building upon [Earned Value Analysis](03e_ProjectManagement_EVA), a Burn Down Chart captures an amazing amount of information as to the progress of the project.
 
 - Table of Contents
 {:toc}
@@ -24,7 +24,7 @@ This page build upon [Earned Value Analysis](03e_ProjectManagement_EVA), and I w
 
 # Vision
 
-A burndown chart is a visual representation of some data that helps you track your project.
+A burndown chart is a visual representation of some data that helps you track a project.
 
 Here a project means
 - A set of tasks to accomplish a goal.
@@ -36,7 +36,7 @@ There is a desire to
 - Track work done and remaining.
 - Predict the future.
 
-To understand how a burndown chart works and why you may want to use it, let's walk through an example.
+To understand how a burndown chart works and why it is beneficial, let's walk through an example.
 
 # Data
 
@@ -50,48 +50,47 @@ In particular we have two types of data:
 
 ## Independent Data
 
-Let's start with your project and what you will need to know about it.
+Let's start with the project and what project stakeholders will need to know about it.
 
 ### Size
-- Your project has a planned size.
+- The project has a planned size.
 - This is also known as the **Budget at Completion**
-- It can be the number of days to accomplish all work across all members of the group working on the project.
-- It could be the number of widgets that you need to build.
-- It could be the **number of points** that you need to build.
+- It can be the number of days to accomplish all work, across all members of the group working on the project.
+- It could be the number of widgets that need to be build.
+- It could be the **number of points** that need to be build.
 
 ### Periods
-- Your project will be delivered in a number of periods.
+- The project will be delivered in a number of periods.
 - These could be weeks / months / etc.
 - These could be **sprints**.
 
 ### Velocity - Planned
-- Now that you have the total size (e.g. points) and the total number of periods (e.g. sprints) we need to determine how much work we will accomplish in each period (e.g. sprints).
+- Now that the project has the total size (e.g. points) and the total number of periods (e.g. sprints) we need to determine how much work we will accomplish in each period (e.g. sprints).
 - So in our example, how many points will we do in each sprint.
 - This could be evenly distributed.
-	- So say that you have 1,000 points to deliver over 10 sprints; we could say that the velocity is 100 points per sprint.
+	- So if have 1,000 points to deliver over 10 sprints; we could say that the velocity is 100 points per sprint.
 - More likely it will not be evenly distributed for a number of reasons.
-	- Staff: People will be taking vacations over the duration of your project.
-	- Holidays: Certain larger holidays could lower your ability to do work in some sprints.
-	- Ramp Up: Your staff will e ramping up and may not be the most efficient at the start of the project.
+	- **Staff**: People will be taking vacations over the duration of your project.
+	- **Holidays**: Certain larger holidays could lower your ability to do work in some sprints.
+	- **Ramp Up**: Your staff will e ramping up and may not be the most efficient at the start of the project.
 	- etc.
 
 ### Velocity - Actual
-- As you are executing your project you will have the actual velocity (e.g. the number of points accomplished each sprint) which will likely not be the same as the planned velocity.
+- As the project is being executed, the project you will have the actual velocity (e.g. the number of points accomplished each sprint) which will likely not be the same as the planned velocity.
 
 ### Size Added or Removed
-- As you execute your project you will realize that some of your original estimations of work were not correct.
-- You forgot work that needs to be added.
-- Or you assumed some work that was needed no longer is needed.
-- So you will add or remove work (e.g. points) through out the execution of your project.
+- As the project is being executed, it will become clear that some of your original estimations of work were not correct.
+- Work that was forgotten, needs to be added.
+- Work that was assumed to be needed, is no longer is needed.
+- So the project will add or remove work (e.g. points) through out the execution of the project.
 
 ### Velocity - Projected
-- As you execute your project you will need to adjust your projected velocity for a number of reasons.
-	- You did not accomplish as much work as you initially thought you would.
-	- You accomplished more work that you thought.
-	- You added or remove work (e.g. points) to be done.
-	- You changed staff.
+- As the project is being executed, it will need to adjust the projected velocity for the remaining periods (e.g. sprints).  This will occur for a number of reasons:
+	- Not as much work as initially thought would be done, was in fact done.
+	- More work than expected was done.
+	- Staffing levels changed.
 	- etc.
-- This will result in future periods (e.g. sprints) having a different velocity than the planned velocity.
+- This will result in future periods (e.g. sprints) having a different velocity than the initially planned velocity.
 
 Note that in the above the following are one time things
 - Size
@@ -112,15 +111,15 @@ Now that we have our independent data there are a number of dependent (or derive
 
 ### Planned Burndown
 - Given the number of periods (e.g. sprints) and the velocity for each period we can easily calculate the planned burndown.
-- Starting with the total size (e.g. points) just before we start.
+- Starting with the total size (e.g. points) just before we start (i.e. the **Budget at Completion**)
 - Then reducing by the planned velocity each period (e.g. sprints).
-- You get your Planned Burndown across the project.
-- This tells you the amount of remaining work at the end of each period (e.g. sprint).
+- The Planned Burndown across the project emerges.
+- This shows the amount of remaining work at the end of each period (e.g. sprint).
 
 ### Planned Value (size)
 - The inverse of the Planned Burndown is the Planned Value.
-- That is, how much work do you intend to have accomplished at the end of each period.
-- It is simply the cumulative sum of the planned velocity as you complete each period (e.g. sprint).
+- That is, how much work that was intended to have accomplished at the end of each period.
+- It is simply the cumulative sum of the planned velocity as each period (e.g. sprint) is completed.
 
 ### Planned Value (%)
 - At the end of each period (e.g. sprint) this is
@@ -128,18 +127,18 @@ Now that we have our independent data there are a number of dependent (or derive
 - That is, what percentage of the project do you intend to have completed by the end of each period (e.g. sprint)?
 
 ### Velocity - Actual Completed (AC)
-- This is how much work (e.g. points) you have actually completed at the end of each period (e.g. sprint).
-- It is simply the cumulative sum of the actual velocity as you complete each period (e.g. sprint).
+- This is how much work (e.g. points) has actually been completed at the end of each period (e.g. sprint).
+- It is simply the cumulative sum of the actual velocity as each period (e.g. sprint) is completed.
 - You will note that, in the general case, the **Velocity - Actual Completed (AC)** will not be the same as the **Velocity - Projected**.
-- Rarely do our realities exactly match our plans; and that is ok.
+	- Rarely do our realities exactly match our plans; and that is ok.
 
 ### Velocity - Average
-- You can calculate the average velocity across your periods (e.g. sprint).
+- We can calculate the average velocity across your periods (e.g. sprint).
 - There are many ways to calculate this but two popular mechanisms are:
 	- Average
-		- This is the average across all periods.
+		- This is the average across all periods (e.g. sprints).
 	- Rolling X Average
-		- This is the average across the last X periods.
+		- This is the average across the last X periods (e.g. sprints).
 		- This is often a more indicative number of future performance as it eliminates the older velocities where the team was not working as they are now.
 		- Often X is three as this is a good number but pick your own number as you desire.
 
@@ -151,7 +150,7 @@ Now that we have our independent data there are a number of dependent (or derive
 	- **Initial Points**   +   **Points Added**   -   **Points Removed**
 
 
-### Points Remaining
+### Size (Points) Remaining
 - At the end of each period (e.g. sprint) you will have
 	- Total Points / Estimate at Completion (EAC)
 	- Velocity - Actual Completed (AC)
@@ -192,6 +191,25 @@ Now that we have our independent data there are a number of dependent (or derive
 - The tracking of the entire project can be brought down to this one number.
 	- Equal to or greater than 100%: Nothing to worry about.
 	- Less than 100%: Ask some questions and understand where the project is.
+
+
+## Summary
+
+| Planning Measurements                | Tracking Measurements            | Ending Measurements              |
+| ------------------------------------ | -------------------------------- | -------------------------------- |
+| [Size / Budget at Completion](#size) | Total Points Projected           | Estimate at Compltion (EAC)      |
+| [Periods](#periods)                  |                                  |                                  |
+| Velocity - Planned                   | Velocity - Actual                |                                  |
+|                                      | Velocity - Average               |                                  |
+|                                      | Velocity - Projected             |                                  |
+|                                      | Estimate to Complete (ETC)       |                                  |
+| Planned Burndown                     |                                  |                                  |
+| Planned Value (size)                 | Velocity - Actual Completed (AC) |                                  |
+| Planned Value (%)                    |                                  |                                  |
+|                                      | Size (Points) Remaining          |                                  |
+|                                      | Earned Value (%) EV%             |                                  |
+|                                      | Earned Value (size) EV           |                                  |
+|                                      |                                  | Schedule Performanec Index (SPI) |
 
 
 # Chart
