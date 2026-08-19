@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Earned Value Analysis
+title: Burn Down Charts
 parent: Project Management
-nav_order: 5
+nav_order: 6
 has_children: false
 last_updated_at: Wed 19-Aug-2026 afternoon
 ---
