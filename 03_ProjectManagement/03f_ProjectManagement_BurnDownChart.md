@@ -38,8 +38,6 @@ There is a desire to
 
 To understand how a burndown chart works and why you may want to use it, let's walk through an example.
 
-[Here](../assets/images/03f_ProjectManagement_BurnDownChart.jpg) is a screen grab that may help you visualize what we are discussing in the below.
-
 # Data
 
 Recall that we start with the data.
@@ -47,6 +45,8 @@ Recall that we start with the data.
 In particular we have two types of data:
 - Independent
 - Dependent (also can be thought of as derived)
+
+[Here](../assets/images/03f_ProjectManagement_BurnDownChart_Data.jpg) is a screen grab that may help you visualize what we are discussing in the below.
 
 ## Independent Data
 
