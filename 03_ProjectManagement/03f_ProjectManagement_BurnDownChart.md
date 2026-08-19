@@ -55,19 +55,17 @@ Let's start with your project and what you will need to know about it.
 ### Size
 - Your project has a planned size.
 - This is also known as the **Budget at Completion**
-- It can be the number of days to accomplish across all members of the group working on the project.
+- It can be the number of days to accomplish all work across all members of the group working on the project.
 - It could be the number of widgets that you need to build.
 - It could be the **number of points** that you need to build.
-- etc.
 
 ### Periods
 - Your project will be delivered in a number of periods.
 - These could be weeks / months / etc.
 - These could be **sprints**.
-- etc.
 
 ### Velocity - Planned
-- Now that you have the total size (e.g. points) and the total number of periods (e.g. sprints) we need to determine how much work we will accomplish in each period.
+- Now that you have the total size (e.g. points) and the total number of periods (e.g. sprints) we need to determine how much work we will accomplish in each period (e.g. sprints).
 - So in our example, how many points will we do in each sprint.
 - This could be evenly distributed.
 	- So say that you have 1,000 points to deliver over 10 sprints; we could say that the velocity is 100 points per sprint.
@@ -100,12 +98,12 @@ Note that in the above the following are one time things
 - Periods
 - Velocity - Planned
 
-And these occur once at the end of each period
+And these occur once at the end of each period (e.g. sprints)
 - Velocity - Actual
 - Size Added or Removed
 - Velocity - Projected
 
-That's it.  Just three independent variables for each period.
+That's it.  Just three independent variables for each period (e.g. sprints).
 
 
 ## Dependent (or Derived) Data
@@ -113,9 +111,9 @@ That's it.  Just three independent variables for each period.
 Now that we have our independent data there are a number of dependent (or derived) data that we can calculate.
 
 ### Planned Burndown
-- Given the number of periods and the velocity for each period we can easily calculate the planned burndown.
+- Given the number of periods (e.g. sprints) and the velocity for each period we can easily calculate the planned burndown.
 - Starting with the total size (e.g. points) just before we start.
-- Then reducing by the planned velocity each period.
+- Then reducing by the planned velocity each period (e.g. sprints).
 - You get your Planned Burndown across the project.
 - This tells you the amount of remaining work at the end of each period (e.g. sprint).
 
@@ -126,7 +124,7 @@ Now that we have our independent data there are a number of dependent (or derive
 
 ### Planned Value (%)
 - At the end of each period (e.g. sprint) this is
-	- $Planned Value (e.g. points) / Size (e.g. Budget at Completion)$
+	- **Planned Value (e.g. points)**   /   **Size (e.g. Budget at Completion)**
 - That is, what percentage of the project do you intend to have completed by the end of each period (e.g. sprint)?
 
 ### Velocity - Actual Completed (AC)
@@ -147,10 +145,10 @@ Now that we have our independent data there are a number of dependent (or derive
 
 ### Total Points Projected - Estimate at Completion (EAC)
 - Over the period (e.g. sprints) the project may have added or removed points.
-- This gives you a running total of the expected size at the end of the project at any given time.
-	- $Initial Size + Size Added - Size Removed$
+- This gives you a running total of the expected size (e.g. points) at the end of the project at any given time.
+	- **Initial Size**   +   **Size Added**   -   **Size Removed**
 - or
-	- $Initial Points + Points Added - Points Removed$
+	- **Initial Points**   +   **Points Added**   -   **Points Removed**
 
 
 ### Points Remaining
@@ -158,8 +156,8 @@ Now that we have our independent data there are a number of dependent (or derive
 	- Total Points / Estimate at Completion (EAC)
 	- Velocity - Actual Completed (AC)
 - Simple math will give you the Points Remaining as
-	- $"Total Points Projected - Estimate at Completion (EAC)" - Velocity - Actual Completed (AC)"$
-- That is, given the current estimate of how large the project is; and the size of the work already completed.  Then how much work (e.g. points) is remaining?
+	- **Total Points Projected - Estimate at Completion (EAC)**   -   **Velocity - Actual Completed (AC)**
+- That is, given the current estimate of how large the project is; and the size (e.g. points) of the work already completed.  Then how much work (e.g. points) is remaining?
 
 ### Velocity Projected
 - At the end of each period (e.g. sprint) you will have
@@ -169,23 +167,23 @@ Now that we have our independent data there are a number of dependent (or derive
 - We need to fit in the remaining work (e.g. points) into the remaining periods (e.g. sprints).
 
 ### Estimate To Completion (ETC)
-- Given that we have a new projected velocity we will have a new estimate of the size of work needed to complete the project for each of the upcoming periods.
+- Given that we have a new projected velocity we will have a new estimate of the size (e.g. points) of work needed to complete the project for each of the upcoming periods.
 - This is simply the remaining work (e.g. points) each period (e.g. sprint) after the projected velocity has been accomplished.
 
 ### Earned Value (%)
 - Recall that we started with the **Planned Value (%)** which was the percentage of the plan that we expected to have completed each period (e.g. sprint).
 - Given that we did exactly meet the plan in each period (e.g. sprint) we need to calculate the Earned Value (%) as
-	- $"Velocity - Actual Completed (AC)" / "Total Points Projected - Estimate at Completion (EAC)"$
+	- **Velocity - Actual Completed (AC)**   /   **Total Points Projected - Estimate at Completion (EAC)**
 - This is the percentage of the original plan that was actually earned.
 
 ### Earned Value (EV) (points)
-- Similar to the **Earned Value (%)** this measurement tells us how much of the original size of the project have we earned.
-	- $Earned Value (%) \* Budget at Completion $
+- Similar to the **Earned Value (%)** this measurement tells us how much of the original size (e.g. points) of the project have we earned.
+	- **Earned Value (%)**   \*   **Budget at Completion**
 - This is the number of original size (e.g. points) that that was actually earned.
 
 ### Schedule Performance Index (SPI)
 - This is measure as to whether we are on track against plan or not.
-	- $Planned Value (%) / Earned Value (%) $
+	- **Planned Value (%)**   /   **Earned Value (%)**
 - That is how does our earned value compare to the planned value.
 - This is very simple to interpret
 	- Greater than 100%: Ahead of schedule.
@@ -218,7 +216,7 @@ If we look at [this chart](../assets/images/03f_ProjectManagement_BurnDownChart.
 
 ### Plan Burndown
 - This is your planned burndown.
-- It will start at the full size and then reduce each period (e.g. sprint) by the planned velocity for that sprint.
+- It will start at the full size (e.g. points) and then reduce each period (e.g. sprint) by the planned velocity for that sprint.
 - It if your plan at a glance.
 
 ### Points Remaining
@@ -236,11 +234,11 @@ If we look at [this chart](../assets/images/03f_ProjectManagement_BurnDownChart.
 - If flat
 	- Total project size is under control and not deviating from the plan.
 - If reducing
-	- Total project size is getting smaller.
+	- Total project size (e.g. points) is getting smaller.
 	- Determine why and if the reason is a good thing or not.
 	- But from a project delivery perspective this is a good thing as there is less to deliver than was planned so the chances of being late are reduced.
 - If increasing
-	- Total project size is getting larger.
+	- Total project size (e.g. points) is getting larger.
 	- Determine why and if the reason is a good thing or not.
 	- But from a project delivery perspective this is cause for worry as the project has more to deliver than was originally planned.
 
@@ -263,10 +261,11 @@ If we look at [this chart](../assets/images/03f_ProjectManagement_BurnDownChart.
 
 ## Attachments
 
-| Attachment                                                                 | Description            |
-| -------------------------------------------------------------------------- | ---------------------- |
-| [Burndown Chart](../assets/images/03f_ProjectManagement_BurnDownChart.jpg) | Sample burndown chart. |
-| [Burndown Chart Sample](../assets/images/BurnDownCharts.xlsx)              | Sample excel file.     |
+| Attachment                                                                             | Description            |
+| -------------------------------------------------------------------------------------- | ---------------------- |
+| [Burndown Chart - Data](../assets/images/03f_ProjectManagement_BurnDownChart_Data.jpg) | Sample burndown data.  |
+| [Burndown Chart - Chart](../assets/images/03f_ProjectManagement_BurnDownChart.jpg)     | Sample burndown chart. |
+| [Burndown Chart Sample](../assets/images/BurnDownCharts.xlsx)                          | Sample excel file.     |
 
 
 ## Version History
