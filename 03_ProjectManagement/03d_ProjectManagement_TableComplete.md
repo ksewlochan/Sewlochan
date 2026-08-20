@@ -29,7 +29,7 @@ By taking these two dimensions and putting them into a table you get
 - Clear heatmap to track progress.
 - Adding percentage done in each cell gives you clear percentage done for each row and each column.
 
-This page tells you how to accomplish this and more.
+This page tells you how to accomplish the above and more.
 
 # Vision	
 

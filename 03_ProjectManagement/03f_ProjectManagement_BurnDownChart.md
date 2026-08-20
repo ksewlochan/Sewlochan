@@ -17,6 +17,19 @@ Building upon [Earned Value Analysis](03e_ProjectManagement_EVA), a Burn Down Ch
 Last updated: {{ page.last_updated_at }}
 
 
+# Executive Summary
+
+Building upon [Earned Value Analysis](./03e_ProjectManagement_EVA) the modern Burn Down Chart is a wealth of information to allow you to track a project with minimal input data.
+
+Burn Down Charts will show you
+- The plan
+- The actuals
+- How the actuals compare to the plan
+- Predict the future
+
+This page tells you how to accomplish the above and more.
+
+
 # Prerequisite
 
 This page build upon [Earned Value Analysis](03e_ProjectManagement_EVA), and I would recommend that you have a read of that first so that you have a basic understanding of what Earned Value Analysis is.

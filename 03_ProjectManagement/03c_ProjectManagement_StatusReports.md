@@ -18,6 +18,18 @@ But you should still know how to do a good status report.
 
 Last updated: {{ page.last_updated_at }}
 
+# Executive Summary
+
+Almost everything in business (and more) is a status report
+- What was the plan?
+- Where are we today?
+- On or off plan?
+- What should we do about it?
+
+How should we think about and communicate status reports?
+
+This page tells you how to accomplish the above and more.
+
 # The Anatomy of a Status Report
 
 A status report consists of only a few parts:
