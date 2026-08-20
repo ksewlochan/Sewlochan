@@ -10,7 +10,7 @@ Welcome to the Sewlochan home page.
 
 It started out as a symatico page.
 
-Then moved to Google Sites.
+Then moved to [Google Sites](https://sites.google.com/sewlochan.com/sewlochan-com).
 
 And now we are here - GitHub Pages.
 
