@@ -17,6 +17,20 @@ Tables are the best thing in the world and using them you can create a very powe
 Last updated: {{ page.last_updated_at }}
 
 
+# Executive Summary
+
+Many of the projects that you track can be broken into two dimension.
+- Steps to build widgets.
+- Phases of multiple projects.
+
+By taking these two dimensions and putting them into a table you get
+- Clear identification of the two dimensions.
+- Clear status in each cell of (Dimension 01) x (Dimension 02).
+- Clear heatmap to track progress.
+- Adding percentage done in each cell gives you clear percentage done for each row and each column.
+
+This page tells you how to accomplish this and more.
+
 # Vision	
 
 You have a project to track to completion.	
