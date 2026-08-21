@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+      - last_updated_at
+      - parent
+      - title
