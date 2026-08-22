@@ -22,13 +22,13 @@ Last updated: {{ page.last_updated_at }}
 
 
 
-## Goal
+# Goal
 
 - Transfer your portfolio to your heirs
 - You're dead
 - How to transfer your portfolio to your heirs in the most efficient (i.e. with least fees) manner possible
 
-## Considerations
+# Considerations
 
 - Wills
 - Power of Attorney - Financial

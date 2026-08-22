@@ -20,13 +20,13 @@ last_updated_at: Sat 22-Aug-2026 afternoon
 Last updated: {{ page.last_updated_at }}
 
 
-## Goal
+# Goal
 
 - Live off your portfolio
 - Stopped working
 - Ideally still growing in value but at least enough to see you to death
 
-## Considerations
+# Considerations
 
 - RRIF
 - LIRA
@@ -37,7 +37,7 @@ Last updated: {{ page.last_updated_at }}
 - Dividends vs Three Bucket Strategy
 
 
-## Retirement Income Sources – Government
+# Retirement Income Sources – Government
 
 |                    | CPP - Canadian Pension Plan                                                                                                                                         | OAS - Old Age Security                                                                                                         | GST / HST Tax Credits | GIS - Guaranteed Income Supplement                                                                                                                          |
 | -----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -56,7 +56,7 @@ More Information:
 - [https://www.taxtips.ca/taxrates/on.htm](https://www.taxtips.ca/taxrates/on.htm)
 
 
-## Calculators
+# Calculators
 
 PERC - Personal Enhanced Retirement Calculator
 - [https://perc.morneaushepell.com ](https://perc.morneaushepell.com )
