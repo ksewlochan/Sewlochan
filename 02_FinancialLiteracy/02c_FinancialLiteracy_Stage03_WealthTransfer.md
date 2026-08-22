@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stage 01 Wealth Transfer
+title: Wealth Transfer
 parent: Financial Literacy
 nav_order: 3
 has_children: false

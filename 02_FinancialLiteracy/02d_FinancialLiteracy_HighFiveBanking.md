@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The High Five Banking Method
+title: High Five Banking
 parent: Financial Literacy
 nav_order: 4
 has_children: false

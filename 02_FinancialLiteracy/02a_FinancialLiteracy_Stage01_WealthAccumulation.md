@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stage 01 Wealth Accumulation
+title: Wealth Accumulation
 parent: Financial Literacy
 nav_order: 1
 has_children: false

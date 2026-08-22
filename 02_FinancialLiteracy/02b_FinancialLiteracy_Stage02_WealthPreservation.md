@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stage 01 Wealth Preservation
+title: Wealth Preservation
 parent: Financial Literacy
 nav_order: 2
 has_children: false
