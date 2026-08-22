@@ -47,6 +47,8 @@ There is no warranty implied in this document.  You own your own financial journ
 
 # Levels of Financial Independence
 
+Financial independence is not a binary thing.  It has levels as you increase your wealth.
+
 |                                           | Name                                | Description                                                                                                                                                                                                                                                                                                                                                                      |
 | :---------------------------------------: | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <span style="font-size: 1.5em;">00</span> | **Financial Dependency**            | Debt and living expenses greater than your income                                                                                                                                                                                                                                                                                                                                |
