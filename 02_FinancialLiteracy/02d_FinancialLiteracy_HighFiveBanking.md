@@ -2,7 +2,7 @@
 layout: default
 title: The High Five Banking Method
 parent: Financial Literacy
-nav_order: 2
+nav_order: 4
 has_children: false
 last_updated_at: Fri 21-Aug-2026 evening
 ---
