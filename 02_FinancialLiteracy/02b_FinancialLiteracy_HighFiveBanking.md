@@ -117,7 +117,7 @@ Joint accounts (between spouses, roommates, etc.) can represent an extra level o
 ## Design
 
 ``` mermaid
-	flowchart LR
+	flowchart TD
 		Paycheque01["Paycheque 01"] --> BankAccount01["Banking Accounts 01"]
 		BankAccount01 --> HighFive01["High Five 01"]
 		
