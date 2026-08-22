@@ -7,7 +7,7 @@ has_children: true
 
 # Financial Literacy
 
-## Motivation
+# Motivation
 
 The goal of these pages is to get you to financial independence.
 
@@ -28,7 +28,7 @@ Note that the pursuit of money is the root of all evil.
 - Acquire money to live well.
 
 
-## Disclaimers
+# Disclaimers
 
 - This is not financial advice - it is support, education and/or entertainment.
 - Your situation will be different that others.
@@ -45,7 +45,7 @@ All original content in this document is copyrighted (unless otherwise stated) a
 There is no warranty implied in this document.  You own your own financial journey.
 
 
-## Levels of Financial Independence
+# Levels of Financial Independence
 
 |                                           | Name                                | Description                                                                                                                                                                                                                                                                                                                                                                      |
 | :---------------------------------------: | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -61,3 +61,14 @@ There is no warranty implied in this document.  You own your own financial journ
 | <span style="font-size: 1.5em;">09</span> | **Financial Abundance**             | Cash flow from investment is more than you will even need<br>3x financial freedom number                                                                                                                                                                                                                                                                                         |
 
 Reference: [https://www.youtube.com/watch?v=kDSHHiFMJ_I ](https://www.youtube.com/watch?v=kDSHHiFMJ_I )
+
+
+# Stages
+
+There are three high level stages of wealth.
+
+|                                           | Name                                                                         | Description                                        |
+| :---------------------------------------: | ---------------------------------------------------------------------------- | -------------------------------------------------- |
+| <span style="font-size: 1.5em;">01</span> | [Wealth Accumulation](./02a_FinancialLiteracy_Stage01_WealthAccumulation.md) | How to accumulate wealth.                          |
+| <span style="font-size: 1.5em;">02</span> | [Wealth Preservation](./02b_FinancialLiteracy_Stage02_WealthPreservation.md) | How to preserve your wealth during retirement.     |
+| <span style="font-size: 1.5em;">03</span> | [Wealth Transfer](./02c_FinancialLiteracy_Stage03_WealthTransfer.md)         | How to transfer your wealth to your beneficiaries. |
