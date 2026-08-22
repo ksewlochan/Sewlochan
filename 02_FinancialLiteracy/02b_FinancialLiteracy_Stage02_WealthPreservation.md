@@ -10,7 +10,7 @@ last_updated_at: Sat 22-Aug-2026 afternoon
 
 # UNDER CONSTRUCTION
 
-# Retirement
+# Stage 02: Wealth Preservation
 
 [Wealth accumulation](02a_FinancialLiteracy_Stage01_WealthAccumulation.md#stage-01-wealth-accumulation) is the easy part.  Retirement and living off your savings is where it gets tricky.
 
@@ -88,6 +88,6 @@ Three Bucket Strategy
 
 ## Version History
 
-|                                           | Date            | Notes           |
-| :---------------------------------------: | --------------- | --------------- |
-| <span style="font-size: 1.5em;">01</span> | Sat 22-Aug-2026 | Initial version |
+|                                           | Date            | Notes                 |
+| :---------------------------------------: | --------------- | --------------------- |
+| <span style="font-size: 1.5em;">01</span> | Sat 22-Aug-2026 | Moved to its own page |

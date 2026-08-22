@@ -8,7 +8,7 @@ last_updated_at: Sat 22-Aug-2026 afternoon
 ---
 
 
-# Your Financial Journey
+# Stage 01: Wealth Accumulation
 
 Some ideas to guide, navigate and support your financial journey.
 
@@ -581,13 +581,14 @@ See [Retirement](02b_FinancialLiteracy_Stage02_WealthPreservation.md) for more i
 
 ## Version History
 
-|                                           | Date            | Notes               |
-| :---------------------------------------: | --------------- | ------------------- |
-| <span style="font-size: 1.5em;">01</span> | Mon 30-Jan-2022 | Initial version     |
-| <span style="font-size: 1.5em;">02</span> | Mon 13-Mar-2023 | Second version      |
-| <span style="font-size: 1.5em;">03</span> | Fri 30-Jun-2023 | Third version       |
-| <span style="font-size: 1.5em;">04</span> | Thu 14-Mar-2024 | General cleanup     |
-| <span style="font-size: 1.5em;">05</span> | Sun 9-Aug-2026  | Convert to markdown |
+|                                           | Date            | Notes                                       |
+| :---------------------------------------: | --------------- | ------------------------------------------- |
+| <span style="font-size: 1.5em;">01</span> | Mon 30-Jan-2022 | Initial version                             |
+| <span style="font-size: 1.5em;">02</span> | Mon 13-Mar-2023 | Second version                              |
+| <span style="font-size: 1.5em;">03</span> | Fri 30-Jun-2023 | Third version                               |
+| <span style="font-size: 1.5em;">04</span> | Thu 14-Mar-2024 | General cleanup                             |
+| <span style="font-size: 1.5em;">05</span> | Sun 9-Aug-2026  | Convert to markdown                         |
+| <span style="font-size: 1.5em;">06</span> | Sat 22-Aug-2026 | Moved content from this page to other pages |
 
 
 
