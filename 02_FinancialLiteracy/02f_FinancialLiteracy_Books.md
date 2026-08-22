@@ -2,7 +2,7 @@
 layout: default
 title: Books
 parent: Financial Literacy
-nav_order: 4
+nav_order: 6
 has_children: false
 last_updated_at: Wed 12-Aug-2026 afternoon
 ---
