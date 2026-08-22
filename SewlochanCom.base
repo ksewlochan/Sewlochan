@@ -11,3 +11,8 @@ views:
       - last_updated_at
       - parent
       - title
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: last_updated_at
+        direction: DESC
