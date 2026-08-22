@@ -605,7 +605,7 @@ After a few months it is possible that your actual asset allocation has drifted 
 
 # Stage 02: Wealth Preservation - UNDER CONSTRUCTION
 
-See [Retirement](./02e_FinancialLiteracy_Retirement) for more information.
+See [Retirement](02b_FinancialLiteracy_Stage02_WealthPreservation.md) for more information.
 
 
 # Stage 03: Wealth Transfer - UNDER CONSTRUCTION
