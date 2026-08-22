@@ -12,7 +12,7 @@ last_updated_at: Sat 22-Aug-2026 afternoon
 
 # Retirement
 
-[Wealth accumulation](./02a_FinancialLiteracy_YourFinancialJourney#stage-01-wealth-accumulation) is the easy part.  Retirement and living off your savings is where it gets tricky.
+[Wealth accumulation](02a_FinancialLiteracy_Stage01_WealthAccumulation.md#stage-01-wealth-accumulation) is the easy part.  Retirement and living off your savings is where it gets tricky.
 
 - Table of Contents
 {:toc}
