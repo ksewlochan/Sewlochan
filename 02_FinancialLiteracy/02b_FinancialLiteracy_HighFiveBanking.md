@@ -143,6 +143,9 @@ Notes
 - Each person's Banking Accounts will send money to their own High Five set of accounts.
 	- This will allow each person to have their own set of accounts (savings, spending, investing, etc.).
 - **Bank Accounts 01** will send funds to **Joint 01**; and **Bank Accounts 02** will send funds to **Joint 02**.
+	- The couple needs to decide how much money should be moved to the **Joint 01** and **Joint 02** accounts.  Some options:
+		- A percentage - 10% is kept and 90% is moved into the joint accounts.
+		- A fixed amount - $100 is kept and the rest is moved into the joint accounts.
 	- Each joint account is dually owned by both people so this achieves the legal need for this to be a joint account amoung the partners.
 	- But there is a separation so that we know that the funds that end up in **Joint 01** came from **Person 01** and similarly for 02.
 	- This achieves tax clarity.
