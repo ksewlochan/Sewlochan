@@ -4,7 +4,7 @@ title: The High Five Banking Method
 parent: Financial Literacy
 nav_order: 2
 has_children: false
-last_updated_at: Wed 12-Aug-2026 afternoon
+last_updated_at: Fri 21-Aug-2026 evening
 ---
 
 
@@ -102,11 +102,61 @@ Strike the balance that is good for you.
 
 [https://www.moneysense.ca/save/banking/the-best-banks-in-canada/](https://www.moneysense.ca/save/banking/the-best-banks-in-canada/)
 
-# Appendix
 
+# Joint Accounts
+
+Joint accounts (between spouses, roommates, etc.) can represent an extra level of complication above and beyond The High Five Banking Method.
+
+## Requirements
+- There are two people: People 01 and People 02.
+- Each person should have their own accounts (banking and investing).
+- There should be joint account(s) for shared activities.
+- Each person should have their own possessions protected.
+
+
+## Design
+
+``` mermaid
+	flowchart LR
+		Paycheque01["Paycheque 01"] --> BankAccount01["Banking Accounts 01"]
+		BankAccount01 --> HighFive01["High Five 01"]
+		
+		Paycheque02["Paycheque 02"] --> BankAccount02["Banking Accounts 02"]
+		BankAccount02 --> HighFive02["High Five 02"]
+		
+		subgraph Joint["Joint"]
+			direction TD
+			Joint01["Joint 01"]
+			Joint02["Joint 02"]
+		end
+		
+		BankAccount01 --> Joint01
+		BankAccount02 --> Joint02
+		
+		Joint --> HighFive["High Five Joint"]
+```
+
+
+Notes
+- Each person's paycheque is dropped into their own bank account.
+	- This prevents comingling of the funds.
+- Each person's Banking Accounts will send money to their own High Five set of accounts.
+	- This will allow each person to have their own set of accounts (savings, spending, investing, etc.).
+- Bank Accounts 01 will send funds to Joint 01; and Bank Accounts 02 will send funds to Joint 02.
+	- Each joint account is dually owned by both people so this achieves the legal need for this to be a joint account amoung the partners.
+	- But there is a separation so that we know that the funds that end up in Joint 01 came from Person 01 and similarly for 02.
+	- This achieves tax clarity.
+		- If a tax slip is generated for Joint 01 we know that this should be filed with Person 01's taxes and similarly for 02.
+		- A question would be: Is this level of clarity needed?
+			- If these accounts will hold very little funds and thus generate very little tax implications then this level of complexity.
+
+
+
+# Appendix
 
 ## Version History
 
-|                                           | Date            | Notes               |
-| :---------------------------------------: | --------------- | ------------------- |
-| <span style="font-size: 1.5em;">01</span> | Wed 12-Aug-2026 | Initial version     |
+|                                           | Date            | Notes                    |
+| :---------------------------------------: | --------------- | ------------------------ |
+| <span style="font-size: 1.5em;">01</span> | Wed 12-Aug-2026 | Initial version          |
+| <span style="font-size: 1.5em;">02</span> | Fri 21-Aug-2026 | Added **Joint Accounts** |
