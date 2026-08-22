@@ -142,13 +142,15 @@ Notes
 	- This prevents comingling of the funds.
 - Each person's Banking Accounts will send money to their own High Five set of accounts.
 	- This will allow each person to have their own set of accounts (savings, spending, investing, etc.).
-- Bank Accounts 01 will send funds to Joint 01; and Bank Accounts 02 will send funds to Joint 02.
+- **Bank Accounts 01** will send funds to **Joint 01**; and **Bank Accounts 02** will send funds to **Joint 02**.
 	- Each joint account is dually owned by both people so this achieves the legal need for this to be a joint account amoung the partners.
-	- But there is a separation so that we know that the funds that end up in Joint 01 came from Person 01 and similarly for 02.
+	- But there is a separation so that we know that the funds that end up in **Joint 01** came from **Person 01** and similarly for 02.
 	- This achieves tax clarity.
-		- If a tax slip is generated for Joint 01 we know that this should be filed with Person 01's taxes and similarly for 02.
+		- If a tax slip is generated for **Joint 01** we know that this should be filed with **Person 01**'s taxes and similarly for 02.
 		- A question would be: Is this level of clarity needed?
 			- If these accounts will hold very little funds and thus generate very little tax implications then this level of complexity.
+- The **Joint** account (i.e. the combination of **Joint 01** and **Joint 02**) will then fund the **High Five Joint** accounts.
+	- Thus allowing the couple to fund and live their lives.
 
 
 
