@@ -9,7 +9,7 @@ last_updated_at: Tue 18-Aug-2026 afternoon
 
 # Table Complete
 
-Tables are the best thing in the world and using them you can create a very powerful tracking and reporting tool.
+Tables are the best thing in the world.  With then you can create a very powerful tracking and reporting tool as outlined in this page.
 
 - Table of Contents
 {:toc}
@@ -19,7 +19,7 @@ Last updated: {{ page.last_updated_at }}
 
 # Executive Summary
 
-Many of the projects that you track can be broken into two dimension.
+Many of the projects that you track can be broken into two dimensions.
 - Steps to build widgets.
 - Phases of multiple projects.
 
@@ -44,9 +44,16 @@ You want to track how complete you are.
 - How complete is each item in dimension two.
 - How complete is the project overall.
 
+Note that depending on the tools that you are using for your project management some of what this tool gives you may already be there.  However, often existing tools may have difficulty:
+- Communicating the exact dimensions that the stakeholders care about.
+- Produce a heatmap that the stakeholders care about.
+- Focusing the conversation where you want it focused.
+
+As with any tool, pick the one(s) that provide the value that is needed.
+
 # Gathering Data
 
-Before we build our table complete we will need to gather some data.
+Before we build our table we will need to gather some data.
 
 ## Dimensions
 
@@ -212,7 +219,7 @@ You can add two more dot products (SUMPRODUCT in Excel) that will calculate the 
 	- The percentages row for each column (20%, 20%, 20%, 20%, 20%, 20% in the example above).
 	- The new bottom row.
 
-You now have a very crisp method of comunicating:
+You now have a very crisp method of communicating:
 - How done is each cell.
 - How done is each column (i.e. Widget).
 - How done is each row (i.e. Step).
