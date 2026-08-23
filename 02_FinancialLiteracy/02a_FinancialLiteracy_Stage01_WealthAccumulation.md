@@ -10,7 +10,7 @@ last_updated_at: Sat 22-Aug-2026 afternoon
 
 # Stage 01: Wealth Accumulation
 
-Some ideas to guide, navigate and support your financial journey.
+Some ideas to guide, navigate and support the accumulation of wealth.
 
 - Table of Contents
 {:toc}
@@ -19,8 +19,7 @@ Last updated: {{ page.last_updated_at }}
 
 
 
-
-## Executive Summary
+# Executive Summary
 
 We Will End Up With
 - A financial flowchart
@@ -31,15 +30,13 @@ We Will End Up With
 - A buy and hold attitude to the funds - we are not going to actively manage them
 - DRIP enabled funds so that we get compounding
 - We will rebalance once or twice a year if/as needed
-- A plan for when to retire
-- A plan for how to transfer your estate
 
-## Starting Early
 
+# Starting Early
 - Compounding is the eighth wonder of the world – Albert Einstein.
-- Start early and you can get compunding working for you.
+- Start early and you can get compounding working for you.
 - Start late and you lose out to the advantages.
-- Compunding can allow your money to earn more than your annual salary for you.
+- Compounding can allow your money to earn more than your annual salary for you.
 
 [https://www.rbcgam.com/en/ca/learn-plan/retirement-resources/the-importance-of-starting-early/detail](https://www.rbcgam.com/en/ca/learn-plan/retirement-resources/the-importance-of-starting-early/detail)
 
@@ -61,30 +58,27 @@ Key Take Away
 - Start early
 - Compounding works
 
-# Stage 01: Wealth Accumulation
 
-## Goal
-
+# Goal
 - Earning income
 - Grow your portfolio to become financially independent
 - Make informed decisions
 - Enjoy life
 
-## Considerations
-
+# Considerations
 - Planning
 - Budgeting
-- Bank Account Management
-- Emergency Fund
+- [Bank Account Management](./02d_FinancialLiteracy_HighFiveBanking.md)
+- [Emergency Fund](#emergency-fund)
 - Employer RRSP Matching
 - Employer Stock Purchase Plan
 - Index Investing
-- Asset Allocation
-- TFSA and RRSP
-- RESP
+- [Asset Allocation](#asset-allocation)
+- [TFSA and RRSP](#tfsa-and-rrsp)
+- [RESP](#resp)
 - Home Ownership
 
-## Flowchart
+# Flowchart
 
 [Flow chart](../assets/images/02a_FinancialLiteracy_YourFinancialJourney_Flowchart.jpg)
 
@@ -92,7 +86,7 @@ Key Take Away
 	flowchart LR
 		PayCheque["Paycheque<br>Assume 2x a month"] --> CompanyRRSP["Company Matching RRSP<br>(take full advantage of this to the maximum what they will match, but no more)"]
 		PayCheque --> CompanyStock["Company Stock Purchase Plan, etc.<br>(maximize the free money from your company)"]
-		PayCheque --> BankAccount["Bank Account<br>(drop your paycheque here and then automate it out)"]
+		PayCheque --> BankAccount["Bank Account<br>(drop your paycheque here and then automate it out; see High Five)"]
 		BankAccount --> PayDebt["PayOff Debt"]
 		BankAccount --> EmergencyFund["Emergency Fund<br>(build to 6 months of expenses here)"]
 		BankAccount --> LifeStyle["Life Style"]
@@ -104,7 +98,7 @@ Key Take Away
 ```
 
 
-### Some other flow charts to review:
+## Some Other Flow Charts to Review
 
 Reddit Personal Finance Canada
 - [https://www.reddit.com/r/PersonalFinanceCanada/wiki/money-steps/](https://www.reddit.com/r/PersonalFinanceCanada/wiki/money-steps/)
@@ -117,8 +111,7 @@ The High Five Banking Method
 - See [here](02d_FinancialLiteracy_HighFiveBanking.md) for more details on how to structure your bank accounts.
 
 
-## Plan
-
+# Plan
 - Create your initial plan.
 	- Does not have to be complex.
 	- You will edit and update it many times over your lifetime.
@@ -133,8 +126,8 @@ The High Five Banking Method
 	- Kids?
 	- Other?
 
-## Budget
 
+# Budget
 - Create a list of your monthly expenses
 - This will tell you how much money you need in your Monthly Expenses Bank Account at the start of the month to pay all your bills for the month
 - You do not need to budget every small item – make sure that the big items are covered
@@ -143,8 +136,8 @@ The High Five Banking Method
 - This will let you know if you need to adjust and will give you your annual expense needs.
 - 25x your annual expenses is your retirement number
 
-## Paycheque
 
+# Paycheque
 - Let’s assume you get paid twice a month
 - Directly off your paycheuque take advantage of your employer’s benefits as much as you can and/or makes sense - don't leave money on the table
 - Automatically deposit your net pay into your [Bank Account](02d_FinancialLiteracy_HighFiveBanking.md)
@@ -153,7 +146,8 @@ The High Five Banking Method
 - Transfer money to your various savings goals
 - Once all your planned transfers are made, the money left over, is your free money – enjoy life
 
-## Savings Goals
+
+# Savings Goals
 
 |                    | Description                                                                                                                                                  |
 | -----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -165,31 +159,31 @@ The High Five Banking Method
 
 TODO: Add in FHSA and saving in your TFSA during the year and transfer to other by year end.
 
-## Emergency Fund
+# Emergency Fund
 
-### Why?
+## Why?
 - Life is unpredictable
 - Job loss or other significant factors could impact your financials
 - Having an emergency fund to protect yourself is essential
 
-### How?
+## How?
 - Determine your one-month expenses
 - Save money to cover one months of expenses
 	- Then three months
 	- Then six months
 
-### Where?
+## Where?
 - This money should be cash, not an investment
 - Saved in a high interest savings account
 - Or in a TFSA (as cash) to avoid paying taxes, if you have the room
 
-### More Information
+## More Information
 - [Canada.ca: Setting up an emergency fund](https://www.canada.ca/en/financial-consumer-agency/services/savings-investments/setting-up-emergency-funds.html)
 - [MoneySense.ca: What is an emergency fund and how to build one](https://www.moneysense.ca/save/budgeting/what-is-an-emergency-fund-and-how-to-build-one/)
 - [Ratehub.ca: What is an emergency fund and why it's important](https://www.ratehub.ca/blog/what-is-an-emergency-fund/)
 
 
-## Investing Definitions
+# Investing Definitions
 
 |                                | Definition                                                                              |
 | -----------------------------: | --------------------------------------------------------------------------------------- |
@@ -202,7 +196,7 @@ TODO: Add in FHSA and saving in your TFSA during the year and transfer to other 
 |                        **SIP** | Systematic Investment Plan – regular (weekly, biweekly, monthly, etc.) purchases.       |
 |                  **Rebalance** | Adjust your mix of investments to achieve your target allocation.                       |
 
-## Mutual Funds vs Index Funds vs ETFs
+# Mutual Funds vs Index Funds vs ETFs
 
 |                                    | Mutual Funds                                       | Index Mutual Funds                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | ETFs (Exchange Traded Fund)                                                                                                                                                                                                                                                                                      |
 | ---------------------------------: | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -222,7 +216,7 @@ TODO: Add in FHSA and saving in your TFSA during the year and transfer to other 
 [https://canadiancouchpotato.com/getting-started ](https://canadiancouchpotato.com/getting-started )
 
 
-## Growth
+# Growth
 
 Your investments generally have one of three ways to grow.
 
@@ -233,7 +227,7 @@ Your investments generally have one of three ways to grow.
 | **Capital Gains** | The value of the company getting higher and thus the stock price getting higher.<br>50% is not taxed (in a non-registered account).<br>[https://www.wealthsimple.com/en-ca/learn/capital-gains-tax-canada#what_is_a_capital_gain_or_capital_loss](https://www.wealthsimple.com/en-ca/learn/capital-gains-tax-canada#what_is_a_capital_gain_or_capital_loss)<br>[https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037/capital-gains.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037/capital-gains.html) |
 
 
-## Active vs Passive Investing
+# Active vs Passive Investing
 
 |                     | Active Investments                                                                                                                                                                                                                                                                                                 | Passive Investments                                                                                                        |
 | ------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
@@ -244,7 +238,7 @@ Your investments generally have one of three ways to grow.
 |            **Fees** | High (2% to 3%) as the team of people employed must be paid                                                                                                                                                                                                                                                        | Low (~0.5%) as there are very few people to pay                                                                            |
 |         **Success** | Low<br>The vast majority of funds, do not beat the market - [spiva](https://www.spglobal.com/spdji/en/research-insights/spiva/)<br>The few that do, rarely beat the market + the fees<br>You can’t know beforehand which funds will beat the market<br>Past performance is not an indication of future performance | High<br>Just match the market and keep the fees low<br>[spiva](https://www.spglobal.com/spdji/en/research-insights/spiva/) |
 
-## Fees
+# Fees
 
 |                                     | Description                                                                                                                                                                                   |                     Advice                      |
 | ----------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------: |
@@ -254,7 +248,7 @@ Your investments generally have one of three ways to grow.
 |                     **Transaction** | Money to trade (purchase or sell) a fund at the online brokerage.<br>Each brokerage has a different fee plan – make sure that it aligns to your needs.                                        | <span style="font-size: 1.5em;">Minimize</span> |
 | **Management Expense Ration (MER)** | Money you pay to the fund company to manage the fund.<br>Active management  higher costs<br>Passive management  lower costs                                                                 | <span style="font-size: 1.5em;">Minimize</span> |
 
-### Management Expense Ration (MER)
+## Management Expense Ration (MER)
 
 If you have a portfolio of a certain size (see below) and a MER of a certain size (see below) here is how much money you would pay **each year** in MER fees.
 
@@ -291,7 +285,7 @@ Make sure that you understand the above table
 To run the numbers yourself see: [Larry Bates T-Rex Score](https://larrybates.ca/t-rex-score/).
 
 
-## Account Management Types
+# Account Management Types
 
 |                          | Description                                                                                                                                               | Pros                                                                                          | Cons                                                                                                                                                                                                    |
 | -----------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -302,7 +296,7 @@ To run the numbers yourself see: [Larry Bates T-Rex Score](https://larrybates.ca
 | **Do It Yourself (DIY)** | You pick what to invest in.  This could (and often should) just be the **Asset Allocation** choice above.                                                 | Lowest cost.<br>Can invest in whatever you wish to.                                           | You must make your own decisions.<br>You must rebalance yourself.                                                                                                                                       |
 
 
-## Asset Allocation
+# Asset Allocation
 - An “asset” is a general term for your investments – stocks, mutual funds, index funds, ETFs, etc.
 - Assets can be broken down into multiple categories
 	- By size of the company
@@ -319,7 +313,7 @@ To run the numbers yourself see: [Larry Bates T-Rex Score](https://larrybates.ca
 | **International Equities** | International stocks.                 | Stocks in International companies – can be volatile.                         |                   |
 |       **Emerging Markets** | Newly developing countries.           | Stocks in newly developing companies – can be volatile.                      |                   |
 
-### Asset Allocation Heuristics
+## Asset Allocation Heuristics
 - The safe portion of your portfolio (cash and fixed income) should be equivalent to your age.
 	- But also need to consider your risk tolerance.
 - If you are young, you are more heavily weighted to equities as this will be where your growth comes from and you have the luxury of time to recover from market downturns.
@@ -336,7 +330,7 @@ To run the numbers yourself see: [Larry Bates T-Rex Score](https://larrybates.ca
 - Each year (or every half year or if an extraordinary situation occurs) you would rebalance to your target allocation.
 
 
-## Asset Location
+# Asset Location
 The idea behind asset location is that by putting specific funds into specific locations you can minimize your taxes as some locations are treated differently in the Canadian tax code.
 
 This is not something for the beginner:
@@ -361,7 +355,7 @@ Remember that this is a complex strategy and most often you will do yourself mor
 
 Proceed with an abundance of caution.
 
-## TFSA and RRSP
+# TFSA and RRSP
 
 |                                 | TFSA                                                                                                                                                                                                                            | RRSP                                                                                                                                                                                                                                              |
 | ------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -415,7 +409,7 @@ If the above is too complex and confusing and you want something simple, here it
 		- Maximize your TFSA first
 
 
-## RESP
+# RESP
 
 | Age | % Stocks | % Bonds / GIC |
 | :-: | -------: | ------------: |
@@ -459,7 +453,7 @@ More information can be found here:
 - [https://www.youtube.com/watch?v=y70GqxHj8WY&t=6s ](https://www.youtube.com/watch?v=y70GqxHj8WY&t=6s )
 
 
-## Online Brokerage
+# Online Brokerage
 
 Online Brokerage Features to Considerations:
 - Does it support the accounts you need - RRSP, TFSA, RESP?
@@ -472,7 +466,7 @@ Online Brokerage Features to Considerations:
 	- [https://www.moneysense.ca/save/investing/best-online-brokers-in-canada ](https://www.moneysense.ca/save/investing/best-online-brokers-in-canada )
 
 
-## Risk
+# Risk
 
 What is Risk?
 - Volatility in the market?
@@ -487,7 +481,7 @@ Three Factors of Risk
 Portfolio
 - Use your understanding of your risk level to define a portfolio that will meet your goals.
 
-## Portfolio
+# Portfolio
 
 Want to know what you should buy in your portfolio?
 
@@ -532,7 +526,7 @@ Now automate it:
 - Once or twice a year assess to see if you need to rebalance.
 
 
-## Rebalance
+# Rebalance
 
 You have a target asset allocation based on your risk profile and a number of other factors.
 
@@ -553,31 +547,7 @@ After a few months it is possible that your actual asset allocation has drifted 
 
 
 
-# Stage 02: Wealth Preservation - UNDER CONSTRUCTION
-
-See [Retirement](02b_FinancialLiteracy_Stage02_WealthPreservation.md) for more information.
-
-
-# Stage 03: Wealth Transfer - UNDER CONSTRUCTION
-
-## Goal
-
-- Transfer your portfolio to your heirs
-- You're dead
-- How to transfer your portfolio to your heirs in the most efficient (i.e. with least fees) manner possible
-
-## Considerations
-
-- Wills
-- Power of Attorney - Financial
-- Power of Attorney - Medical
-- Trusts
-- Life Insurance
-- Letter to People
-
-
 # Appendix
-
 
 ## Version History
 
