@@ -24,11 +24,6 @@ nav_external_links:
     opens_in_new_tab: true
     hide_icon: false
 
-#
-# Set the markdown engine
-# This is required to allow the {: .no_toc } tag to work
-#
-markdown: kramdown
 
 #
 # Allow Kramdown to successfully evaluate tags embedded inside HTML/Markdown blocks to create a Table of Contents

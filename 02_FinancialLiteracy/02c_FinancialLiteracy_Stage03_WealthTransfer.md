@@ -8,9 +8,9 @@ last_updated_at: Sat 22-Aug-2026 afternoon
 ---
 
 
-# UNDER CONSTRUCTION {: .no_toc }
+# UNDER CONSTRUCTION
 
-# Stage 03: Wealth Transfer  {: .no_toc }
+# Stage 03: Wealth Transfer 
 
 You need to consider your estate and how your estate will get delivered to your beneficiaaries.
 
