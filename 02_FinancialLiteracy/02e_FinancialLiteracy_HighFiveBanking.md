@@ -2,7 +2,7 @@
 layout: default
 title: High Five Banking
 parent: Financial Literacy
-nav_order: 4
+nav_order: 5
 has_children: false
 last_updated_at: Sat 22-Aug-2026 afternoon
 ---

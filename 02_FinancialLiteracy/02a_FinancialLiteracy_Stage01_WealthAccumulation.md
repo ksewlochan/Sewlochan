@@ -68,7 +68,7 @@ Key Take Away
 # Considerations
 - Planning
 - Budgeting
-- [Bank Account Management](./02d_FinancialLiteracy_HighFiveBanking.md)
+- [Bank Account Management](02e_FinancialLiteracy_HighFiveBanking.md)
 - [Emergency Fund](#emergency-fund)
 - Employer RRSP Matching
 - Employer Stock Purchase Plan
@@ -108,7 +108,7 @@ Another flowchart
 - [https://i.imgur.com/H2F3f78.png ](https://i.imgur.com/H2F3f78.png )
 
 The High Five Banking Method
-- See [here](02d_FinancialLiteracy_HighFiveBanking.md) for more details on how to structure your bank accounts.
+- See [here](02e_FinancialLiteracy_HighFiveBanking.md) for more details on how to structure your bank accounts.
 
 
 # Plan
@@ -140,9 +140,9 @@ The High Five Banking Method
 # Paycheque
 - Let’s assume you get paid twice a month
 - Directly off your paycheuque take advantage of your employer’s benefits as much as you can and/or makes sense - don't leave money on the table
-- Automatically deposit your net pay into your [Bank Account](02d_FinancialLiteracy_HighFiveBanking.md)
+- Automatically deposit your net pay into your [Bank Account](02e_FinancialLiteracy_HighFiveBanking.md)
 - Set up your money transfers to be automatic – the less that you have to worry about it, the better
-- Put half your monthly expenses into your [Chequing 01: Bills and Chequing 02: Lifestyle](02d_FinancialLiteracy_HighFiveBanking.md) bank accounts – so that when you get to the start of the next month you have cash in this account to pay all bills
+- Put half your monthly expenses into your [Chequing 01: Bills and Chequing 02: Lifestyle](02e_FinancialLiteracy_HighFiveBanking.md) bank accounts – so that when you get to the start of the next month you have cash in this account to pay all bills
 - Transfer money to your various savings goals
 - Once all your planned transfers are made, the money left over, is your free money – enjoy life
 
