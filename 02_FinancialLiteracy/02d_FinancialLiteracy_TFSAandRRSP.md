@@ -51,7 +51,7 @@ Let's assume the following scenario
 
 And you have a number of ways that you can invest.
 
-|                                           |                                | Scenario                                                                                                                                            |
+|                                           | Scenario                       | Description                                                                                                                                         |
 | :---------------------------------------: | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <span style="font-size: 1.5em;">01</span> | **Just TFSA**                  | - Your paycheque is taxed<br>- You get the net amount in your hands<br>- You invest in a TFSA                                                       |
 | <span style="font-size: 1.5em;">02</span> | **RRSP Direct**                | - You invest directly from your paycheque to your RRSP<br>- No taxes are taken                                                                      |
@@ -113,25 +113,27 @@ Note that the future value was calculated with the excel FV( 7%, 20 years, pmt, 
 - Depending on how you structure your taxes in 20 years you may actually achieve a little better than the above.
 
 # What We Can Learn From This?
-- Reinvesting your tax refund is critical to get the same final value.
-	- If you cannot reinvest your tax refund then put your money into a TFSA.
-	- In the real world you may not do this as you want that tax refund to be used for something else.  Just be aware of the impact that you are having to your investments by not reinvesting the tax refund.
-- Money going into an RRSP will always be saving your marginal taxes.
-	- However when it comes out it is unlikely that it is coming out at your marginal tax rate.
-	- It is much more likely that it will be coming out at your average tax rate as your RRSPs will be one of the main sources of income in retirement.
-	- Hence it will be taxed lower.
-		- Some will have no tax.
-		- Some will have the first level of taxes.
-		- Some the second.
-		- Until you reach the same marginal tax rate that it went in at.
-		- And if you are lucky and you are making more in retirement than you were when working; don't worry about it.  This is a good problem to have.
+
+Reinvesting your tax refund is critical to get the same final value.
+- If you cannot reinvest your tax refund then put your money into a TFSA.
+- In the real world you may not do this as you want that tax refund to be used for something else.  Just be aware of the impact that you are having to your investments by not reinvesting the tax refund.
+
+Money going into an RRSP will always be saving at your marginal tax rate.
+- However when it comes out it is unlikely that it is coming out at your marginal tax rate.
+- It is much more likely that it will be coming out at your average tax rate as your RRSPs will be one of the main sources of income in retirement.
+- Hence it will be taxed lower.
+	- Some will have no tax.
+	- Some will have the first level of taxes.
+	- Some the second.
+	- Until you reach the same marginal tax rate that it went in at.
+	- And if you are lucky and you are making more in retirement than you were when working; don't worry about it.  This is a good problem to have.
 
 
 # Heuristics
 
-So given all of the above analysis there is still an additional complication: your income is not statis through out your career.  So how do I decide on which to invest in first?
+So given all of the above analysis there is still an additional complication: your income is not static through out your career.  So how do you decide on which to invest in first?
 
-Caveat: It is best to max out both.  This is your best option.  But if you cannot then what do you do?
+> Caveat: It is best to max out both.  This is your best option.  But if you cannot then what do you do?
 
 |                                   | Description                                                                                                                                                                                                                                                                                                                                                 | Conclusion                                                                                                                                         |
 | --------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
