@@ -2,7 +2,7 @@
 layout: default
 title: Wealth Accumulation
 parent: Financial Literacy
-nav_order: 1
+nav_order: 4
 has_children: false
 last_updated_at: Sat 22-Aug-2026 afternoon
 ---
