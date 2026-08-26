@@ -18,9 +18,14 @@ In Obsidian I am drawing diagrams using mermaid.
 These pages will be uploaded to GitHub Page and will use Jekyll to process the markdown pages into my website (https://ksewlochan.github.io/Sewlochan).
 It will be using the Just The Docs template.
 
-My domain (www.sewlochan.com) has been mapped to this website (https://ksewlochan.github.io/Sewlochan).
+My domains are managed by NamesPro.ca.  I have the following domains
+- sewlochan.com - full zone file
+- sewlochan.ca - domain forwarding to https://sewlochan.com
+- sewlochan.org - domain forwarding to https://sewlochan.com
+- sylakin.com - domain forwarding to https://sewlochan.com
+- bolynn.com - full zone with a FWD to https://sewlochan.com/05_Bolynn/05_Bolynn.html
+- bolynn.ca - domain forwarding to https://sewlochan.com/05_Bolynn/05_Bolynn.html
 
-www.sewlochan.com is hosted by NamesPro.
-But I have related domains like www.sewlochan.ca and www.sewlochan.org that are hosted by Google Domains.
+My domain (www.sewlochan.com) has been mapped to this website (https://ksewlochan.github.io/Sewlochan).
 
 I have some questions.
