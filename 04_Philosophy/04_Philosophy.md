@@ -3,6 +3,7 @@ layout: default
 title: Philosophy
 nav_order: 4
 has_children: true
+last_updated_at: Tue 18-Aug-2026 afternoon
 ---
 
 # Philosophy
