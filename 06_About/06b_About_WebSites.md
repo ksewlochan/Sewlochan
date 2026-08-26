@@ -12,14 +12,15 @@ last_updated_at: Wed 26-Aug-2026 morning
 
 The following web sites are pointed here:
 
-| Domain    | Site 01                                                | Site 02                                        |
-| --------- | ------------------------------------------------------ | ---------------------------------------------- |
-| sewlochan | [https://www.sewlochan.com](https://www.sewlochan.com) | [https://sewlochan.com](https://sewlochan.com) |
-|           | [http://www.sewlochan.ca](http://www.sewlochan.ca)     | [http://sewlochan.ca](http://sewlochan.ca)     |
-|           | [http://www.sewlochan.org](http://www.sewlochan.org)   | [http://sewlochan.org](http://sewlochan.org)   |
-| sylakin   | [http://www.sylakin.com](http://www.sylakin.com)       | [http://sylakin.com](http://sylakin.com)       |
-| bolynn    | [http://www.bolynn.com](http://www.bolynn.com)         | [http://bolynn.com](http://bolynn.com)         |
-|           | [http://www.bolynn.ca](http://www.bolynn.ca)           | [http://bolynn.ca](http://bolynn.ca)           |
+| Domain    | Site 01                                                | Site 02                                        | Notes         |
+| --------- | ------------------------------------------------------ | ---------------------------------------------- | ------------- |
+| sewlochan | [https://www.sewlochan.com](https://www.sewlochan.com) | [https://sewlochan.com](https://sewlochan.com) | https enabled |
+|           | [http://www.sewlochan.ca](http://www.sewlochan.ca)     | [http://sewlochan.ca](http://sewlochan.ca)     | no https      |
+|           | [http://www.sewlochan.org](http://www.sewlochan.org)   | [http://sewlochan.org](http://sewlochan.org)   | no https      |
+| sylakin   | [http://www.sylakin.com](http://www.sylakin.com)       | [http://sylakin.com](http://sylakin.com)       | no https      |
+| bolynn    | [http://www.bolynn.com](http://www.bolynn.com)         | [http://bolynn.com](http://bolynn.com)         | no https      |
+|           | [http://www.bolynn.ca](http://www.bolynn.ca)           | [http://bolynn.ca](http://bolynn.ca)           | no https      |
+
 
 
 # Appendix
