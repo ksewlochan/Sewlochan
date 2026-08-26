@@ -12,14 +12,15 @@ last_updated_at: Wed 26-Aug-2026 morning
 
 The following web sites are pointed here:
 
-| Domain    | Site 01                                        | Site 02                                |
-| --------- | ---------------------------------------------- | -------------------------------------- |
-| sewlochan | [www.sewlochan.com](https://www.sewlochan.com) | [sewlochan.com](https://sewlochan.com) |
-|           | [www.sewlochan.ca](https://www.sewlochan.ca)   | [sewlochan.ca](https://sewlochan.ca)   |
-|           | [www.sewlochan.org](https://www.sewlochan.org) | [sewlochan.org](https://sewlochan.org) |
-| sylakin   | [www.sylakin.com](https://www.sylakin.com)     | [sylakin.com](https://sylakin.com)     |
-| bolynn    | [www.bolynn.com](https://www.bolynn.com)       | [bolynn.com](https://bolynn.com)       |
-|           | [www.bolynn.ca](https://www.bolynn.ca)         | [bolynn.ca](https://bolynn.ca)         |
+| Domain    | Site 01                   | Site 02               |
+| --------- | ------------------------- | --------------------- |
+| sewlochan | https://www.sewlochan.com | https://sewlochan.com |
+|           | http://www.sewlochan.ca   | http://sewlochan.ca   |
+|           | http://www.sewlochan.org  | http://sewlochan.org  |
+| sylakin   | https://www.sylakin.com   | https://sylakin.com   |
+| bolynn    | https://www.bolynn.com    | https://bolynn.com    |
+|           | https://www.bolynn.ca     | https://bolynn.ca     |
+
 
 
 # Appendix
