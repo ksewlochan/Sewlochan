@@ -8,6 +8,7 @@ last_updated_at: Mon 10-Aug-2026 noon
 ---
 
 # The Power of Lists
+---
 
 80% of Project Management comes down to one simple thing
 - Managing lists

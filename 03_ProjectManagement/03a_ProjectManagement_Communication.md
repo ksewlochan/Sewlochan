@@ -8,6 +8,7 @@ last_updated_at: Mon 10-Aug-2026 noon
 ---
 
 # Communication
+---
 
 Everyone Needs to Communicate.
 - Provide technical details to your colleagues

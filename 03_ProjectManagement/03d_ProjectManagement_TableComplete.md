@@ -8,6 +8,7 @@ last_updated_at: Tue 18-Aug-2026 afternoon
 ---
 
 # Table Complete
+---
 
 Tables are the best thing in the world.  With then you can create a very powerful tracking and reporting tool as outlined in this page.
 

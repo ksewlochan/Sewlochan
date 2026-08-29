@@ -8,6 +8,7 @@ last_updated_at: Mon 10-Aug-2026 afternoon
 ---
 
 # Status Reports
+---
 
 Almost everything in business (and life) is a status report.  Ok, maybe a little over stated.
 

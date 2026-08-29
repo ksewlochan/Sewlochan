@@ -7,6 +7,7 @@ last_updated_at: Tue 18-Aug-2026 afternoon
 ---
 
 # Philosophy
+---
 
 ## In Your 20s
 

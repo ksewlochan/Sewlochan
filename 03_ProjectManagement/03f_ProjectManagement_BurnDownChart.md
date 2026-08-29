@@ -8,6 +8,7 @@ last_updated_at: Wed 19-Aug-2026 afternoon
 ---
 
 # Burn Down Charts
+---
 
 Building upon [Earned Value Analysis](03e_ProjectManagement_EVA), a Burn Down Chart captures an amazing amount of information as to the progress of the project.
 

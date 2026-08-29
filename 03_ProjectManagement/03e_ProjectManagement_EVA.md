@@ -8,6 +8,7 @@ last_updated_at: Tue 11-Aug-2026 morning
 ---
 
 # Earned Value Analysis
+---
 
 The greatest tool for assessing project status and prediction that forms the basis of all fancy new burndown charts in Agile.
 

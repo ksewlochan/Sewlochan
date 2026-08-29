@@ -9,6 +9,7 @@ last_updated_at: Sat 22-Aug-2026 afternoon
 
 
 # Stage 01: Wealth Accumulation
+---
 
 Some ideas to guide, navigate and support the accumulation of wealth.
 

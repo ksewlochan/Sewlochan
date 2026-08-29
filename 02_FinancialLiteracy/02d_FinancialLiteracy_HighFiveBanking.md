@@ -9,6 +9,7 @@ last_updated_at: Sat 22-Aug-2026 afternoon
 
 
 # The High Five Banking Method
+---
 
 A good methodology to think about how to structure your bank accounts.
 

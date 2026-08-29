@@ -9,6 +9,7 @@ last_updated_at: Mon 24-Aug-2026 evening
 
 
 # TFSA and RRSP
+---
 
 It is important to understand some of the basic accounts available to you.
 

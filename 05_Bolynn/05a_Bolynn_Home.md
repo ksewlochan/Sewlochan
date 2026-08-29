@@ -9,6 +9,7 @@ last_updated_at: Tue 18-Aug-2026 afternoon
 
 
 # Bolynn Corp: Trusted Partner in Health Care
+---
 
 > Bolynn Corp. is an agile, innovative company specializing in both the private and public sectors of the healthcare industry
 

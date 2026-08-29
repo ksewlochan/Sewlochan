@@ -9,6 +9,7 @@ last_updated_at: Sat 29-Aug-2026 afternoon
 
 
 # Emergency Fund
+---
 
 Some ideas to guide, navigate and support the accumulation of wealth.
 
