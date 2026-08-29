@@ -8,7 +8,7 @@ last_updated_at: Sat 29-Aug-2026 afternoon
 ---
 
 
-# The High Five Banking Method
+# Banking
 ---
 
 - Table of Contents
