@@ -19,7 +19,7 @@ Last updated: {{ page.last_updated_at }}
 
 # Motivation
 
-Banking will be the core of your financial planning.  Money needs to come in, move around, and end up in storage accounts of various sorts.
+Banking will be the core of your financial planning.  Money needs to come in, move around, and end up in storage accounts of various sorts for short and long term purposes.
 
 Hence you should consider how and where your money is managed.
 

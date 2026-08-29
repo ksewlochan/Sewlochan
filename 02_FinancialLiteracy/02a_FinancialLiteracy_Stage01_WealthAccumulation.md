@@ -34,30 +34,8 @@ We Will End Up With
 
 
 # Starting Early
-- Compounding is the eighth wonder of the world – Albert Einstein.
-- Start early and you can get compounding working for you.
-- Start late and you lose out to the advantages.
-- Compounding can allow your money to earn more than your annual salary for you.
 
-[https://www.rbcgam.com/en/ca/learn-plan/retirement-resources/the-importance-of-starting-early/detail](https://www.rbcgam.com/en/ca/learn-plan/retirement-resources/the-importance-of-starting-early/detail)
-
-|                            | Scenario A                                         | Scenario B                                            | Scenario C           |
-| -------------------------: | -------------------------------------------------- | ----------------------------------------------------- | -------------------- |
-|                            | Invest for 10 years.<br>Then nothing for 30 years. | Do nothing for 10 years.<br>Then invest for 30 years. | Invest for 40 years. |
-|         **Monthly Amount** | $100                                               | $100                                                  | $100                 |
-|   **Annual Interest Rate** | 7%                                                 | 7%                                                    | 7%                   |
-|    **Interest Compounded** | Monthly                                            | Monthly                                               | Monthly              |
-| **At The End of 40 Years** | $140,480                                           | $121,997                                              | $262,481             |
-|     **Your Contributions** | $12,000                                            | $36,000                                               | $48,000              |
-|  **Total Interest Earned** | $128,481                                           | $85,997                                               | $214,481             |
-|         **Overall Growth** | 1,171%                                             | 339%                                                  | 547%                 |
-
-[https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/ ](https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/ )
-
-Key Take Away
-- Investing for 10 years and then doing nothing is better than doing nothing for 10 years and then investing for 30 years
-- Start early
-- Compounding works
+See [here](./02f_FinancialLiteracy_StartingEarly.md)
 
 
 # Goal
@@ -334,12 +312,12 @@ Proceed with an abundance of caution.
 
 # TFSA and RRSP
 
-See [TFSA and RRSP](02f_FinancialLiteracy_TFSAandRRSP.md)
+See [TFSA and RRSP](02g_FinancialLiteracy_TFSAandRRSP.md)
 
 
 # RESP
 
-See [RESP](./02g_FinancialLiteracy_RESP.md)
+See [RESP](02h_FinancialLiteracy_RESP.md)
 
 
 # Online Brokerage
