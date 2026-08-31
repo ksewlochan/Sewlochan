@@ -22,18 +22,38 @@ Last updated: {{ page.last_updated_at }}
 You need to understanding investing.  This is the most important thing for you to understand and do, for your financial future.
 
 
+# Executive Summary
+
+Investing is mostly a solved challenge.
+
+Pick an account
+- [TFSA and/or RRSP](./02h_FinancialLiteracy_TFSAandRRSP.md)
+- [RESP](./02i_FinancialLiteracy_RESP.md)
+- FHSA
+- Non-registered
+
+Pick an ETF (see below).
+
+Automate a per paycheque investment.
+
+Don't worry about it.
+
+The rest of this page is to help you understand some of the nuances to the above simple steps.
+
+
 # Definitions
 
-|                                | Definition                                                                              |
-| -----------------------------: | --------------------------------------------------------------------------------------- |
-|                      **Stock** | A part ownership in a company.                                                          |
-|                       **Fund** | A collection of stocks.                                                                 |
-|                      **Index** | A collection of stocks that represent a market segment.                                 |
-|                 **Index Fund** | A fund that mimics an index.                                                            |
-| **ETF (Exchange Traded Fund)** | A fund (or an index fund) that is traded on the stock market.                           |
-|                       **DRIP** | Dividend Re-Investment Plan – automatically re-invest dividends to purchase more units. |
-|                        **SIP** | Systematic Investment Plan – regular (weekly, biweekly, monthly, etc.) purchases.       |
-|                  **Rebalance** | Adjust your mix of investments to achieve your target allocation.                       |
+|                                    | Definition                                                                                                                          |
+| ---------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- |
+|                          **Stock** | A part ownership in a company.                                                                                                      |
+|                           **Fund** | A collection of stocks.                                                                                                             |
+|                          **Index** | A collection of stocks that represent a market segment.                                                                             |
+|                     **Index Fund** | A fund that mimics an index.                                                                                                        |
+|     **ETF (Exchange Traded Fund)** | A fund (or an index fund) that is traded on the stock market.                                                                       |
+|                           **DRIP** | Dividend Re-Investment Plan – automatically re-invest dividends to purchase more units.                                             |
+|                            **SIP** | Systematic Investment Plan – regular (weekly, biweekly, monthly, etc.) purchases.                                                   |
+|                      **Rebalance** | Adjust your mix of investments to achieve your target allocation.                                                                   |
+
 
 # Mutual Funds vs Index Funds vs ETFs
 
@@ -55,6 +75,10 @@ Stocks, bonds, etc. can be bundled into funds in a number of manners and you sho
 References:
 - [https://www.youtube.com/watch?v=vGcOGYkttI4 ](https://www.youtube.com/watch?v=vGcOGYkttI4 )
 - [https://canadiancouchpotato.com/getting-started ](https://canadiancouchpotato.com/getting-started )
+
+Winner: **ETFs**
+- Usually cheaper.
+- Can be found as index funds.
 
 
 # Active vs Passive Investing
@@ -84,13 +108,16 @@ Your investments generally have one of three ways to grow.
 
 # Fees
 
-|                                     | Description                                                                                                                                                                                   |                     Advice                      |
-| ----------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------: |
-|                      **Front Load** | Money you pay to the fund company when you purchase the fund.<br>Often used to kick back to your financial advisor for getting you to purchase that fund.                                     |  <span style="font-size: 1.5em;">Avoid</span>   |
-|                       **Back Load** | Money you pay to the fund company when you sell the fund.<br>Often used to kick back to your financial advisor for getting you to purchase that fund.                                         |  <span style="font-size: 1.5em;">Avoid</span>   |
-|           **Deferred Sales Charge** | Money you pay to the fund company if you sell the fund before a certain number of years (~5 – 7).<br>Often used to kick back to your financial advisor for getting you to purchase that fund. |  <span style="font-size: 1.5em;">Avoid</span>   |
-|                     **Transaction** | Money to trade (purchase or sell) a fund at the online brokerage.<br>Each brokerage has a different fee plan – make sure that it aligns to your needs.                                        | <span style="font-size: 1.5em;">Minimize</span> |
-| **Management Expense Ration (MER)** | Money you pay to the fund company to manage the fund.<br>Active management  higher costs<br>Passive management  lower costs                                                                 | <span style="font-size: 1.5em;">Minimize</span> |
+For the privilege of owning a fund, there are charges that you can be responsible for.
+
+|                                     | Description                                                                                                                                                                                                                                                                                                                                     |                     Advice                      |
+| ----------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------: |
+|                      **Front Load** | Money you pay to the fund company when you purchase the fund.<br>Often used to kick back to your financial advisor for getting you to purchase that fund.                                                                                                                                                                                       |  <span style="font-size: 1.5em;">Avoid</span>   |
+|                       **Back Load** | Money you pay to the fund company when you sell the fund.<br>Often used to kick back to your financial advisor for getting you to purchase that fund.                                                                                                                                                                                           |  <span style="font-size: 1.5em;">Avoid</span>   |
+|           **Deferred Sales Charge** | Money you pay to the fund company if you sell the fund before a certain number of years (~5 – 7).<br>Often used to kick back to your financial advisor for getting you to purchase that fund.                                                                                                                                                   |  <span style="font-size: 1.5em;">Avoid</span>   |
+|                     **Transaction** | Money to trade (purchase or sell) a fund at the online brokerage.<br>Each brokerage has a different fee plan – make sure that it aligns to your needs.<br>Most modern online brokerages offer this as free.  If you are paying for the privilege to buy or sell a stock, bond or fund you had better be getting some value that is not obvious. | <span style="font-size: 1.5em;">Minimize</span> |
+| **Management Expense Ration (MER)** | Money you pay to the fund company to manage the fund.<br>Active management usually have higher costs.<br>Passive management usually have lower costs.                                                                                                                                                                                           | <span style="font-size: 1.5em;">Minimize</span> |
+
 
 ## Management Expense Ration (MER)
 
@@ -131,6 +158,8 @@ To run the numbers yourself see: [Larry Bates T-Rex Score](https://larrybates.ca
 
 # Account Management Types
 
+There are a various types of brokerages that gives you various levels of services and support.
+
 |                          | Description                                                                                                                                               | Pros                                                                                          | Cons                                                                                                                                                                                                    |
 | -----------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |         **Full Service** | Pay someone at a bank or investment firm to give you advice and manage your investments for you.                                                          | Hands off.<br>Someone will guide you each step of the way.                                    | Highest cost.<br>Need to meet (phone / face-to-face) with your advisor to adjust your investments.<br>Conflict of interest – they get paid based on what they convince you to purchase in your account. |
@@ -138,6 +167,19 @@ To run the numbers yourself see: [Larry Bates T-Rex Score](https://larrybates.ca
 |         **Robo-Advisor** | A computer program asks you questions and devises an investment plan for you based on an algorithm and executes the investing for you.                    | Lower cost.<br>Standardized algorithms.                                                       | The medium place.                                                                                                                                                                                       |
 |     **Asset Allocation** | Purchase an asset allocation fund that automatically rebalances for you – e.g. [Canadian Couch Potato](https://canadiancouchpotato.com/model-portfolios/) | Simple – buy one thing.<br>Relatively cheap.<br>Easy to do in a Do It Yourself (DIY) account. | Very little.                                                                                                                                                                                            |
 | **Do It Yourself (DIY)** | You pick what to invest in.  This could (and often should) just be the **Asset Allocation** choice above.                                                 | Lowest cost.<br>Can invest in whatever you wish to.                                           | You must make your own decisions.<br>You must rebalance yourself.                                                                                                                                       |
+
+
+## Online Brokerage
+
+Online Brokerage Features to Considerations:
+- Does it support the accounts you need - RRSP, TFSA, RESP?
+- Can you set up a Systematic Investment Plan (SIP)?
+- Does it support DRIP?
+- Are there trading fees to consider?
+- Does it have the funds that you will want to purchase?
+- What is your plan for per paycheque investing?
+- What other needs do you have?
+	- [https://www.moneysense.ca/save/investing/best-online-brokers-in-canada ](https://www.moneysense.ca/save/investing/best-online-brokers-in-canada )
 
 
 # Asset Allocation
@@ -159,7 +201,7 @@ To run the numbers yourself see: [Larry Bates T-Rex Score](https://larrybates.ca
 
 ## Asset Allocation Heuristics
 - The safe portion of your portfolio (cash and fixed income) should be equivalent to your age.
-	- But also need to consider your risk tolerance.
+	- But also need to consider your [risk tolerance](#risk).
 - If you are young, you are more heavily weighted to equities as this will be where your growth comes from and you have the luxury of time to recover from market downturns.
 - If you are less young, there are arguments to move your portfolio more towards safer investments to avoid risk if the market goes down.
 - Cash and Fixed Income is often combined into one category.
@@ -175,6 +217,9 @@ To run the numbers yourself see: [Larry Bates T-Rex Score](https://larrybates.ca
 
 
 # Asset Location
+
+> This is a more advanced topic.  You can safely ignore this until you have a larger portfolio.  And even then you can still continue to ignore it.
+
 The idea behind asset location is that by putting specific funds into specific locations you can minimize your taxes as some locations are treated differently in the Canadian tax code.
 
 This is not something for the beginner:
@@ -199,6 +244,7 @@ Remember that this is a complex strategy and most often you will do yourself mor
 
 Proceed with an abundance of caution.
 
+
 # TFSA and RRSP
 
 See [TFSA and RRSP](02h_FinancialLiteracy_TFSAandRRSP.md)
@@ -207,19 +253,6 @@ See [TFSA and RRSP](02h_FinancialLiteracy_TFSAandRRSP.md)
 # RESP
 
 See [RESP](02i_FinancialLiteracy_RESP.md)
-
-
-# Online Brokerage
-
-Online Brokerage Features to Considerations:
-- Does it support the accounts you need - RRSP, TFSA, RESP?
-- Can you set up a Systematic Investment Plan (SIP)?
-- Does it support DRIP?
-- Are there trading fees to consider?
-- Does it have the funds that you will want to purchase?
-- What is your plan for per paycheque investing?
-- What other needs do you have?
-	- [https://www.moneysense.ca/save/investing/best-online-brokers-in-canada ](https://www.moneysense.ca/save/investing/best-online-brokers-in-canada )
 
 
 # Risk
@@ -236,6 +269,7 @@ Three Factors of Risk
 
 Portfolio
 - Use your understanding of your risk level to define a portfolio that will meet your goals.
+
 
 # Portfolio
 
@@ -260,7 +294,7 @@ Recommended portfolio would be:
 - Per paycheque purchasing of funds
 - DRIP enabled
 
-Still don’t know what to do?  Here is one idea (remember I am not a / your financial planner):
+Still don’t know what to do?  Here is one idea (remember I am not a/your financial planner):
 - Decide on your risk tolerance
 - Pick one of the following (depending on your risk tolerance) for large lump sum payments
 	- Asset allocation funds
