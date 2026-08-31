@@ -28,7 +28,7 @@ Investing is mostly a solved challenge.
 
 Pick an account
 - [TFSA and/or RRSP](./02h_FinancialLiteracy_TFSAandRRSP.md)
-- [RESP](./02i_FinancialLiteracy_RESP.md)
+- [RESP](02j_FinancialLiteracy_RESP.md)
 - FHSA
 - Non-registered
 
@@ -250,9 +250,14 @@ Proceed with an abundance of caution.
 See [TFSA and RRSP](02h_FinancialLiteracy_TFSAandRRSP.md)
 
 
+# FHSA
+
+See [FHSA](./02i_FinancialLiteracy_FHSA.md)
+
+
 # RESP
 
-See [RESP](02i_FinancialLiteracy_RESP.md)
+See [RESP](02j_FinancialLiteracy_RESP.md)
 
 
 # Risk
@@ -344,12 +349,3 @@ After a few months it is possible that your actual asset allocation has drifted 
 |                                           | Date            | Notes                                       |
 | :---------------------------------------: | --------------- | ------------------------------------------- |
 | <span style="font-size: 1.5em;">01</span> | Sat 29-Aug-2026 | Initial version factored out from top level |
-
-
-
-
-
-
-# TODO / Pending
-
-TODO: Add in FHSA
