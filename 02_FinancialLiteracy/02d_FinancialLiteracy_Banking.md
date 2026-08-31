@@ -62,7 +62,9 @@ You will have some "expenses" that can happen:
 
 ``` mermaid
 	flowchart LR
-		IncomeSource["Income Source"] --> ChequingBills["Chequing 01: Bills"]
+		IncomeSource["Income Source"] --> CompanyRRSP["Company Matching RRSP<br>(take full advantage of this to the maximum what they will match, but no more)"]
+		IncomeSource --> CompanyStock["Company Stock Purchase Plan, etc.<br>(maximize the free money from your company)"]
+		IncomeSource --> ChequingBills["Chequing 01: Bills"]
 		IncomeSource --> ChequingLifestyle["Chequing 02: Lifestyle"]
 		IncomeSource --> SavingsEmergencyFund["Savings 01: Emergency Fund"]
 		IncomeSource --> SavingsShortTerm["Savings 02: Short Term Goals"]
@@ -79,6 +81,8 @@ You will have some "expenses" that can happen:
 		SavingsLongTerm --> LIRA["LIRA<br>(as investments)"]
 		SavingsLongTerm --> RESP["RESP<br>(as cash / investments)"]
 		SavingsLongTerm --> etc["etc."]
+		Plan["Plan<br>(create a plan for your savings and retirement goals)"]
+		Budget["Budget<br>(determine how much your monthly / annual expenses are)"]
 ```
 
 
