@@ -2,7 +2,7 @@
 layout: default
 title: Investing
 parent: Financial Literacy
-nav_order: 8
+nav_order: 10
 has_children: false
 last_updated_at: Sat 29-Aug-2026 afternoon
 ---
@@ -27,8 +27,8 @@ You need to understanding investing.  This is the most important thing for you t
 Investing is mostly a solved challenge.
 
 Pick an account
-- [TFSA and/or RRSP](02i_FinancialLiteracy_TFSAandRRSP.md)
-- [RESP](02k_FinancialLiteracy_RESP.md)
+- [TFSA and/or RRSP](02k_FinancialLiteracy_TFSAandRRSP.md)
+- [RESP](02m_FinancialLiteracy_RESP.md)
 - FHSA
 - Non-registered
 
@@ -247,17 +247,17 @@ Proceed with an abundance of caution.
 
 # TFSA and RRSP
 
-See [TFSA and RRSP](02i_FinancialLiteracy_TFSAandRRSP.md)
+See [TFSA and RRSP](02k_FinancialLiteracy_TFSAandRRSP.md)
 
 
 # FHSA
 
-See [FHSA](02j_FinancialLiteracy_FHSA.md)
+See [FHSA](02l_FinancialLiteracy_FHSA.md)
 
 
 # RESP
 
-See [RESP](02k_FinancialLiteracy_RESP.md)
+See [RESP](02m_FinancialLiteracy_RESP.md)
 
 
 # Risk

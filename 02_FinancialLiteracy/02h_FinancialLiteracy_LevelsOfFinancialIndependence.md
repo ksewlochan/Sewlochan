@@ -2,7 +2,7 @@
 layout: default
 title: Levels Of Financial Independence
 parent: Financial Literacy
-nav_order: 6
+nav_order: 8
 has_children: false
 last_updated_at: Sun 30-Aug-2026 evening
 ---

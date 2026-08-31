@@ -35,7 +35,7 @@ We Will End Up With
 
 # Starting Early
 
-See [here](02g_FinancialLiteracy_StartingEarly.md)
+See [here](02i_FinancialLiteracy_StartingEarly.md)
 
 
 # Goal
@@ -47,7 +47,7 @@ See [here](02g_FinancialLiteracy_StartingEarly.md)
 # Considerations
 - Planning
 - Budgeting
-- [Bank Account Management](02d_FinancialLiteracy_Banking.md)
+- [Bank Account Management](02f_FinancialLiteracy_Banking.md)
 - [Emergency Fund](#emergency-fund)
 - Employer RRSP Matching
 - Employer Stock Purchase Plan
@@ -87,38 +87,22 @@ Another flowchart
 - [https://i.imgur.com/H2F3f78.png ](https://i.imgur.com/H2F3f78.png )
 
 The High Five Banking Method
-- See [here](02d_FinancialLiteracy_Banking.md) for more details on how to structure your bank accounts.
+- See [here](02f_FinancialLiteracy_Banking.md) for more details on how to structure your bank accounts.
 
 
 # Plan
-- Create your initial plan.
-	- Does not have to be complex.
-	- You will edit and update it many times over your lifetime.
-	- Start with the basics.
-- Financial Independence (and/or Retirement).
-	- When?
-	-  How much will your annual expenses be when you retire - take a guess?
-- How much money do you have to save each year to get to this retirement goal?
-- Who are you planning for?
-	- You?
-	- Spouse?
-	- Kids?
-	- Other?
+
+See [here](./02d_FinancialLiteracy_Planning.md)
 
 
 # Budget
-- Create a list of your monthly expenses
-- This will tell you how much money you need in your Monthly Expenses Bank Account at the start of the month to pay all your bills for the month
-- You do not need to budget every small item – make sure that the big items are covered
-- Ensure that your own savings is the most important, and first, item you budget for
-- Each year end download your bank account and credit card statement to CSV and do a spreadsheet analysis to see where you spent your money
-- This will let you know if you need to adjust and will give you your annual expense needs.
-- 25x your annual expenses is your retirement number
+
+See [here](./02e_FinancialLiteracy_Budgeting.md)
 
 
 # Paycheque
 
-See [here](./02d_FinancialLiteracy_Banking.md)
+See [here](02f_FinancialLiteracy_Banking.md)
 
 
 # Savings Goals
@@ -135,12 +119,12 @@ TODO: Add in FHSA and saving in your TFSA during the year and transfer to other 
 
 # Emergency Fund
 
-See [here](./02e_FinancialLiteracy_EmergencyFund.md)
+See [here](02g_FinancialLiteracy_EmergencyFund.md)
 
 
 # Investing
 
-See [here](02h_FinancialLiteracy_Investing.md)
+See [here](02j_FinancialLiteracy_Investing.md)
 
 
 

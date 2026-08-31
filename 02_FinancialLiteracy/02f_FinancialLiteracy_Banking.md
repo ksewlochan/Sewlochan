@@ -2,7 +2,7 @@
 layout: default
 title: Banking
 parent: Financial Literacy
-nav_order: 4
+nav_order: 6
 has_children: false
 last_updated_at: Sat 29-Aug-2026 afternoon
 ---
@@ -42,7 +42,7 @@ Let’s assume you get paid twice a month.
 
 You will have some "expenses" that can happen:
 - Per Paycheque
-	- For example, investing, [emergency fund](./02e_FinancialLiteracy_EmergencyFund.md), short term savings, long term savings.
+	- For example, investing, [emergency fund](02g_FinancialLiteracy_EmergencyFund.md), short term savings, long term savings.
 	- This will be automated.
 		- Either from your bank account as it allows the automation needed.
 		- Sometimes your payroll provider (e.g. ADP) will give you the ability to automate where your money goes.
