@@ -92,3 +92,9 @@ Three Bucket Strategy
 |                                           | Date            | Notes                 |
 | :---------------------------------------: | --------------- | --------------------- |
 | <span style="font-size: 1.5em;">01</span> | Sat 22-Aug-2026 | Moved to its own page |
+
+
+TODO
+
+https://goretire.ca/
+https://adviice.ca/
