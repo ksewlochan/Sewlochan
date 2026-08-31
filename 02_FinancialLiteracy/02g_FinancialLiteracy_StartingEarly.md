@@ -2,7 +2,7 @@
 layout: default
 title: Starting Early
 parent: Financial Literacy
-nav_order: 6
+nav_order: 7
 has_children: false
 last_updated_at: Sat 29-Aug-2026 afternoon
 ---

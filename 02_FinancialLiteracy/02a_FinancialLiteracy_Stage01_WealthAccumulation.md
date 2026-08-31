@@ -35,7 +35,7 @@ We Will End Up With
 
 # Starting Early
 
-See [here](./02f_FinancialLiteracy_StartingEarly.md)
+See [here](02g_FinancialLiteracy_StartingEarly.md)
 
 
 # Goal
@@ -140,7 +140,7 @@ See [here](./02e_FinancialLiteracy_EmergencyFund.md)
 
 # Investing
 
-See [here](./02g_FinancialLiteracy_Investing.md)
+See [here](02h_FinancialLiteracy_Investing.md)
 
 
 
