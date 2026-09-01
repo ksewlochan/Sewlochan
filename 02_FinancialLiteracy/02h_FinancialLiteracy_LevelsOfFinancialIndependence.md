@@ -49,11 +49,50 @@ Financial independence is not a binary thing.  It has levels as you increase you
 Reference: [https://www.youtube.com/watch?v=kDSHHiFMJ_I ](https://www.youtube.com/watch?v=kDSHHiFMJ_I )
 
 
-# The Wealth Ladder
+# The Wealth Ladder 6 Steps to Financial Freedom
+- by: Nick Maggiulli
 
-TODO: Fill in
+As you build wealth your strategy should evolve.
 
-https://www.youtube.com/watch?v=TZj9tQVOcdw
+|                                           | Net Worth    | Associated Freedom     |
+| :---------------------------------------: | ------------ | ---------------------- |
+| <span style="font-size: 1.5em;">01</span> | < $10k       | Paycheque to paycheque |
+| <span style="font-size: 1.5em;">02</span> | $10k - $100k | Grocery Freedom        |
+| <span style="font-size: 1.5em;">03</span> | $100k - $1M  | Restaurant Freedom     |
+| <span style="font-size: 1.5em;">04</span> | $1M - $10M   | Travel Freedom         |
+| <span style="font-size: 1.5em;">05</span> | $10M - $100M | House Freedom          |
+| <span style="font-size: 1.5em;">06</span> | > $100M      | Impact Freedom         |
+
+The 0.01% Rule
+- An amount equal to 0.01% of your net worth that can be spent daily without significant thought or guilt.
+
+The 1% Rule
+- An opportunity is only worth pursing if it has the potential to increase your net worth by at least 1%.
+
+Caveat
+- There have been criticism on this concept.
+- Take it with a grain of salt.
+
+References
+- [https://www.youtube.com/watch?v=TZj9tQVOcdw](https://www.youtube.com/watch?v=TZj9tQVOcdw)
+
+
+# Net Worth
+
+Typically net worth is:
+- Assets - Liabilities
+
+In this analysis your net worth includes the value (equity) of your home.
+
+Consider not including your home.
+- So your net worth is, in essence, your liquid assets plus investment properties, etc.
+
+In the simple case, your home is paid and is set to the side.  You have housing and do not have to worry about it going forward.  If you sell it you can move into something of equal value.
+
+If you owe money on your home the same analysis can be done.  If you sell it, you can buy a new one of the same value and not worry any more about housing.
+
+Focusing on your non-home assets gives you a more conservative view of your net worth and thus gives you a buffer.
+
 
 # Appendix
 
