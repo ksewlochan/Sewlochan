@@ -8,7 +8,7 @@ nav_order: 1
 
 Welcome to the Sewlochan home page.
 
-It started out as a symatico page.
+It started out as a sympatico page.
 
 Then moved to [Google Sites](https://sites.google.com/sewlochan.com/sewlochan-com).
 
