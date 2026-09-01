@@ -29,6 +29,7 @@ Last updated: {{ page.last_updated_at }}
 - Save money to cover one months of expenses
 	- Then three months
 	- Then six months
+- To create your Emergency Fund you may need to allocate a portion of your paycheque each time to build up your account until you have what you need.
 
 # Where?
 - This money should be cash, not an investment
