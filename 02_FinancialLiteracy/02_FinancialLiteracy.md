@@ -46,15 +46,5 @@ Note that the pursuit of money is the root of all evil.
 
 All original content in this document is copyrighted (unless otherwise stated) and may not be reproduced without written permission.
 
-There is no warranty implied in this document.  You own your own financial journey.
+> There is no warranty implied in this web site.  You own your own financial journey.
 
-
-# Stages
-
-There are three high level stages of wealth.
-
-|                                           | Name                                                                         | Description                                        |
-| :---------------------------------------: | ---------------------------------------------------------------------------- | -------------------------------------------------- |
-| <span style="font-size: 1.5em;">01</span> | [Wealth Accumulation](./02a_FinancialLiteracy_Stage01_WealthAccumulation.md) | How to accumulate wealth.                          |
-| <span style="font-size: 1.5em;">02</span> | [Wealth Preservation](./02b_FinancialLiteracy_Stage02_WealthPreservation.md) | How to preserve your wealth during retirement.     |
-| <span style="font-size: 1.5em;">03</span> | [Wealth Transfer](./02c_FinancialLiteracy_Stage03_WealthTransfer.md)         | How to transfer your wealth to your beneficiaries. |
