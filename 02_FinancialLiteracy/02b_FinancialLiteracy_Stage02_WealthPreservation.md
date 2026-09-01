@@ -21,6 +21,18 @@ last_updated_at: Sat 22-Aug-2026 afternoon
 Last updated: {{ page.last_updated_at }}
 
 
+# Motivation
+
+Your financial journey consists of three stages.
+
+|                   Stage                   | Name                                                                         | Description                                                                                                                                                                                                               |
+| :---------------------------------------: | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <span style="font-size: 1.5em;">01</span> | [Wealth Accumulation](./02a_FinancialLiteracy_Stage01_WealthAccumulation.md) | How do you accumulate wealth through out your earning years.<br>How do you get to the point of [financial independence](./02h_FinancialLiteracy_LevelsOfFinancialIndependence.md) sooner rather than later.<br>This page. |
+| <span style="font-size: 1.5em;">02</span> | Wealth Preservation                                                          | How do you decumulate your wealth after you stop earning.<br>So that your accumulated wealth lasts as long as possible to give you the best life possible.<br>This page.                                                  |
+| <span style="font-size: 1.5em;">03</span> | [Wealth Transfer](./02c_FinancialLiteracy_Stage03_WealthTransfer.md)         | How do you transfer your wealth to your beneficiaries upon your death in the most efficient manner.                                                                                                                       |
+
+
+
 # Goal
 
 - Live off your portfolio

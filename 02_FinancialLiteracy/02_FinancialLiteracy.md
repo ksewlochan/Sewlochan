@@ -23,6 +23,8 @@ Financial independence gives you choices
 - Better life
 - Everything is better if you have financial independence
 
+> Money buys happiness.
+
 Note that the pursuit of money is the root of all evil.
 - Do not be evil.
 - Be financially independent and lead a good life.

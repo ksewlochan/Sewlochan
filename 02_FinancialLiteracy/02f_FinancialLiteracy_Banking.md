@@ -57,7 +57,7 @@ You will have some "expenses" that can happen:
 		- Yes, you will have to do a bootstrap of the first month.
 
 
-# The High Five Banking Method
+# The High Five Banking Method (plus more)
 ## Graphically
 
 ``` mermaid
@@ -196,6 +196,19 @@ Strike the balance that is good for you.
 
 # Appendix
 
+## Some Other Flow Charts to Review
+
+Reddit Personal Finance Canada
+- [https://www.reddit.com/r/PersonalFinanceCanada/wiki/money-steps/](https://www.reddit.com/r/PersonalFinanceCanada/wiki/money-steps/)
+
+Another flowchart
+- [https://www.reddit.com/r/PersonalFinanceCanada/comments/10lythh/flowchart_should_i_invest_in_an_rrsp_or_tfsa/?utm_source=share&utm_medium=ios_app&utm_name=iossmf](https://www.reddit.com/r/PersonalFinanceCanada/comments/10lythh/flowchart_should_i_invest_in_an_rrsp_or_tfsa/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+- [https://i.imgur.com/H2F3f78.png ](https://i.imgur.com/H2F3f78.png )
+
+The High Five Banking Method
+- See [here](02f_FinancialLiteracy_Banking.md) for more details on how to structure your bank accounts.
+
+
 ## References
 
 - [https://thepoisedlifestyle.com/the-high-5-banking-method ](https://thepoisedlifestyle.com/the-high-5-banking-method )
@@ -203,6 +216,7 @@ Strike the balance that is good for you.
 - [MoneySense.ca: The best banks in Canada](https://www.moneysense.ca/save/banking/the-best-banks-in-canada/)
 - [MoneySense.ca: The best chequing accounts in Canada](https://www.moneysense.ca/save/best-chequing-account-canada/)
 - [MoneySense.ca: The best high-interest savings accounts in Canada](https://www.moneysense.ca/save/best-high-interest-savings-accounts-canada/)
+- [Old Flow Chart](../assets/images/02a_FinancialLiteracy_YourFinancialJourney_Flowchart.jpg)
 
 ## Version History
 

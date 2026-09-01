@@ -4,14 +4,12 @@ title: Wealth Accumulation
 parent: Financial Literacy
 nav_order: 1
 has_children: false
-last_updated_at: Sat 22-Aug-2026 afternoon
+last_updated_at: Mon 31-Aug-2026 evening
 ---
 
 
 # Stage 01: Wealth Accumulation
 ---
-
-Some ideas to guide, navigate and support the accumulation of wealth.
 
 - Table of Contents
 {:toc}
@@ -19,135 +17,50 @@ Some ideas to guide, navigate and support the accumulation of wealth.
 Last updated: {{ page.last_updated_at }}
 
 
+# Motivation
 
-# Executive Summary
+Your financial journey consists of three stages.
 
-We Will End Up With
-- A financial flowchart
-- A Do-It-Yourself (DIY) / self-directed online brokerage
-- Accounts that we need (TFSA, RRSP, RESP, etc.) in the online brokerage
-- Purchase low cost, broadly diversified index funds in the above created accounts
-- Purchase new funds every pay cheque
-- A buy and hold attitude to the funds - we are not going to actively manage them
-- DRIP enabled funds so that we get compounding
-- We will rebalance once or twice a year if/as needed
+|                   Stage                   | Name                                                                         | Description                                                                                                                                                                                                               |
+| :---------------------------------------: | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <span style="font-size: 1.5em;">01</span> | Wealth Accumulation                                                          | How do you accumulate wealth through out your earning years.<br>How do you get to the point of [financial independence](./02h_FinancialLiteracy_LevelsOfFinancialIndependence.md) sooner rather than later.<br>This page. |
+| <span style="font-size: 1.5em;">02</span> | [Wealth Preservation](./02b_FinancialLiteracy_Stage02_WealthPreservation.md) | How do you decumulate your wealth after you stop earning.<br>So that your accumulated wealth lasts as long as possible to give you the best life possible.                                                                |
+| <span style="font-size: 1.5em;">03</span> | [Wealth Transfer](./02c_FinancialLiteracy_Stage03_WealthTransfer.md)         | How do you transfer your wealth to your beneficiaries upon your death in the most efficient manner.                                                                                                                       |
 
 
-# Starting Early
+# The Process
 
-See [here](02i_FinancialLiteracy_StartingEarly.md)
+The process to accumulate wealth is fairly straight forward for most people that have a job that provides them an income.
 
+These pages are not discussing business ownership, entrepreneurship, etc.
 
-# Goal
-- Earning income
-- Grow your portfolio to become financially independent
-- Make informed decisions
-- Enjoy life
-
-# Considerations
-- Planning
-- Budgeting
-- [Bank Account Management](02f_FinancialLiteracy_Banking.md)
-- [Emergency Fund](#emergency-fund)
-- Employer RRSP Matching
-- Employer Stock Purchase Plan
-- Index Investing
-- [Asset Allocation](#asset-allocation)
-- [TFSA and RRSP](#tfsa-and-rrsp)
-- [RESP](#resp)
-- Home Ownership
-
-# Flowchart
-
-[Flow chart](../assets/images/02a_FinancialLiteracy_YourFinancialJourney_Flowchart.jpg)
-
-``` mermaid
-	flowchart LR
-		PayCheque["Paycheque<br>Assume 2x a month"] --> CompanyRRSP["Company Matching RRSP<br>(take full advantage of this to the maximum what they will match, but no more)"]
-		PayCheque --> CompanyStock["Company Stock Purchase Plan, etc.<br>(maximize the free money from your company)"]
-		PayCheque --> BankAccount["Bank Account<br>(drop your paycheque here and then automate it out; see High Five)"]
-		BankAccount --> PayDebt["PayOff Debt"]
-		BankAccount --> EmergencyFund["Emergency Fund<br>(build to 6 months of expenses here)"]
-		BankAccount --> LifeStyle["Life Style"]
-		BankAccount --> TFSA["TFSA"]
-		BankAccount --> RRSP["RRSP"]
-		BankAccount --> Savings["Short and Long Term<br> Savings"]
-		Plan["Plan<br>(create a plan for your savings and retirement goals)"]
-		Budget["Budget<br>(determine how much your monthly / annual expenses are)"]
-```
-
-
-## Some Other Flow Charts to Review
-
-Reddit Personal Finance Canada
-- [https://www.reddit.com/r/PersonalFinanceCanada/wiki/money-steps/](https://www.reddit.com/r/PersonalFinanceCanada/wiki/money-steps/)
-
-Another flowchart
-- [https://www.reddit.com/r/PersonalFinanceCanada/comments/10lythh/flowchart_should_i_invest_in_an_rrsp_or_tfsa/?utm_source=share&utm_medium=ios_app&utm_name=iossmf](https://www.reddit.com/r/PersonalFinanceCanada/comments/10lythh/flowchart_should_i_invest_in_an_rrsp_or_tfsa/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-- [https://i.imgur.com/H2F3f78.png ](https://i.imgur.com/H2F3f78.png )
-
-The High Five Banking Method
-- See [here](02f_FinancialLiteracy_Banking.md) for more details on how to structure your bank accounts.
-
-
-# Plan
-
-See [here](./02d_FinancialLiteracy_Planning.md)
-
-
-# Budget
-
-See [here](./02e_FinancialLiteracy_Budgeting.md)
-
-
-# Paycheque
-
-See [here](02f_FinancialLiteracy_Banking.md)
-
-
-# Savings Goals
-
-|                    | Description                                                                                                                                                  |
-| -----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|    **Payoff Debt** | Pay off any debt that you may have                                                                                                                           |
-| **Emergency Fund** | Build your emergency fund until you have a few months of emergency cash.<br>If you have TFSA room, use your TFSA to hold your emergency fund to avoid taxes. |
-|           **TFSA** | If you are making less than $50K per year, maximize your TFSA first                                                                                          |
-|           **RRSP** | Maximize your RRSP next                                                                                                                                      |
-|  **Extra Savings** | Save for any other things that you may want – vacations, cars, etc.                                                                                          |
-
-TODO: Add in FHSA and saving in your TFSA during the year and transfer to other by year end.
-
-# Emergency Fund
-
-See [here](02g_FinancialLiteracy_EmergencyFund.md)
-
-
-# Investing
-
-See [here](02j_FinancialLiteracy_Investing.md)
-
-
-
+For the person earning a paycheque the process is simple:
+- Determine your [plan](./02d_FinancialLiteracy_Planning.md).
+- Determine your [budget](./02e_FinancialLiteracy_Budgeting.md).
+- Figure out your [banking](./02f_FinancialLiteracy_Banking.md).
+- Make sure that you have an [emergency fund](./02g_FinancialLiteracy_EmergencyFund.md).
+- Understand what [financial independence](./02h_FinancialLiteracy_LevelsOfFinancialIndependence.md) means.
+- Make sure that you [start early](./02i_FinancialLiteracy_StartingEarly.md).
+- [Invest](./02j_FinancialLiteracy_Investing.md).
+- Learn
+	- [Podcasts](./02n_FinancialLiteracy_Podcasts.md)
+	- [Books](./02o_FinancialLiteracy_Books.md)
+	- [More info](./02p_FinancialLiteracy_MoreInfo.md)
+- Revisit your plans and process occasionally (e.g. once or twice a year or upon significant life change).
 
 
 # Appendix
 
 ## Version History
 
-|                                           | Date            | Notes                                       |
-| :---------------------------------------: | --------------- | ------------------------------------------- |
-| <span style="font-size: 1.5em;">01</span> | Mon 30-Jan-2022 | Initial version                             |
-| <span style="font-size: 1.5em;">02</span> | Mon 13-Mar-2023 | Second version                              |
-| <span style="font-size: 1.5em;">03</span> | Fri 30-Jun-2023 | Third version                               |
-| <span style="font-size: 1.5em;">04</span> | Thu 14-Mar-2024 | General cleanup                             |
-| <span style="font-size: 1.5em;">05</span> | Sun 9-Aug-2026  | Convert to markdown                         |
-| <span style="font-size: 1.5em;">06</span> | Sat 22-Aug-2026 | Moved content from this page to other pages |
-| <span style="font-size: 1.5em;">07</span> | Sat 29-Aug-2026 | Moved content from this page to other pages |
+|                                           | Date            | Notes                                            |
+| :---------------------------------------: | --------------- | ------------------------------------------------ |
+| <span style="font-size: 1.5em;">01</span> | Mon 30-Jan-2022 | Initial version                                  |
+| <span style="font-size: 1.5em;">02</span> | Mon 13-Mar-2023 | Second version                                   |
+| <span style="font-size: 1.5em;">03</span> | Fri 30-Jun-2023 | Third version                                    |
+| <span style="font-size: 1.5em;">04</span> | Thu 14-Mar-2024 | General cleanup                                  |
+| <span style="font-size: 1.5em;">05</span> | Sun 9-Aug-2026  | Convert to markdown                              |
+| <span style="font-size: 1.5em;">06</span> | Sat 22-Aug-2026 | Moved content from this page to other pages      |
+| <span style="font-size: 1.5em;">07</span> | Sat 29-Aug-2026 | Moved content from this page to other pages      |
+| <span style="font-size: 1.5em;">08</span> | Mon 31-Aug-2026 | Cleaned out and made this page just a top level. |
 
-
-
-
-
-# TODO / Pending
-
-TODO: Add in FHSA
