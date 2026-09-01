@@ -108,11 +108,11 @@ Canadians have a large number of account types to choose from:
 - Banking ([MoneySense.ca](https://www.moneysense.ca/save/banking/the-best-banks-in-canada/))
 	- Chequing
 	- Savings
-	- Hybris of Chequing and Savings
-- TFSA ([Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account.html))
-- RRSP ([Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/registered-retirement-savings-plan-rrsp.html))
-- FHSA ([Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account.html))
-- RESP ([Canada.ca](https://www.canada.ca/en/services/benefits/education/education-savings.html))
+	- Hybrid of Chequing and Savings
+- [TFSA](./02k_FinancialLiteracy_TFSAandRRSP.md) ([Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account.html))
+- [RRSP](./02k_FinancialLiteracy_TFSAandRRSP.md) ([Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/registered-retirement-savings-plan-rrsp.html))
+- [FHSA](./02l_FinancialLiteracy_FHSA.md) ([Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account.html))
+- [RESP](./02m_FinancialLiteracy_RESP.md) ([Canada.ca](https://www.canada.ca/en/services/benefits/education/education-savings.html))
 
 Some of the above listed "bank" accounts could (and should) be multiple forms.
 
