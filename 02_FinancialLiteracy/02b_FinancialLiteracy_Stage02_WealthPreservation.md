@@ -107,6 +107,7 @@ Three Bucket Strategy
 
 
 TODO
-
-https://goretire.ca/
-https://adviice.ca/
+- https://goretire.ca/
+- https://adviice.ca/
+- https://mayretire.com/
+- https://www.optiml.ca/
