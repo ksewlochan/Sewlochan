@@ -16,7 +16,7 @@ last_updated_at: Sat 5-Sep-2026 evening
 - Basic viewer (can view but not edit) so a great quick view
 	- Windows: [https://apps.microsoft.com/detail/9n6pkz6fp1ml?hl=en-GB&gl=CA](https://apps.microsoft.com/detail/9n6pkz6fp1ml?hl=en-GB&gl=CA)
 	- MAC: Don't know but here is one available in the app store on a Mac.
-		- https://macmdviewer.com/blog/markdown-viewer-macos
+		- [https://macmdviewer.com/blog/markdown-viewer-macos](https://macmdviewer.com/blog/markdown-viewer-macos)
 - If you want to edit then you need to look at [Obsidian](#obsidian).
 
 ## Mermaid
