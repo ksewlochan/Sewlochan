@@ -11,8 +11,12 @@ views:
       - last_updated_at
       - parent
       - title
+      - nav_order
     sort:
       - property: file.name
         direction: ASC
       - property: last_updated_at
         direction: DESC
+    columnSize:
+      note.title: 178
+      note.nav_order: 62
