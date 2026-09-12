@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Web Sites
+title: Domains
 parent: About
 nav_order: 2
 has_children: false
-last_updated_at: Wed 26-Aug-2026 morning
+last_updated_at: Sat 12-Sep-2026 evening
 ---
 
 
-# Web Sites
+# Domains
 ---
 
 The following web sites are pointed here:
