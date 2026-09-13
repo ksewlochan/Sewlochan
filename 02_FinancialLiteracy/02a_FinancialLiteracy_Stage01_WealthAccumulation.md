@@ -45,7 +45,7 @@ For the person earning a paycheque the process is simple:
 - Learn
 	- [Podcasts](./02n_FinancialLiteracy_Podcasts.md)
 	- [Books](./02o_FinancialLiteracy_Books.md)
-	- [More info](./02p_FinancialLiteracy_MoreInfo.md)
+	- [More info](02q_FinancialLiteracy_MoreInfo.md)
 - Revisit your plans and process occasionally (e.g. once or twice a year or upon significant life change).
 
 
