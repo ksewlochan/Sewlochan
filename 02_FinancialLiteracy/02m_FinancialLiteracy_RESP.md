@@ -64,6 +64,9 @@ More information can be found here:
 
 # Appendix
 
+## References
+- [https://www.canada.ca/en/services/benefits/education/education-savings.html](https://www.canada.ca/en/services/benefits/education/education-savings.html)
+
 ## Version History
 
 |                                           | Date            | Notes                                       |
