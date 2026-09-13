@@ -31,6 +31,7 @@ Some popular funds.
 
 (VEQT) Vanguard All-Equity ETF Portfolio
 - [https://www.vanguard.ca/en/product/etf/asset-allocation/9692/vanguard-all-equity-etf-portfolio](https://www.vanguard.ca/en/product/etf/asset-allocation/9692/vanguard-all-equity-etf-portfolio)
+- [https://buyveqt.ca/](https://buyveqt.ca/)
 
 (VBAL) Vanguard Balanced ETF Portfolio
 - [https://www.vanguard.ca/en/product/etf/asset-allocation/9578/vanguard-balanced-etf-portfolio](https://www.vanguard.ca/en/product/etf/asset-allocation/9578/vanguard-balanced-etf-portfolio)
