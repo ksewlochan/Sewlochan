@@ -155,6 +155,6 @@ Wealth Dashboard
 
 ## Version History
 
-|                                           | Date            | Notes               |
-| :---------------------------------------: | --------------- | ------------------- |
-| <span style="font-size: 1.5em;">01</span> | Wed 12-Aug-2026 | Initial version     |
+|                                           | Date            | Notes           |
+| :---------------------------------------: | --------------- | --------------- |
+| <span style="font-size: 1.5em;">01</span> | Sat 12-Sep-2026 | Initial version |
