@@ -21,23 +21,31 @@ Last updated: {{ page.last_updated_at }}
 
 # Funds
 
-Some popular funds:
+## VEQT
+- [https://www.vanguard.ca/en/product/etf/asset-allocation/9692/vanguard-all-equity-etf-portfolio](https://www.vanguard.ca/en/product/etf/asset-allocation/9692/vanguard-all-equity-etf-portfolio)
 
-|       | Link(s)                                                                                                                                                                                                            |
-| ----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| VEQT: | [https://www.vanguard.ca/en/product/etf/asset-allocation/9692/vanguard-all-equity-etf-portfolio](https://www.vanguard.ca/en/product/etf/asset-allocation/9692/vanguard-all-equity-etf-portfolio)                   |
-| VBAL: | [https://www.vanguard.ca/en/product/etf/asset-allocation/9578/vanguard-balanced-etf-portfolio](https://www.vanguard.ca/en/product/etf/asset-allocation/9578/vanguard-balanced-etf-portfolio)                       |
-|  VDY: | [https://www.vanguard.ca/en/product/etf/equity/9560/vanguard-ftse-canadian-high-dividend-yield-index-etf](https://www.vanguard.ca/en/product/etf/equity/9560/vanguard-ftse-canadian-high-dividend-yield-index-etf) |
-|       |                                                                                                                                                                                                                    |
-|  TDB: | [https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6900](https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6900)                                         |
-|  TTP: | [https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6901](https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6901)                                         |
-|  TPU: | [https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6902](https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6902)                                         |
-|  TPE: | [https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6904](https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6904)                                         |
-|       |                                                                                                                                                                                                                    |
-|       |                                                                                                                                                                                                                    |
-|       |                                                                                                                                                                                                                    |
-|       |                                                                                                                                                                                                                    |
-|       |                                                                                                                                                                                                                    |
+## VBAL
+- [https://www.vanguard.ca/en/product/etf/asset-allocation/9578/vanguard-balanced-etf-portfolio](https://www.vanguard.ca/en/product/etf/asset-allocation/9578/vanguard-balanced-etf-portfolio)
+
+## VDY
+- [https://www.vanguard.ca/en/product/etf/equity/9560/vanguard-ftse-canadian-high-dividend-yield-index-etf](https://www.vanguard.ca/en/product/etf/equity/9560/vanguard-ftse-canadian-high-dividend-yield-index-etf)
+
+
+|       | Link(s)                                                                                                                                                                    |
+| ----: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| VEQT: |                                                                                                                                                                            |
+| VBAL: |                                                                                                                                                                            |
+|  VDY: |                                                                                                                                                                            |
+|       |                                                                                                                                                                            |
+|  TDB: | [https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6900](https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6900) |
+|  TTP: | [https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6901](https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6901) |
+|  TPU: | [https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6902](https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6902) |
+|  TPE: | [https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6904](https://www.td.com/ca/en/asset-management/funds/solutions/etfs/fundcard?fundId=6904) |
+|       |                                                                                                                                                                            |
+|       |                                                                                                                                                                            |
+|       |                                                                                                                                                                            |
+|       |                                                                                                                                                                            |
+|       |                                                                                                                                                                            |
 
 
 
