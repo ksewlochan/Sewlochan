@@ -19,6 +19,12 @@ Some good web sites to help you on your financial journey.
 Last updated: {{ page.last_updated_at }}
 
 
+# Disclaimer
+- The below are public websites.
+- Do NOT NOT NOT take any risk.
+- If it at all looks suspicious, do not click on links.
+- There is no warranty expressed here that these sites are safe.
+
 # Funds
 
 Some popular funds.
@@ -62,6 +68,49 @@ MSN
 Google Finance
 - [https://www.google.com/finance/beta/portfolio](https://www.google.com/finance/beta/portfolio)
 
+ETF Comparison
+- [https://money.tmx.com/etf-comparison](https://money.tmx.com/etf-comparison)
+
+Portfolio Visualizer
+- [https://www.portfoliovisualizer.com/](https://www.portfoliovisualizer.com/)
+
+# Calculators
+
+Get Smarter About Money
+- [https://www.getsmarteraboutmoney.ca/](https://www.getsmarteraboutmoney.ca/)
+
+Engaging Data: FIRE Calculato
+- [https://engaging-data.com/fire-calculator/](https://engaging-data.com/fire-calculator/)
+
+FI Calc
+- [https://ficalc.app/](https://ficalc.app/)
+
+cFIREsim
+- [https://cfiresim.com/](https://cfiresim.com/)
+
+Networthify
+- [https://networthify.com/](https://networthify.com/)
+
+The Flexible Retirement Planner
+- [https://www.flexibleretirementplanner.com/wp/download/](https://www.flexibleretirementplanner.com/wp/download/)
+
+Calculator.net
+- [https://www.calculator.net/investment-calculator.html](https://www.calculator.net/investment-calculator.html)
+
+T-Rex Score
+- [https://larrybates.ca/t-rex-score/](https://larrybates.ca/t-rex-score/)
+
+Vanguard Retirement Income Calculator
+- [https://investor.vanguard.com/tools-calculators/retirement-income-calculator](https://investor.vanguard.com/tools-calculators/retirement-income-calculator)
+
+Backtest Portfolio Asset Allocation
+- [https://www.portfoliovisualizer.com/backtest-portfolio](https://www.portfoliovisualizer.com/backtest-portfolio)
+
+MER Calculator
+- [https://learningtofi.com/mer-fee-calculator/](https://learningtofi.com/mer-fee-calculator/)
+
+PWL Calculators
+- [https://research-tools.pwlcapital.com/](https://research-tools.pwlcapital.com/)
 
 # Taxes
 
@@ -70,6 +119,9 @@ WealthSimple 2026 Canada Income Tax Calculator
 
 TaxTips
 - [https://www.taxtips.ca/](https://www.taxtips.ca/)
+
+EY Tax Calculators
+- [https://www.ey.com/en_ca/services/tax/tax-calculators](https://www.ey.com/en_ca/services/tax/tax-calculators)
 
 
 # Misc
@@ -88,12 +140,10 @@ Government of Canada Census
 
 The John C. Bogle Centre for Financial Literacy
 - [https://boglecenter.net/](https://boglecenter.net/)
+- [https://www.bogleheads.org/wiki/Retiree_Portfolio_Model](https://www.bogleheads.org/wiki/Retiree_Portfolio_Model)
 
 Nerd Wallet
 - [https://www.nerdwallet.com/ca](https://www.nerdwallet.com/ca)
-
-Get Smarter About Money
-- [https://www.getsmarteraboutmoney.ca/](https://www.getsmarteraboutmoney.ca/)
 
 Wealth Dashboard
 - [https://wealthdashboard.ca/](https://wealthdashboard.ca/)
