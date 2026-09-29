@@ -44,12 +44,12 @@ While the pyramid structure organizes your arguments logically from top to botto
 
 Barbara Minto noted that you don't always have to present SCQA in a strict linear order. Depending on what your audience already knows, you can mix up the sequence to create different psychological effects:
 
-| **Archetype**                                    | **Best Used When...**                                                                                                           |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| **Standard**<br><br>S > C > Q > A                | The reader doesn't know the problem well;.<br>You need to walk them through the context step-by-step.                           |
-| **Stirring**<br><br>C > S > Q > A                | You need to grab attention immediately with a crisis or shocking change before explaining the baseline.                         |
-| **Beating Around the Bush**<br><br>Q > S > C > A | The reader already knows the situation and complication, but you want to remind them of the core question first.                |
-| **Direct**<br><br>A > S > C > Q                  | Executives are in a massive rush.<br>You give the answer first, then provide the narrative backstory to prove why you're right. |
+| **Archetype**                                                                       | **Best Used When...**                                                                                                           |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| <span style="font-size: 1.5em;">Standard</span><br><br>S > C > Q > A                | The reader doesn't know the problem well;.<br>You need to walk them through the context step-by-step.                           |
+| <span style="font-size: 1.5em;">Stirring</span><br><br>C > S > Q > A                | You need to grab attention immediately with a crisis or shocking change before explaining the baseline.                         |
+| <span style="font-size: 1.5em;">Beating Around the Bush</span><br><br>Q > S > C > A | The reader already knows the situation and complication, but you want to remind them of the core question first.                |
+| <span style="font-size: 1.5em;">Direct</span><br><br>A > S > C > Q                  | Executives are in a massive rush.<br>You give the answer first, then provide the narrative backstory to prove why you're right. |
 
 
 # MECE Framework
