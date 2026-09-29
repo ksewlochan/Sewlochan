@@ -171,26 +171,30 @@ Data / Fact
 
 If you have something written down and you want AI to clean it up to follow the above consider this prompt
 
-> **Act as a master executive communications expert** trained in the Minto Pyramid Principle and MECE frameworks. 
-> 
-> Please take the text/notes provided below and rewrite them following this exact structure:
-> 
-> **1. THE SCQA HOOK:**
-> * **Situation:** The uncontroversial baseline context.
-> * **Complication:** The problem or changing dynamic driving urgency.
-> * **Question:** The core problem to be solved.
-> * **Answer:** Your Governing Thought / primary conclusion immediately.
-> 
-> **2. THE MINTO PYRAMID (SUPPORTING PILLARS):**
-> * Break down the core arguments into 2 to 4 Mutually Exclusive, Collectively Exhaustive (MECE) pillars. Ensure there are no overlaps and they cover the entire scope.
-> * Under each pillar, organize supporting evidence, facts, and context cleanly.
-> 
-> **3. EDITORIAL REVIEW:**
-> * Strip away fluff, redundancies, and non-essential filler.
-> * Provide a brief bulleted list pointing out any critical data, facts, or logical context missing from my original text that would weaken the argument.
-> ---
-> **Here is the text to rewrite:**
-> [INSERT YOUR TEXT OR NOTES HERE]
+---
+
+**Act as a master executive communications expert** trained in the Minto Pyramid Principle and MECE frameworks. 
+
+Please take the text/notes provided below and rewrite them following this exact structure:
+
+**1. THE SCQA HOOK:**
+- **Situation:** The uncontroversial baseline context.
+- **Complication:** The problem or changing dynamic driving urgency.
+- **Question:** The core problem to be solved.
+- **Answer:** Your Governing Thought / primary conclusion immediately.
+
+**2. THE MINTO PYRAMID (SUPPORTING PILLARS):**
+- Break down the core arguments into 2 to 4 Mutually Exclusive, Collectively Exhaustive (MECE) pillars. Ensure there are no overlaps and they cover the entire scope.
+- Under each pillar, organize supporting evidence, facts, and context cleanly.
+
+**3. EDITORIAL REVIEW:**
+- Strip away fluff, redundancies, and non-essential filler.
+- Provide a brief bulleted list pointing out any critical data, facts, or logical context missing from my original text that would weaken the argument.
+
+**Here is the text to rewrite:**
+INSERT YOUR TEXT OR NOTES HERE
+
+---
 
 
 # The Words
