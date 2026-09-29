@@ -157,7 +157,7 @@ Data / Fact
 - - The MECE Framework should be used to create the various Data / Facts.
 
 
-### AI Prompt
+## AI Prompt
 
 If you have something written down and you want AI to clean it up to follow the above consider this prompt
 
