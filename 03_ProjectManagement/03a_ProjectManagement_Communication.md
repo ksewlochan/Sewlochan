@@ -4,7 +4,7 @@ title: Communication
 parent: Project Management
 nav_order: 1
 has_children: false
-last_updated_at: Mon 10-Aug-2026 noon
+last_updated_at: Mon 28-Sep-2026 evening
 ---
 
 # Communication
@@ -29,15 +29,67 @@ Communication comes down to three things
 
 ## The Message
 
-Central Message
-- Supporting Point 1
-	- Minor Point 1
-	- Minor Point 2
-	- Minor Point 3
-- Supporting Point 2
-- Supporting Point 3
-- Supporting Point 4 (Maybe)
-- Supporting Point 4 (Maybe)
+
+``` mermaid
+	flowchart TD
+    %% Levels of the Minto Pyramid
+    A["Governing Thought<br><i>(The Main Answer / Recommendation)</i>"] 
+
+    %% Key Lines of Argument
+    B1["Key Argument 1"]
+    B2["Key Argument 2"]
+    B3["Key Argument 3"]
+
+    %% Supporting Evidence / Data
+    C1["Data /<br> Fact 1.1"]
+    C2["Data /<br> Fact 1.2"]
+    
+    C3["Data /<br> Fact 2.1"]
+    C4["Data /<br> Fact 2.2"]
+    
+    C5["Data /<br> Fact 3.1"]
+    C6["Data /<br> Fact 3.2"]
+
+    %% Connections
+    A --> B1
+    A --> B2
+    A --> B3
+
+    B1 --> C1
+    B1 --> C2
+
+    B2 --> C3
+    B2 --> C4
+
+    B3 --> C5
+    B3 --> C6
+
+    %% Styling for visual hierarchy
+    classDef topBox fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef middleBox fill:#bbf,stroke:#333,stroke-width:2px;
+    classDef bottomBox fill:#dfd,stroke:#333,stroke-width:2px;
+
+    class A topBox;
+    class B1,B2,B3 middleBox;
+    class C1,C2,C3,C4,C5,C6 bottomBox;
+```
+
+See
+- [Minto Pyramid Principle](https://untools.co/minto-pyramid/)
+
+
+Governing Thought (The Main Answer / Recommendation)
+- This is the main point that you are trying to communicate.
+- The conclusions or recommendations.
+
+Key Argument
+- The key arguments or points that support the Governing Thought
+- Three is a good number; Four is a good number
+- One is not; Eight is not
+
+Data / Fact
+- The information that supports the Key Argument
+
 
 ## The Words
 
@@ -102,7 +154,8 @@ Craft your medium to communicate your message and to not distract from your mess
 
 ## Version History
 
-|                                           | Date            | Notes                 |
-| :---------------------------------------: | --------------- | --------------------- |
-| <span style="font-size: 1.5em;">01</span> | Mon 1-Mar-2021  | Initial version       |
-| <span style="font-size: 1.5em;">02</span> | Mon 10-Aug-2026 | Converted to markdown |
+|                                           | Date            | Notes                                             |
+| :---------------------------------------: | --------------- | ------------------------------------------------- |
+| <span style="font-size: 1.5em;">01</span> | Mon 1-Mar-2021  | Initial version                                   |
+| <span style="font-size: 1.5em;">02</span> | Mon 10-Aug-2026 | Converted to markdown                             |
+| <span style="font-size: 1.5em;">03</span> | Mon 28-Sep-2026 | Added the call out to the Minto Pyramid Principle |
