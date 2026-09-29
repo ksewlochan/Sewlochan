@@ -44,12 +44,12 @@ While the pyramid structure organizes your arguments logically from top to botto
 
 Barbara Minto noted that you don't always have to present SCQA in a strict linear order. Depending on what your audience already knows, you can mix up the sequence to create different psychological effects:
 
-|**Archetype**|**Order**|**Best Used When...**|
-|---|---|---|
-|**Standard**|S $\rightarrow$ C $\rightarrow$ Q $\rightarrow$ A|The reader doesn't know the problem well; you need to walk them through the context step-by-step.|
-|**Stirring**|C $\rightarrow$ S $\rightarrow$ Q $\rightarrow$ A|You need to grab attention immediately with a crisis or shocking change before explaining the baseline.|
-|**Beating Around the Bush**|Q $\rightarrow$ S $\rightarrow$ C $\rightarrow$ A|The reader already knows the situation and complication, but you want to remind them of the core question first.|
-|**Direct**|A $\rightarrow$ S $\rightarrow$ C $\rightarrow$ Q|Executives are in a massive rush; you give the answer first, then provide the narrative backstory to prove why you're right.|
+| **Archetype**                                    | **Best Used When...**                                                                                                           |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Standard**<br><br>S > C > Q > A                | The reader doesn't know the problem well;.<br>You need to walk them through the context step-by-step.                           |
+| **Stirring**<br><br>C > S > Q > A                | You need to grab attention immediately with a crisis or shocking change before explaining the baseline.                         |
+| **Beating Around the Bush**<br><br>Q > S > C > A | The reader already knows the situation and complication, but you want to remind them of the core question first.                |
+| **Direct**<br><br>A > S > C > Q                  | Executives are in a massive rush.<br>You give the answer first, then provide the narrative backstory to prove why you're right. |
 
 
 # MECE Framework
