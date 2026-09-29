@@ -171,7 +171,6 @@ Data / Fact
 
 If you have something written down and you want AI to clean it up to follow the above consider this prompt
 
-> [!NOTE]
 > **Act as a master executive communications expert** trained in the Minto Pyramid Principle and MECE frameworks. 
 > 
 > Please take the text/notes provided below and rewrite them following this exact structure:
@@ -189,7 +188,6 @@ If you have something written down and you want AI to clean it up to follow the 
 > **3. EDITORIAL REVIEW:**
 > * Strip away fluff, redundancies, and non-essential filler.
 > * Provide a brief bulleted list pointing out any critical data, facts, or logical context missing from my original text that would weaken the argument.
-> 
 > ---
 > **Here is the text to rewrite:**
 > [INSERT YOUR TEXT OR NOTES HERE]
