@@ -60,20 +60,10 @@ Barbara Minto noted that you don't always have to present SCQA in a strict linea
 
 ## The Two Rules of MECE
 
-### 01 Mutually Exclusive (No Overlaps):
-- **What it means:**
-	- Each category is completely distinct from the others.
-	- There is no double-counting, repetition, or fuzzy boundaries.
-	- If you sort a piece of data, it should fit into _only one_ category.
-- _Example violation:_
-	- Categorizing expenses into "Marketing," "Advertising," and "Operations" fails because advertising is a subset of marketing.
-
-### Collectively Exhaustive (No Gaps):
-- **What it means:**
-	- When you put all the categories together, they cover the _entire_ universe of the problem.
-	- Nothing important is left out.
-- _Example violation:_
-	- Categorizing global sales into "North America" and "Europe" fails because it leaves out Asia, South America, and other regions.
+| Rule                                                                          | What It Is                                                                                                                                                                                             | Example Violation                                                                                                               |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| <span style="font-size: 1.5em;">01 Mutually Exclusive<br>(No Overlaps)</span> | Each category is completely distinct from the others.<br><br>There is no double-counting, repetition, or fuzzy boundaries.<br><br>If you sort a piece of data, it should fit into _only one_ category. | Categorizing expenses into "Marketing," "Advertising," and "Operations" fails because advertising is a subset of marketing.     |
+| <span style="font-size: 1.5em;">Collectively Exhaustive<br>(No Gaps)</span>   | When you put all the categories together, they cover the _entire_ universe of the problem.<br><br>Nothing important is left out.                                                                       | Categorizing global sales into "North America" and "Europe" fails because it leaves out Asia, South America, and other regions. |
 
 ## A Quick Example: Evaluating a Business Drop
 
